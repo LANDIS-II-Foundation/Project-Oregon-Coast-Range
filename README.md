@@ -21,10 +21,10 @@ Input files may not work with extension versions other than those listed above.
 In the Output folder:
 
 Summarized output by scenario in .csv (.zip if large) format are provided for:
- Century extension annual output (All_Century_carbon_data.csv)
- Century extension monthly output (All_century_carbon_monthly_data.csv)
- Dynamic fuels and fire extension (All_Fire_data.csv)
- Leaf Biomass Harvest (All_harvest_data.csv)
+* Century extension annual output (All_Century_carbon_data.csv)
+* Century extension monthly output (All_century_carbon_monthly_data.csv)
+* Dynamic fuels and fire extension (All_Fire_data.csv)
+* Leaf Biomass Harvest (All_harvest_data.csv)
 
 The metadata folder contains definitions for the output columns in each file.
 The Lookup_Scenarios file contains information about each of the scenarios.
