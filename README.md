@@ -8,13 +8,13 @@ All input files used in the study are listed here. To interpret input parameters
 on the LANDIS-II site: http://www.landis-ii.org
 
 Extensions used were:
- Century Succession (v4.0.1)
- Leaf Biomass Harvest (v2.1.1)
- Dynamic Fuels and Fire (v2.05)
- Leaf Biomass Fuels (v2.0)
- Leaf Biomass Output (v2.1)
- Cohort Statistics Output (v2.1.2)
- Biomass by Age Output (v2.0.2)
+* Century Succession (v4.0.1)
+* Leaf Biomass Harvest (v2.1.1)
+* Dynamic Fuels and Fire (v2.05)
+* Leaf Biomass Fuels (v2.0)
+* Leaf Biomass Output (v2.1)
+* Cohort Statistics Output (v2.1.2)
+* Biomass by Age Output (v2.0.2)
 
 Input files may not work with extension versions other than those listed above.
 
