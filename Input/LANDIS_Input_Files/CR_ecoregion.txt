@@ -1,0 +1,27 @@
+LandisData	"Ecoregions"		
+
+>> 		Map		
+>> 	Active	Code	Name		Description
+>>--------------------------------------------------------			
+	no	0	inactive	"inactive cells"
+	yes	1	eco1	"Low precipitation (91), AWC group 1 (>10)"
+	yes	2	eco2	"Low precipitation (91), AWC group 2 (13)"
+	yes	3	eco3	"Low precipitation (91), AWC group 3 (16)"
+	yes	4	eco4	"Low precipitation (91), AWC group 4 (19)"
+	yes	5	eco5	"Low precipitation (91), AWC group 5 (22)"
+	yes	6	eco6	"Low precipitation (91), AWC group 6 (26)"
+	yes	7	eco7	"Low precipitation (91), AWC group 7 (44)"
+	yes	8	eco8	"Mid precipitation (172), AWC group 1 (>10)"
+	yes	9	eco9	"Mid precipitation (172), AWC group 2 (13)"
+	yes	10	eco10	"Mid precipitation (172), AWC group 3 (16)"
+	yes	11	eco11	"Mid precipitation (172), AWC group 4 (19)"
+	yes	12	eco12	"Mid precipitation (172), AWC group 5 (22)"
+	yes	13	eco13	"Mid precipitation (172), AWC group 6 (26)"
+	yes	14	eco14	"Mid precipitation (172), AWC group 7 (44)"
+	yes	15	eco15	"High precipitation (272), AWC group 1 (>10)"
+	yes	16	eco16	"High precipitation (272), AWC group 2 (13)"
+	yes	17	eco17	"High precipitation (272), AWC group 3 (16)"
+	yes	18	eco18	"High precipitation (272), AWC group 4 (19)"
+	yes	19	eco19	"High precipitation (272), AWC group 5 (22)"
+	yes	20	eco20	"High precipitation (272), AWC group 6 (26)"
+	yes	21	eco21	"High precipitation (272), AWC group 7 (44)"

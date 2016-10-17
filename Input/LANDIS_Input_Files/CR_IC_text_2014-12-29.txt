@@ -1,0 +1,9016 @@
+LandisData "Initial Communities"
+MapCode 0 << bounding rectangle and inactive cells within landscape
+MapCode 1 << potential forest with no trees in current map (i.e., NoTaly plots)
+
+MapCode 10
+PseuMenz 30 40
+
+MapCode 11
+AcerMacr 30 40 150
+AlnuRubr 40 80
+PseuMenz 40 60
+
+MapCode 12
+PseuMenz 30 40 50
+
+MapCode 14
+AcerMacr 20 30 60
+PseuMenz 30 40 110
+QuerGarr 30 40
+
+MapCode 15
+AlnuRubr 20 30
+PseuMenz 20 30 40
+
+MapCode 16
+AbieGran 50
+AcerMacr 10
+PseuMenz 10
+
+MapCode 17
+AbieGran 10
+AcerMacr 20 40
+PseuMenz 50
+QuerGarr 30 40 50 60 70 80
+
+MapCode 18
+ChryChry 50
+PseuMenz 40 50 60
+
+MapCode 19
+AcerMacr 50 60
+AlnuRubr 20 30 50 60
+PseuMenz 20 40 70
+
+MapCode 20
+AcerMacr 60 70 80
+ChryChry 40
+PseuMenz 20
+
+MapCode 21
+PseuMenz 90
+QuerGarr 20 30 40 60
+
+MapCode 22
+AlnuRubr 20
+PiceSitc 20 30 60
+PseuMenz 20
+ThujPlic 50
+TsugHete 10 20 30
+
+MapCode 23
+PseuMenz 20 90
+TsugHete 20
+
+MapCode 24
+PseuMenz 10
+
+MapCode 25
+AlnuRubr 20
+PiceSitc 30
+TsugHete 30 40
+
+MapCode 26
+PiceSitc 40 50
+PinuCont 30 40 50
+
+MapCode 27
+AlnuRubr 10 20
+TsugHete 20 30
+
+MapCode 28
+PseuMenz 10 20
+
+MapCode 29
+PiceSitc 30 40
+
+MapCode 30
+PseuMenz 40 60
+TsugHete 40 50 60
+
+MapCode 31
+PiceSitc 20
+PseuMenz 20
+TsugHete 10 20 30
+
+MapCode 32
+AlnuRubr 10 20
+PiceSitc 10
+TsugHete 20 30
+
+MapCode 34
+PiceSitc 30
+PseuMenz 30 40
+TsugHete 20 30
+
+MapCode 36
+PiceSitc 30
+TsugHete 20 30 40 50 80
+
+MapCode 37
+AlnuRubr 10
+TsugHete 10
+
+MapCode 38
+AlnuRubr 20 50 60
+PiceSitc 20
+PseuMenz 30 40 50 60 70
+TsugHete 40 50 60
+
+MapCode 39
+AlnuRubr 20
+PseuMenz 60 70
+
+MapCode 40
+AcerMacr 60 70 90
+AlnuRubr 20 30 40 60
+PiceSitc 90
+PseuMenz 90
+TsugHete 70
+
+MapCode 41
+AbieProc 20
+TsugHete 20
+
+MapCode 42
+AlnuRubr 20 30 40
+PiceSitc 10 30
+PseuMenz 30 40
+TsugHete 30 40
+
+MapCode 43
+AlnuRubr 40
+PiceSitc 40 50
+TsugHete 40 50
+
+MapCode 44
+PiceSitc 20
+TsugHete 20
+
+MapCode 45
+PiceSitc 40 50
+TsugHete 40 50
+
+MapCode 46
+AlnuRubr 10
+PiceSitc 20 30
+PseuMenz 20 30
+TsugHete 20 30 40
+
+MapCode 47
+PseuMenz 30 40
+TsugHete 30 40
+
+MapCode 48
+AlnuRubr 50
+PseuMenz 50 60
+ThujPlic 60
+TsugHete 40 50 60
+
+MapCode 49
+AcerMacr 80 90 130 140
+AlnuRubr 30 50 70 80 90
+ThujPlic 60 140
+
+MapCode 50
+PiceSitc 10 20
+PseuMenz 10 20
+TsugHete 10 20
+
+MapCode 52
+AbieProc 30
+PiceSitc 40 50
+ThujPlic 70
+TsugHete 20 30 40 50
+
+MapCode 53
+AlnuRubr 20
+PiceSitc 30 40
+ThujPlic 10 30 40 50
+TsugHete 30 40 50 60 80 100
+
+MapCode 54
+AlnuRubr 20
+PiceSitc 20 30
+PseuMenz 30 40
+ThujPlic 10 20 30
+TsugHete 20 30 40 60
+
+MapCode 55
+AlnuRubr 20 30 40 50
+TsugHete 30 40 50 60 70 80 100
+
+MapCode 57
+AlnuRubr 40
+PseuMenz 50 60
+TsugHete 30 40 50 60
+
+MapCode 58
+PseuMenz 40 50 60
+
+MapCode 59
+PseuMenz 10 20
+TsugHete 10
+
+MapCode 61
+AlnuRubr 20
+PseuMenz 20 30
+TsugHete 20 30
+
+MapCode 62
+PseuMenz 20
+
+MapCode 63
+AlnuRubr 30
+PseuMenz 30 40
+ThujPlic 30 40
+TsugHete 30
+
+MapCode 64
+AlnuRubr 10 20
+PseuMenz 20 30
+TsugHete 20 30 40
+
+MapCode 66
+AcerMacr 90
+AlnuRubr 20 30
+PseuMenz 40 100
+ThujPlic 50 60
+TsugHete 60
+
+MapCode 67
+AcerMacr 40 50
+PseuMenz 50 60
+TsugHete 60
+
+MapCode 68
+AcerMacr 10
+
+MapCode 69
+AbieGran 30
+AcerMacr 20 30 40 50
+AlnuRubr 20 40
+PseuMenz 30
+ThujPlic 30 210
+
+MapCode 70
+AlnuRubr 10
+PseuMenz 10
+
+MapCode 71
+AlnuRubr 40 60
+PseuMenz 60 70 80
+TsugHete 20 70
+
+MapCode 72
+PseuMenz 10
+
+MapCode 73
+AcerMacr 50
+AlnuRubr 40 50
+PseuMenz 40 50 60
+ThujPlic 60
+TsugHete 50 60
+
+MapCode 74
+PseuMenz 10 20
+
+MapCode 75
+PseuMenz 40 50 60
+
+MapCode 76
+PseuMenz 40 50 60
+
+MapCode 77
+PseuMenz 50 60
+
+MapCode 78
+PseuMenz 10 20
+
+MapCode 79
+AlnuRubr 40 60
+PseuMenz 50 60 70
+
+MapCode 80
+AlnuRubr 30
+PseuMenz 20 100
+
+MapCode 81
+PseuMenz 20 30
+
+MapCode 82
+PseuMenz 10
+
+MapCode 83
+AlnuRubr 20
+PseuMenz 50 60
+ThujPlic 90
+TsugHete 50 60
+
+MapCode 84
+AcerMacr 60
+AlnuRubr 60
+PseuMenz 60 70 100
+ThujPlic 70
+TsugHete 60 70 80
+
+MapCode 85
+AlnuRubr 20
+PseuMenz 20 30 60
+ThujPlic 30 70
+TsugHete 30
+
+MapCode 86
+AlnuRubr 10
+PseuMenz 10
+
+MapCode 87
+AlnuRubr 20
+PseuMenz 60 80 90 100 110 120 140 170
+TsugHete 80
+
+MapCode 88
+PinuCont 10 20
+
+MapCode 90
+PseuMenz 60 70 80 90 100 110
+
+MapCode 91
+PseuMenz 90 110 120 130 140 170
+ThujPlic 70
+TsugHete 80 120
+
+MapCode 92
+AlnuRubr 10
+PseuMenz 20
+
+MapCode 93
+PinuCont 30 40 50 60 70 90
+
+MapCode 94
+AcerMacr 40
+AlnuRubr 30 40 50
+PseuMenz 40 50
+ThujPlic 70 90 110 150
+TsugHete 70 80
+
+MapCode 95
+ThujPlic 20
+
+MapCode 96
+AlnuRubr 20 30
+PseuMenz 20 30
+TsugHete 20
+
+MapCode 97
+PseuMenz 20 30
+
+MapCode 98
+PseuMenz 30
+TsugHete 30
+
+MapCode 99
+AcerMacr 30 40 60 70
+AlnuRubr 50 60 70
+PseuMenz 110 120 160 210
+ThujPlic 80 110 160
+TsugHete 110
+
+MapCode 100
+PseuMenz 30
+
+MapCode 101
+AlnuRubr 20 30 40
+PiceSitc 40
+PseuMenz 40 50 60
+
+MapCode 102
+AbieGran 90
+AcerMacr 30 100
+AlnuRubr 30
+CaloDecu 60 110
+PseuMenz 90
+
+MapCode 103
+PseuMenz 10
+
+MapCode 104
+AcerMacr 20 30 40 60 80 90
+AlnuRubr 10 20 30 40 50
+PseuMenz 50 60
+TsugHete 40
+
+MapCode 105
+PseuMenz 10 20 80
+
+MapCode 106
+CaloDecu 30
+ChryChry 10 20
+PseuMenz 20 30
+
+MapCode 107
+AlnuRubr 30
+
+MapCode 108
+AcerMacr 70
+AlnuRubr 10 80
+PseuMenz 10 80 100
+
+MapCode 109
+AlnuRubr 20 50
+ChamLaws 40 50
+PiceSitc 30 40 50
+PseuMenz 40 50
+TsugHete 60
+
+MapCode 110
+ChamLaws 60 70
+PiceSitc 50 60 70 80
+PseuMenz 10 50 60 70 80
+TsugHete 50 70
+
+MapCode 111
+ChamLaws 50
+PseuMenz 40 50 60 370
+
+MapCode 112
+AlnuRubr 30 40 50
+PseuMenz 30
+ThujPlic 50 60 190 210
+TsugHete 60
+
+MapCode 113
+AlnuRubr 30 40
+PseuMenz 50 60 310
+TsugHete 70
+
+MapCode 114
+AcerMacr 40
+AlnuRubr 30 40
+PseuMenz 40
+
+MapCode 115
+AcerMacr 10
+PseuMenz 10
+
+MapCode 117
+AlnuRubr 10
+ChamLaws 20
+PiceSitc 20 50
+PseuMenz 10 20
+TsugHete 10 20
+
+MapCode 118
+AlnuRubr 10
+PseuMenz 10 20
+
+MapCode 119
+AbieGran 50
+AlnuRubr 30 40
+ChamLaws 40
+PseuMenz 40 50 60
+
+MapCode 120
+ChamLaws 10 20 30 40 50 60
+PiceSitc 40
+PseuMenz 40
+
+MapCode 122
+AlnuRubr 10
+PseuMenz 20
+
+MapCode 123
+AbieGran 30 40
+AlnuRubr 10 20 30
+PseuMenz 30 40
+
+MapCode 124
+AlnuRubr 10
+PseuMenz 20 30 40
+
+MapCode 125
+AlnuRubr 10
+PseuMenz 10 20
+
+MapCode 126
+AbieGran 20 40 50
+AcerMacr 100
+AlnuRubr 20
+ChamLaws 70
+PseuMenz 20 30 40 50
+
+MapCode 127
+AlnuRubr 20
+LithDens 20
+PseuMenz 20 30 40
+
+MapCode 129
+AbieGran 50
+AcerMacr 50
+ChamLaws 50
+PseuMenz 10 20 50
+
+MapCode 130
+AcerMacr 30
+AlnuRubr 30 40
+ChamLaws 20 50 60
+LithDens 30
+PseuMenz 30 40 100
+TsugHete 50
+
+MapCode 131
+ChamLaws 10 20 30 40 50 100
+PseuMenz 10 20 30 40
+TsugHete 30 40
+
+MapCode 132
+ChamLaws 40
+ChryChry 30
+PseuMenz 30 40
+TsugHete 30 40
+
+MapCode 133
+AcerMacr 30 40
+AlnuRubr 30 40 50
+ChamLaws 80 90 110 120
+LithDens 20 30 40 50
+PseuMenz 20 30 40 70 80 110 120 130
+ThujPlic 40
+TsugHete 70
+
+MapCode 134
+QuerGarr 70
+
+MapCode 135
+AbieGran 50 60 70
+AcerMacr 60
+AlnuRubr 30 40 60
+ChamLaws 60
+LithDens 50
+
+MapCode 136
+AlnuRubr 20 30
+LithDens 20
+PseuMenz 20 30
+
+MapCode 137
+PseuMenz 20 30
+
+MapCode 138
+ChamLaws 20 60
+PseuMenz 10
+TsugHete 20 50
+
+MapCode 139
+PseuMenz 20 30 40
+
+MapCode 140
+AlnuRubr 20 30 40
+PseuMenz 30 40 50
+
+MapCode 141
+AlnuRubr 20 30
+ChamLaws 20 30
+PseuMenz 20 30 40
+
+MapCode 142
+PseuMenz 20 30
+
+MapCode 143
+AbieGran 90
+AlnuRubr 30 40 90
+ChamLaws 50 60 70 80
+LithDens 10 20 30 40
+PseuMenz 20 80 130
+ThujPlic 80
+TsugHete 20 40 50 60 80 90 100 110
+
+MapCode 144
+PinuCont 20 30 40 60 90 120
+
+MapCode 147
+AbieGran 20 30
+AlnuRubr 30
+LithDens 20
+PseuMenz 30
+
+MapCode 148
+ArbuMenz 10
+LithDens 10 20 30 40 50
+PseuMenz 20 30 40
+TsugHete 30 40 60
+
+MapCode 149
+LithDens 20 30 40
+PseuMenz 30 40
+
+MapCode 150
+AlnuRubr 30 40
+PiceSitc 50
+PseuMenz 20 30 40 70
+
+MapCode 152
+AlnuRubr 30
+LithDens 10
+PseuMenz 20
+
+MapCode 153
+ArbuMenz 20 100
+LithDens 10 20 30 80
+PseuMenz 20
+
+MapCode 154
+AcerMacr 90
+ArbuMenz 10
+LithDens 10 20 30
+PseuMenz 20 30 40 90
+
+MapCode 155
+AbieGran 30
+PseuMenz 10 20 30
+
+MapCode 156
+ArbuMenz 50 60 70
+LithDens 20 30 40 50 70 90
+PseuMenz 60 80 90 100 120
+
+MapCode 157
+AbieGran 30 40
+AcerMacr 20 80 90 110
+AlnuRubr 20 30
+PseuMenz 20 30 40
+
+MapCode 158
+LithDens 10 20 30 40 50 70 80
+TsugHete 30 40 80 100 130 140
+
+MapCode 159
+PseuMenz 20 30 40 100
+QuerGarr 50
+
+MapCode 160
+ArbuMenz 10 60
+LithDens 10
+PseuMenz 20
+
+MapCode 161
+AcerMacr 20 130
+AlnuRubr 20 50
+LithDens 10 20 30 40 50 70 150
+PseuMenz 20 30
+
+MapCode 162
+LithDens 10 20 30 40 50
+PseuMenz 90
+
+MapCode 163
+PseuMenz 50 60 80 100
+QuerGarr 100 110 190
+
+MapCode 164
+AcerMacr 100
+AlnuRubr 10 20
+LithDens 10 20 80
+PseuMenz 20 30 40 100
+
+MapCode 166
+AlnuRubr 10 20
+LithDens 20
+PseuMenz 60
+SequSemp 20 30 50
+
+MapCode 167
+AcerMacr 20 40
+AlnuRubr 30
+PseuMenz 20 30
+
+MapCode 168
+AlnuRubr 10 20
+PseuMenz 20 30
+
+MapCode 169
+AlnuRubr 20 30
+PiceSitc 30
+PseuMenz 30
+TsugHete 30
+
+MapCode 170
+PseuMenz 10
+
+MapCode 171
+AcerMacr 10
+PseuMenz 20 30
+
+MapCode 172
+AcerMacr 40
+AlnuRubr 30
+PseuMenz 40 50 60 70 90
+
+MapCode 173
+AcerMacr 10
+PseuMenz 20
+
+MapCode 174
+AcerMacr 10
+
+MapCode 175
+AcerMacr 30
+AlnuRubr 40 60
+ArbuMenz 20
+CaloDecu 40
+PseuMenz 30 40 80
+
+MapCode 176
+AcerMacr 110
+CaloDecu 50
+PseuMenz 40 50 60 70 100 110 120 130
+
+MapCode 177
+AcerMacr 30 40 50
+ArbuMenz 50 80
+CaloDecu 20
+ChryChry 30 50 80
+PseuMenz 40 50 60 70 80
+
+MapCode 178
+ArbuMenz 40
+PseuMenz 10 20 30 40 70
+TsugHete 40 50
+
+MapCode 179
+AlnuRubr 10
+PseuMenz 20
+
+MapCode 180
+AcerMacr 20 160
+AlnuRubr 30 40
+
+MapCode 181
+PseuMenz 40
+
+MapCode 182
+AbieGran 20 30 40
+AcerMacr 20
+PseuMenz 30 40 50 60
+QuerGarr 20 40 90 110
+
+MapCode 183
+AlnuRubr 20 40
+PseuMenz 30 100
+
+MapCode 186
+AbieGran 20 40 50 60 120 315
+AcerMacr 60 70
+CaloDecu 10 20 30 70 80 110
+PseuMenz 30 40 50 60
+
+MapCode 187
+PseuMenz 10
+
+MapCode 188
+PseuMenz 10 20 30
+TsugHete 20
+
+MapCode 189
+ArbuMenz 30
+PseuMenz 30 40
+TsugHete 20 60
+
+MapCode 190
+ChryChry 10 20 60
+PseuMenz 20 30
+
+MapCode 191
+AbieGran 30
+ChryChry 20 30
+PseuMenz 30 40
+TsugHete 30
+
+MapCode 192
+ArbuMenz 40
+PseuMenz 20 30
+
+MapCode 193
+ArbuMenz 50 60
+PseuMenz 20 30 40
+QuerGarr 30 40 50 60 100 110 190
+
+MapCode 194
+PseuMenz 30 40 80 90 100 110
+
+MapCode 195
+AcerMacr 30
+PseuMenz 40 50
+
+MapCode 196
+AbieGran 30 40 50
+ArbuMenz 140 160 200
+CaloDecu 100
+PseuMenz 30 40 50 60
+QuerKell 50
+
+MapCode 197
+PseuMenz 20 30 40 60 70 80
+ThujPlic 10 20 40 60
+
+MapCode 198
+ArbuMenz 50 110
+ChryChry 20 30 40
+PseuMenz 30 40 60
+TsugHete 40
+
+MapCode 199
+ChryChry 20 30
+PseuMenz 20 30
+
+MapCode 200
+ArbuMenz 20 30 40 260
+QuerGarr 40
+QuerKell 30
+
+MapCode 201
+ArbuMenz 30 50
+PseuMenz 40 60
+
+MapCode 202
+AcerMacr 50
+CaloDecu 10
+PseuMenz 20 30
+
+MapCode 203
+AcerMacr 40
+ArbuMenz 30 40 50
+PseuMenz 30 40 50 80 100 120
+QuerKell 40
+
+MapCode 204
+ArbuMenz 30 40 50 60
+PseuMenz 30 40 50
+QuerGarr 60 70
+QuerKell 80
+
+MapCode 206
+PseuMenz 10
+
+MapCode 207
+ArbuMenz 40 50
+QuerGarr 40 60
+
+MapCode 208
+ArbuMenz 100
+QuerGarr 60 70 160 190
+QuerKell 60 100
+
+MapCode 209
+ArbuMenz 20 30 40
+QuerKell 40 90
+
+MapCode 210
+PseuMenz 20 30
+
+MapCode 211
+AbieGran 10 20
+ArbuMenz 40 50
+PseuMenz 30 40 50
+
+MapCode 212
+ArbuMenz 10 20 40
+QuerGarr 50 100 110 130
+QuerKell 100
+
+MapCode 213
+AcerMacr 60
+CaloDecu 120 130
+PseuMenz 110
+
+MapCode 214
+ArbuMenz 20 60
+QuerGarr 20 60 80 110
+QuerKell 70 80 110
+
+MapCode 215
+AbieGran 30 40 50 90
+AcerMacr 50 80
+ArbuMenz 20
+PseuMenz 20 30 40 50
+
+MapCode 216
+ArbuMenz 70 80
+QuerGarr 20 30 40
+
+MapCode 217
+AcerMacr 190
+CaloDecu 40 50
+PseuMenz 40 50 90
+QuerGarr 30 90 110
+QuerKell 160 190
+
+MapCode 218
+ArbuMenz 20 30 40 140 160 190
+CaloDecu 30 40 80 90
+PinuPond 120
+PseuMenz 30 50 80 90 100 110 120
+
+MapCode 219
+AbieGran 40 50
+ArbuMenz 50
+CaloDecu 50 60 110
+PseuMenz 30 40
+
+MapCode 220
+AbieGran 30 40
+ArbuMenz 30 40
+CaloDecu 20 30 40 60
+PseuMenz 30 40 50 70 80
+
+MapCode 221
+AbieGran 20 30 50 60
+AcerMacr 100
+ArbuMenz 30 40
+CaloDecu 140 160
+PseuMenz 20 30 40 50
+TsugHete 60
+
+MapCode 222
+AbieGran 20 60
+CaloDecu 60 100
+ChryChry 20
+PseuMenz 10 20
+
+MapCode 223
+ChamLaws 30
+PseuMenz 30 40
+TsugHete 70
+
+MapCode 224
+CaloDecu 20
+ChryChry 20
+PseuMenz 20 40
+
+MapCode 225
+AlnuRubr 50
+PseuMenz 60 70
+ThujPlic 50 60 70
+TsugHete 70
+
+MapCode 226
+AcerMacr 10 30
+PseuMenz 10 20
+
+MapCode 227
+AlnuRubr 30 40
+PseuMenz 40
+
+MapCode 228
+QuerGarr 30 40 60
+
+MapCode 229
+PseuMenz 30 40 50 60 80
+
+MapCode 230
+AcerMacr 80
+PseuMenz 60 80 90 100 110 120 270
+ThujPlic 80 280 310
+TsugHete 40 50 70 80 90 120 130
+
+MapCode 231
+AlnuRubr 60
+PseuMenz 60
+
+MapCode 232
+PseuMenz 20 30 40 60
+TsugHete 20
+
+MapCode 234
+AcerMacr 50 70
+PseuMenz 20 30 40 70
+QuerGarr 30 50 60 70
+
+MapCode 235
+AcerMacr 110 130
+PseuMenz 30 40 50 60
+
+MapCode 236
+AcerMacr 30
+AlnuRubr 30 40
+PseuMenz 40 50 60
+TsugHete 40
+
+MapCode 238
+ArbuMenz 30 40
+PinuPond 70 270
+PseuMenz 20 30 40 50 60 100
+QuerGarr 30 50 100
+
+MapCode 239
+PseuMenz 30 40 100
+
+MapCode 240
+AcerMacr 30 40 50 60 80
+PseuMenz 60 70 80 90 100
+
+MapCode 242
+PseuMenz 20 30
+
+MapCode 243
+AcerMacr 20 40 50 60 70
+AlnuRubr 40 50
+PseuMenz 30 40 80
+
+MapCode 244
+AcerMacr 30 80
+AlnuRubr 30
+PseuMenz 20 30 40
+
+MapCode 245
+PseuMenz 10 20
+
+MapCode 246
+PseuMenz 40 50
+
+MapCode 247
+AcerMacr 40
+PseuMenz 40 50
+
+MapCode 248
+ChryChry 40
+PseuMenz 40 50
+
+MapCode 249
+PiceSitc 10 90 110
+PseuMenz 20 30 60
+
+MapCode 250
+PseuMenz 40 50 80
+QuerGarr 40 60
+
+MapCode 251
+PseuMenz 30 40 50 80 110 130 140
+
+MapCode 252
+PseuMenz 10
+
+MapCode 253
+PiceSitc 30
+PseuMenz 40
+TsugHete 20 30 40
+
+MapCode 254
+PseuMenz 30 40 50
+TsugHete 30 40 50 60 70
+
+MapCode 255
+PseuMenz 30 40
+TsugHete 40
+
+MapCode 256
+AlnuRubr 30 40
+PseuMenz 40
+ThujPlic 30
+TsugHete 40
+
+MapCode 257
+AlnuRubr 20
+PiceSitc 20 40
+
+MapCode 258
+PseuMenz 10
+
+MapCode 259
+PseuMenz 20
+
+MapCode 260
+AlnuRubr 20 30 40
+
+MapCode 261
+AlnuRubr 40 60 70 90
+PseuMenz 60 100
+
+MapCode 262
+AlnuRubr 10 20
+PiceSitc 30
+PseuMenz 10 20
+
+MapCode 263
+AlnuRubr 40 80 90
+PseuMenz 20 40
+
+MapCode 264
+AlnuRubr 10
+PseuMenz 20
+
+MapCode 265
+PseuMenz 10
+
+MapCode 266
+AlnuRubr 10
+PseuMenz 10
+
+MapCode 267
+PseuMenz 20
+
+MapCode 269
+AlnuRubr 40 70
+PiceSitc 30 40 50 60 70 80 90 100 110 120 130
+
+MapCode 270
+AlnuRubr 20
+PiceSitc 20
+PseuMenz 20
+TsugHete 20
+
+MapCode 271
+PseuMenz 20 30
+TsugHete 20 30
+
+MapCode 272
+AbieProc 30
+AlnuRubr 10 20 30
+PseuMenz 30
+TsugHete 30
+
+MapCode 273
+AcerMacr 20 30
+
+MapCode 275
+AcerMacr 60
+AlnuRubr 50 60
+PseuMenz 60 80 100 110 120 160
+ThujPlic 50 60 70 80 90
+TsugHete 60 100
+
+MapCode 276
+PseuMenz 30
+QuerGarr 30 110
+
+MapCode 277
+AbieGran 40
+PseuMenz 30 40 50 60 70
+
+MapCode 278
+PseuMenz 30 40 50 60 80
+QuerGarr 50 60 90 100 110
+
+MapCode 279
+PseuMenz 40 50
+
+MapCode 280
+AcerMacr 10
+AlnuRubr 10 20 30 40 50
+PseuMenz 20 30 40 50
+TsugHete 40
+
+MapCode 281
+AlnuRubr 30 40
+PseuMenz 30 40
+TsugHete 30 40
+
+MapCode 282
+PseuMenz 30 40 50
+
+MapCode 283
+PseuMenz 10 20
+
+MapCode 284
+PseuMenz 50 60 70
+TsugHete 60
+
+MapCode 285
+AlnuRubr 20
+PseuMenz 20 30
+TsugHete 20 30 50 60 70
+
+MapCode 286
+AcerMacr 30
+PseuMenz 20 40 50
+QuerGarr 110 130
+
+MapCode 287
+PseuMenz 10
+
+MapCode 288
+AbieProc 40
+PseuMenz 30 40
+TsugHete 30 40
+
+MapCode 289
+AlnuRubr 30 40
+PseuMenz 40 50
+TsugHete 30 40 50
+
+MapCode 290
+AcerMacr 20 40
+AlnuRubr 40
+PseuMenz 30 40 50 60
+
+MapCode 291
+AlnuRubr 20 30
+PiceSitc 40
+TsugHete 30 40
+
+MapCode 292
+AlnuRubr 10
+PiceSitc 10
+PseuMenz 20
+TsugHete 10 20
+
+MapCode 293
+AlnuRubr 10 30
+PseuMenz 30
+TsugHete 30 60
+
+MapCode 294
+AlnuRubr 50
+TsugHete 20 60
+
+MapCode 295
+AlnuRubr 30 40
+PseuMenz 10 20 30
+
+MapCode 296
+AbieProc 40 50 70
+PseuMenz 20 30 40 50 60
+TsugHete 20 30 40 50 60 70 80
+
+MapCode 297
+AbieGran 50
+PseuMenz 40 50
+TsugHete 30 40 50
+
+MapCode 298
+AbieProc 40
+PseuMenz 10 20 40
+
+MapCode 299
+AlnuRubr 20 40
+PseuMenz 20 30
+TsugHete 20 30
+
+MapCode 300
+PseuMenz 30
+TsugHete 20 30
+
+MapCode 301
+AlnuRubr 20 30 40
+PseuMenz 30 40 50 60
+
+MapCode 302
+AlnuRubr 20 30 40
+PiceSitc 40
+PseuMenz 30 40 50
+
+MapCode 303
+AlnuRubr 20
+PseuMenz 20 30
+
+MapCode 304
+AlnuRubr 20 30
+PseuMenz 20 30 40 50
+
+MapCode 305
+AcerMacr 30
+AlnuRubr 30
+PseuMenz 40
+
+MapCode 306
+AcerMacr 10 30 40
+AlnuRubr 20 30 40
+PseuMenz 40 50
+
+MapCode 307
+PseuMenz 30 40
+
+MapCode 308
+AbieProc 40 50
+PseuMenz 30 40 50
+ThujPlic 40
+TsugHete 20 30 40
+
+MapCode 309
+AbieProc 40
+AlnuRubr 30 40
+PseuMenz 20 40 50
+TsugHete 30 40
+
+MapCode 310
+PseuMenz 30 40
+
+MapCode 311
+AlnuRubr 30 40
+PseuMenz 30 40
+
+MapCode 312
+AlnuRubr 20
+PseuMenz 20 30 40
+
+MapCode 313
+AlnuRubr 10
+PiceSitc 10
+PseuMenz 10 20
+TsugHete 20
+
+MapCode 314
+PiceSitc 10
+
+MapCode 315
+AlnuRubr 30 40
+PiceSitc 30 40 60 70 80
+ThujPlic 40
+TsugHete 50 60 70
+
+MapCode 316
+PseuMenz 10 20
+
+MapCode 317
+AlnuRubr 30 40 50
+PseuMenz 40 50
+TsugHete 50
+
+MapCode 318
+AlnuRubr 20 30 40
+PseuMenz 30 40
+
+MapCode 319
+AlnuRubr 20
+PseuMenz 30 40
+ThujPlic 20 30
+TsugHete 20 30 40 50
+
+MapCode 320
+AcerMacr 50 90
+AlnuRubr 40 50
+
+MapCode 321
+PseuMenz 30 40 50
+ThujPlic 30
+
+MapCode 322
+PiceSitc 40
+PseuMenz 40
+TsugHete 30 40 50 60
+
+MapCode 323
+AlnuRubr 20 30 40 90
+TsugHete 20
+
+MapCode 324
+AlnuRubr 20 30
+PseuMenz 30
+
+MapCode 325
+AlnuRubr 30 40
+PseuMenz 30 40
+
+MapCode 326
+PseuMenz 30 40
+
+MapCode 327
+AlnuRubr 20
+PseuMenz 30
+
+MapCode 328
+AlnuRubr 30
+PseuMenz 30
+
+MapCode 329
+PseuMenz 30 40
+TsugHete 30 40 60 70
+
+MapCode 330
+PiceSitc 30 40
+PseuMenz 30 40
+TsugHete 30 40
+
+MapCode 331
+AlnuRubr 20 30
+PseuMenz 30 40
+TsugHete 20 30 40
+
+MapCode 332
+AlnuRubr 10
+PseuMenz 20
+
+MapCode 333
+PseuMenz 20 30
+
+MapCode 334
+PseuMenz 20
+
+MapCode 335
+AlnuRubr 10 30 40
+PseuMenz 10
+ThujPlic 70
+
+MapCode 336
+AlnuRubr 20 30
+PiceSitc 20
+PseuMenz 30
+TsugHete 20 40 50 60
+
+MapCode 338
+AlnuRubr 30
+PseuMenz 40
+TsugHete 30 40
+
+MapCode 339
+PseuMenz 30 40 60
+
+MapCode 340
+PseuMenz 30 40 60
+
+MapCode 341
+AlnuRubr 30 40
+PseuMenz 30 40 50 60 80
+ThujPlic 50
+
+MapCode 342
+AcerMacr 50
+PseuMenz 50 60 70
+
+MapCode 343
+AbieProc 30
+PseuMenz 40 50 60 70 270
+ThujPlic 30 40 50 60
+TsugHete 40 50
+
+MapCode 344
+PseuMenz 20 30 40 50 60
+
+MapCode 345
+AcerMacr 50
+AlnuRubr 30 40 60
+PseuMenz 40 50 60 70 90 120 130 150
+TsugHete 40
+
+MapCode 346
+AcerMacr 30 40
+AlnuRubr 10 30 40
+PseuMenz 20 40 50
+
+MapCode 347
+AcerMacr 60
+AlnuRubr 10 40 50 60 70
+PseuMenz 60
+TsugHete 40 50
+
+MapCode 348
+AcerMacr 50
+
+MapCode 349
+AcerMacr 10 20
+AlnuRubr 10
+PseuMenz 20
+ThujPlic 50
+
+MapCode 350
+AcerMacr 40 50
+ArbuMenz 50 60
+PseuMenz 40 50 70 80 90
+
+MapCode 351
+AcerMacr 20 40 60 70 80
+PseuMenz 50 60 70 80
+ThujPlic 40 60
+TsugHete 60
+
+MapCode 352
+AlnuRubr 30
+PseuMenz 30 40 50
+
+MapCode 353
+AcerMacr 20
+AlnuRubr 50
+PseuMenz 20 30
+ThujPlic 60
+
+MapCode 354
+PseuMenz 20 30 40
+
+MapCode 355
+AbieGran 20 40 50 60 70 80
+AcerMacr 90
+PseuMenz 20 100 110
+QuerGarr 60 80
+ThujPlic 50 70 90 100
+
+MapCode 356
+PseuMenz 40 50
+
+MapCode 357
+AcerMacr 20
+PseuMenz 10 20 30
+
+MapCode 358
+AcerMacr 30 40 110
+AlnuRubr 40 60
+PseuMenz 40
+ThujPlic 70 90
+
+MapCode 359
+PseuMenz 30 40 50
+
+MapCode 360
+AcerMacr 40 100
+PseuMenz 50 60 130 140
+
+MapCode 361
+PseuMenz 50 60 70 80 90
+
+MapCode 362
+AbieGran 50
+AcerMacr 10
+PseuMenz 30 40 50 60 110
+QuerGarr 20 30 90 100 120
+
+MapCode 363
+AcerMacr 40
+PseuMenz 30 40
+
+MapCode 364
+PseuMenz 10 20
+
+MapCode 365
+AcerMacr 40
+AlnuRubr 30 40 50
+PseuMenz 40 50 60 70 80 90 100 110
+
+MapCode 367
+AcerMacr 40
+QuerGarr 70 80 90
+
+MapCode 368
+AcerMacr 20 40
+PseuMenz 40 50 60
+QuerGarr 60
+
+MapCode 369
+AcerMacr 30
+AlnuRubr 20
+PseuMenz 20 30 40 60 80
+
+MapCode 370
+ArbuMenz 40 50
+ChryChry 30 40
+LithDens 30 40 70
+PseuMenz 40 50 60 70 80 90 100 110 120 130
+
+MapCode 371
+ArbuMenz 30 40 50
+ChryChry 20 30 40 50
+LithDens 30 40 50 60
+PseuMenz 40 60
+
+MapCode 372
+ArbuMenz 50 60 70 80 100
+LithDens 30 40 50 60 70 80 90 100 170
+PseuMenz 90 120
+
+MapCode 374
+ArbuMenz 30 40
+ChryChry 20
+LithDens 30 40
+PseuMenz 30 40 50 60 70
+
+MapCode 375
+ChamLaws 110
+ChryChry 30
+PseuMenz 40 50 60 70 80 90 100 110 120 130 140 160 170 180
+
+MapCode 376
+ArbuMenz 90 100
+CaloDecu 40 80 90 100 110 130 190
+ChamLaws 20 30 40 50 60 70 80 90 100 130
+LithDens 30
+PseuMenz 20 30 40 50 60 80 90 110 120 150 160
+
+MapCode 377
+AcerMacr 30 40 70 80 90
+CaloDecu 50
+LithDens 30
+PseuMenz 20 30 40 50 60 70 80 90 100 110 130 140
+QuerKell 50 60 70 80 90 100 110 120 130 140 150 160
+
+MapCode 378
+AcerMacr 20 30 40 50
+ArbuMenz 30
+LithDens 20
+PseuMenz 10 20 30
+TsugHete 10 20 30 50 80
+
+MapCode 379
+PseuMenz 50 60 190
+
+MapCode 380
+ArbuMenz 20
+ChryChry 30 40
+LithDens 30 40
+PseuMenz 30 40 50 60
+
+MapCode 381
+AcerMacr 40
+AlnuRubr 40 50
+PseuMenz 40 50 60 70 80 90 100 110 190 200 220 240 260 280 460
+ThujPlic 100
+TsugHete 30 40 60 80 90 100 110 120 280
+
+MapCode 382
+PiceSitc 40 50 60 70 80 100
+PseuMenz 40
+TsugHete 40 50 80
+
+MapCode 383
+AcerMacr 50 60 70 90
+PseuMenz 10 20 30 150 180 200 230 240
+ThujPlic 140
+
+MapCode 384
+AlnuRubr 40 50 60
+PseuMenz 80 100 110 150 160 190 230 250 270 300 740
+ThujPlic 40 50 60 70 80 90 100 120
+TsugHete 50
+
+MapCode 385
+AlnuRubr 40 50 60
+PseuMenz 70 100 210 220 270 370
+ThujPlic 40 70 80 90 100 110 120
+TsugHete 40 60 70 80 90 100 110 120 160
+
+MapCode 386
+AlnuRubr 20 30 40 50 60
+PseuMenz 20 60 70 80 90 100 110 120 140
+ThujPlic 40 60 70 80 110
+TsugHete 40 50 80 90
+
+MapCode 387
+AcerMacr 40 50 60 70 80
+AlnuRubr 40 50 60
+PseuMenz 50 60 70 80 90 100 110 120 130 140 150
+ThujPlic 50 80 90 100 110
+
+MapCode 388
+AlnuRubr 10 20
+PseuMenz 10 20 30
+TsugHete 10 20 30
+
+MapCode 389
+PseuMenz 20 30 40 50
+TsugHete 20
+
+MapCode 390
+AlnuRubr 40 50 60 70 80
+PseuMenz 40 50 60 70 110 120 200 250 270
+ThujPlic 60
+TsugHete 30
+
+MapCode 391
+PseuMenz 10 20
+
+MapCode 392
+AlnuRubr 20 30 40
+PiceSitc 20
+PseuMenz 10 20 30 40
+TsugHete 10
+
+MapCode 393
+PseuMenz 30 40 50 60
+
+MapCode 394
+AlnuRubr 40 60
+PiceSitc 60 70
+PseuMenz 50 60 70 80 90 100 110 120 130 140 150 160 200
+TsugHete 50 90
+
+MapCode 395
+AlnuRubr 40 50 60 70 80
+PseuMenz 50 70 80 90 100 110 130 190 210 220 250 480
+ThujPlic 70 80 90 100 120 150
+TsugHete 100
+
+MapCode 396
+AcerMacr 30
+AlnuRubr 20
+PseuMenz 20 30 40 50 60
+
+MapCode 397
+AcerMacr 80
+AlnuRubr 30 40 50 70
+PseuMenz 30 40 50 70 80 110 130 150 160 180 190 200 210 220 230 240 250 270
+ThujPlic 80
+
+MapCode 399
+AlnuRubr 10 20 40
+PseuMenz 10 20 30
+
+MapCode 400
+AcerMacr 20 30 40 50
+PseuMenz 20 30 40
+
+MapCode 401
+AlnuRubr 20
+PseuMenz 20 30 40
+TsugHete 20 30 40
+
+MapCode 402
+PseuMenz 60 70 80 90 100 110 120 130 140 150 160 210
+ThujPlic 70 120
+TsugHete 30 40 50 60 70
+
+MapCode 403
+AlnuRubr 20 30
+PseuMenz 70 80 90 100 110 120 130 150 160 180 200
+ThujPlic 70 80 90 100 110 120
+TsugHete 20 30 40 60
+
+MapCode 404
+PseuMenz 20 30 40 50 60 70 80
+
+MapCode 405
+AlnuRubr 40 50 60
+PiceSitc 60 80
+PseuMenz 40 70 80 90 100 110 120 160
+ThujPlic 60 70 80 90 120
+TsugHete 40 50 60 70 90 100 110
+
+MapCode 406
+AlnuRubr 10 20
+TsugHete 20 30 40
+
+MapCode 407
+AlnuRubr 40 50 60 70 80
+PseuMenz 130
+
+MapCode 408
+AlnuRubr 20
+PseuMenz 40 50 60 70 80 90
+
+MapCode 409
+AlnuRubr 20 30 40 50
+PiceSitc 20 30 40
+PseuMenz 20 30 40
+TsugHete 20 30 40 50
+
+MapCode 410
+ArbuMenz 30 40 50 60
+LithDens 30 40 50 60 70 80 90
+PseuMenz 70 80 90 120 140 170 180 190 200 220
+
+MapCode 411
+ArbuMenz 30
+PseuMenz 10 20 30 40
+
+MapCode 412
+LithDens 20 30 60
+PseuMenz 10 20 30 40 50 60 100
+
+MapCode 413
+LithDens 20 30 40 50 60 70 80 90
+PseuMenz 70 230
+
+MapCode 414
+ArbuMenz 30
+LithDens 30 40 60 110
+PseuMenz 10 170 230 290
+
+MapCode 415
+ChamLaws 40 50 70 80 100 140 170 300
+PseuMenz 40 50 60 70 80 90 100 110 280 350
+
+MapCode 416
+ChamLaws 40 70 90 100 110 120 220 490
+ChryChry 10 20 30
+LithDens 30 40
+PinuLamb 230
+PseuMenz 10 90 100 110 120 130 140 150 160 180 200 210 220 230 240 410 550
+
+MapCode 417
+ArbuMenz 40 50
+ChamLaws 20
+ChryChry 20 30 40
+LithDens 30 40
+PinuLamb 30 40 60 70
+PseuMenz 10 30 40 50 60 70 180
+
+MapCode 418
+ChamLaws 50
+PinuLamb 40 90
+PseuMenz 20 30 40 60 70 80
+
+MapCode 419
+AcerMacr 110
+ArbuMenz 80 90 140
+LithDens 20 30 40 50 60 70 80 90 100 110 120 130
+PinuLamb 390
+PseuMenz 90 200 290 300 310 330 340 350 360 370 400 410 420 430 460 480 520
+
+MapCode 420
+ArbuMenz 30
+ChryChry 20 30 40
+LithDens 30 40
+PseuMenz 20 30 40 50 60 70 80
+
+MapCode 421
+LithDens 20 30
+PseuMenz 10 20 40
+
+MapCode 422
+ChamLaws 20 40 140 260
+LithDens 30
+PseuMenz 40 50 150 230
+
+MapCode 423
+ChamLaws 30 70 90 100 110 120 130 160 170 190 200 290 310
+ChryChry 40 50 60
+PinuLamb 40 80 90
+PseuMenz 50 60 70 80 90 100 110 120 130 140 150 170 180 200 230 260
+
+MapCode 424
+ArbuMenz 30 40 50 80
+ChryChry 30 40 50 60 70 80 90 100 110
+LithDens 30 40 50 60 70 80
+PinuLamb 70 80 160 180 240
+PseuMenz 150 160 220 240
+
+MapCode 425
+AcerMacr 40 50 80
+ArbuMenz 30 40
+ChamLaws 40 50 60 80 90 110 120
+ChryChry 60
+LithDens 20 30 40 50 60 70 80 90
+PseuMenz 50 60 70 80 100 110 120 130 140 210 330 410
+
+MapCode 426
+ArbuMenz 20 30
+ChryChry 40 50
+LithDens 30 40
+PseuMenz 30 40 50 60 70
+TsugHete 30 40
+
+MapCode 427
+ArbuMenz 20 30
+ChamLaws 30 40 50 60 70 80 90 110 140
+LithDens 30 40
+PseuMenz 30 40 50 60 70 150 180 190
+TsugHete 20 50 60
+
+MapCode 428
+PseuMenz 200 210 220 230 240 250 260 270 280 290 300 310 320 330 350 360 370 400 410
+TsugHete 40 50 60 80 90 100 110 120 150 160 180 190 200 220 240 270 310
+
+MapCode 429
+PseuMenz 10 20 30
+
+MapCode 430
+ChamLaws 20 60
+PseuMenz 20 30 40 50 60
+
+MapCode 431
+ChryChry 30
+PinuLamb 80
+PseuMenz 20 30 270
+TsugHete 20
+
+MapCode 432
+PinuCont 20 30 40 50
+
+MapCode 433
+AlnuRubr 30 40 50
+PiceSitc 40 50 60 90
+PinuCont 40 50 80
+PseuMenz 30 40 50 60 70 80 90
+ThujPlic 40 80
+TsugHete 60 70
+
+MapCode 434
+AbieGran 90
+AcerMacr 50 60 70 100
+PseuMenz 20 30 40 50 60 70 90 100 110 130 140 160 200 220
+ThujPlic 40 50 60 70 80 90 100 180 230 290
+TsugHete 70 90
+
+MapCode 435
+AcerMacr 20 30 40 50 70 80 100
+AlnuRubr 50 60
+PseuMenz 100 110 120 140 170 190 210 240 310 330 680
+ThujPlic 180 190 200
+TsugHete 60 80 90
+
+MapCode 436
+AcerMacr 40 50 60 90
+AlnuRubr 40 50 70 80
+PseuMenz 60 190 210 260 320 380 410 470 590
+ThujPlic 90 170 300 390 400
+TsugHete 60 70 90 100 110 150 170
+
+MapCode 437
+AcerMacr 20 30 50 60 80
+AlnuRubr 20 30
+PiceSitc 130
+PseuMenz 10 20 30 110 190 250
+ThujPlic 30 40
+TsugHete 20 30 40 80
+
+MapCode 438
+PiceSitc 20 30 40
+PinuCont 10 20 30 40 50
+
+MapCode 439
+AlnuRubr 20
+PseuMenz 10 20 30
+TsugHete 20 30 40
+
+MapCode 440
+AcerMacr 20 30
+AlnuRubr 20 30
+PseuMenz 20 30 40 50
+TsugHete 30
+
+MapCode 441
+AcerMacr 30 40 50 60
+AlnuRubr 30 40 50 60 70
+PiceSitc 90 100 110 140
+PseuMenz 50 70 80 90 100 110 120 150 160 170 180 200 220
+TsugHete 60
+
+MapCode 442
+AlnuRubr 10 20 40
+PseuMenz 10 20 30 40
+TsugHete 20
+
+MapCode 443
+AlnuRubr 20 30
+PseuMenz 10 20 30
+TsugHete 20 30
+
+MapCode 444
+AlnuRubr 40
+PseuMenz 20 30 40 50
+TsugHete 30 40
+
+MapCode 445
+AlnuRubr 10 20 30
+PseuMenz 20 30 40 50
+TsugHete 20 30 40
+
+MapCode 446
+AcerMacr 50 60
+AlnuRubr 20 30 40 50 60
+PseuMenz 40 50 60 70 80 100 110 120 130 140 200 220 650
+TsugHete 20 40
+
+MapCode 447
+PseuMenz 10 20 30
+
+MapCode 448
+AcerMacr 20 30 50 60 80
+AlnuRubr 40 50
+PseuMenz 50 60 70 80 90 100 110 120 130 140 150 160 180 190 220 240 250 360 460
+ThujPlic 40 50 70 100
+TsugHete 60 70 80 90 110 120
+
+MapCode 449
+AcerMacr 20
+AlnuRubr 10 20
+PseuMenz 20 30 40
+TsugHete 20 30
+
+MapCode 450
+PseuMenz 10 20
+
+MapCode 451
+AcerMacr 20
+AlnuRubr 10 20 30 40
+PseuMenz 20 30 40
+
+MapCode 452
+AlnuRubr 30 40 50 60 70
+PiceSitc 100
+PseuMenz 70 90 100 110 120 130 150 180 190 200 210 220 230 240
+TsugHete 30 40 50 60 70 100
+
+MapCode 453
+AlnuRubr 20 30 40 50
+PseuMenz 20 30 40 50 60
+ThujPlic 40
+TsugHete 10 20 30 40 50 60
+
+MapCode 454
+AcerMacr 40
+AlnuRubr 20 30 40 50 60 70
+PseuMenz 50 60 70 80
+
+MapCode 455
+AlnuRubr 30 40
+PseuMenz 30 40 50
+
+MapCode 456
+AlnuRubr 30 40 50 60
+PiceSitc 30 40 50 60 70 80 90 120 130
+PseuMenz 50 60 70 80 90 110 120 140
+TsugHete 50 60 70 80 90 110
+
+MapCode 457
+PseuMenz 60 70 80 90 100 110 120 130 140 150 160 170
+
+MapCode 458
+AlnuRubr 30 40 50 60 70
+PseuMenz 60 100 120 130 140 150 160 170 180 200
+
+MapCode 459
+AlnuRubr 10 20
+PiceSitc 20 30 40
+PseuMenz 10 20 30
+TsugHete 20
+
+MapCode 460
+AlnuRubr 40 50
+PseuMenz 60 70 80 90 100 110 120 130 140 150 160 230
+TsugHete 60
+
+MapCode 461
+AlnuRubr 50
+PseuMenz 60 80 90 100 110 120 130 140 150 160 170 180 190 200
+
+MapCode 462
+AlnuRubr 10 20 30
+
+MapCode 463
+AlnuRubr 50 60 70
+PseuMenz 60 70 80 90 100 110 120 130 140 150 160 180 190 200 210 220
+TsugHete 40 50 60 90
+
+MapCode 464
+AlnuRubr 20 30 50
+PseuMenz 50 60 70 110 120 130 140 150 160 170 190 210 220 230 270
+
+MapCode 465
+PseuMenz 90 100 110 130 140 150 160 170 190 200 210 240 250 260 300 320
+
+MapCode 466
+AcerMacr 30 40 50 60
+PseuMenz 40 60 70 80 90 100 110 120 130 140 150 160
+ThujPlic 60
+TsugHete 50
+
+MapCode 467
+AlnuRubr 20
+PseuMenz 20 30 40 50 60 140 170
+
+MapCode 468
+AlnuRubr 10 20 50
+PseuMenz 10 20 30
+TsugHete 20
+
+MapCode 469
+AlnuRubr 30
+PseuMenz 40 60 70 80 90 100 110 120 130 140 150 160 170 180
+TsugHete 40 50 60 80
+
+MapCode 470
+AcerMacr 20
+AlnuRubr 30
+PseuMenz 20 30 40
+
+MapCode 472
+AlnuRubr 20 30 40
+PseuMenz 20 30 40
+
+MapCode 473
+AlnuRubr 20
+PseuMenz 20 30 40
+
+MapCode 474
+AlnuRubr 10 20
+PiceSitc 20 30
+PseuMenz 10
+TsugHete 10 20 30
+
+MapCode 475
+AcerMacr 20 30 40 50
+AlnuRubr 30
+PseuMenz 10 20 30 40 90 100 110 120 130 140 150
+
+MapCode 476
+AlnuRubr 50 60
+PseuMenz 140 190 200 260 340 520
+ThujPlic 60 70 80 90 110 120 130 190 230 250 280 310 330 350 520
+TsugHete 30 40 60 70 80 90 100 110 120 130 140 150
+
+MapCode 477
+AlnuRubr 20 40
+PseuMenz 20 30 40 50
+ThujPlic 50 60 80
+
+MapCode 478
+AlnuRubr 20
+PseuMenz 10
+
+MapCode 479
+AlnuRubr 10 20
+PseuMenz 10
+TsugHete 10 20
+
+MapCode 480
+AlnuRubr 20 30 40 50 60 70
+PseuMenz 10 20 30 40 50 60 80 120 200 210 250 280 300
+
+MapCode 481
+AlnuRubr 30 40 50 60
+PseuMenz 60 70 80 90 100 110 120 130 140 160 170 200 220 240 250 260
+
+MapCode 482
+AlnuRubr 20 30 40 50
+PseuMenz 60 70 80 90 100 110 130
+ThujPlic 60 80
+TsugHete 20 40 50 70 80 90 100 110 150 210
+
+MapCode 483
+PiceSitc 20 30
+PseuMenz 10 20
+
+MapCode 484
+AlnuRubr 10 20
+PiceSitc 20 30
+PseuMenz 10 20 30
+TsugHete 20
+
+MapCode 485
+AlnuRubr 10 20 30
+PseuMenz 10 20 30 70 80 100 110 120
+TsugHete 10 20 30 40 50
+
+MapCode 486
+AlnuRubr 10 20 30
+PiceSitc 60
+PseuMenz 40 50 60 70 90 100 130 140 150 160
+TsugHete 10 20 30 40 60 70 90 100 110 130 140
+
+MapCode 487
+AlnuRubr 20 30
+PiceSitc 20 30 40
+PseuMenz 20 30 40
+TsugHete 20 30 40
+
+MapCode 488
+AlnuRubr 20 30 40
+PiceSitc 20 30 40 50
+PseuMenz 20 30 40 50
+TsugHete 30 40 50 60
+
+MapCode 489
+AlnuRubr 20 30 40 50 60 70 80
+PiceSitc 30 40 50 60 160
+PseuMenz 30 40 50 60
+TsugHete 20 30 40 50 60 70 80
+
+MapCode 490
+AlnuRubr 30 40 50 60 80
+PiceSitc 40 50 60 70 80 100 110 140 150
+PseuMenz 110 130
+TsugHete 70 110
+
+MapCode 491
+AlnuRubr 20 30 40
+PiceSitc 20 30 40 50
+PseuMenz 20 30 40
+TsugHete 10 20 30 40
+
+MapCode 492
+AbieProc 20
+AlnuRubr 10 20
+PseuMenz 20 30
+TsugHete 10 20 30 40 50
+
+MapCode 493
+PseuMenz 40 50 60 70 80 90 100
+TsugHete 30 50
+
+MapCode 494
+AlnuRubr 10 20
+PiceSitc 10 20
+PseuMenz 10 20
+
+MapCode 495
+AlnuRubr 30 40 50 60 70
+PiceSitc 40
+PseuMenz 40 50 60 70 80 90
+
+MapCode 496
+AlnuRubr 20 30
+PseuMenz 40 50 60 70 80 90 100 120 200 220
+
+MapCode 497
+PseuMenz 40 50 60 70 80 90
+
+MapCode 498
+AlnuRubr 40 50 60 70
+PiceSitc 40 60 70 80 90 100 110 120 130 140
+
+MapCode 499
+AlnuRubr 40 50 60 70 80
+PiceSitc 40 60 80 90 100
+PseuMenz 60 70 90 100 110
+
+MapCode 500
+AlnuRubr 40 50 60 70
+PiceSitc 30 90 100 110 160
+PseuMenz 130 140 230
+TsugHete 110
+
+MapCode 501
+AlnuRubr 50 60
+PiceSitc 130
+PseuMenz 10 20 100 150 160
+TsugHete 10 60 90 110 170
+
+MapCode 502
+AlnuRubr 20
+PseuMenz 10 20
+TsugHete 10 20 50
+
+MapCode 503
+AcerMacr 50
+AlnuRubr 10 40 60
+PseuMenz 40 50 60 70 100 110 120 200 210 220 230 240 270 280 300 470
+ThujPlic 110
+TsugHete 10 20 30 80 90 100 120 130 290
+
+MapCode 504
+AcerMacr 100 120
+PseuMenz 80 90 100 110 120 130 140 150 160 170 180
+ThujPlic 70
+TsugHete 80 90 100 110 120 140 180
+
+MapCode 505
+AcerMacr 20 50 70 100
+AlnuRubr 20
+PseuMenz 20 30 40 50 160 190 210 240 250
+ThujPlic 150
+
+MapCode 506
+AlnuRubr 40 50 60
+PseuMenz 90 110 120 160 170 180 200 210 250 270 300 740
+ThujPlic 40 50 60 70 80 90 100 110 130
+TsugHete 60
+
+MapCode 507
+AcerMacr 50 60 70 90
+AlnuRubr 40 50 60
+PseuMenz 60 70 80 90 100 110 120 130 140 150
+ThujPlic 60 80 90 100 110 120
+
+MapCode 508
+AlnuRubr 10 20 30 40
+PiceSitc 20 30
+PseuMenz 10 20 30 40
+ThujPlic 20
+TsugHete 20 30 40
+
+MapCode 509
+AlnuRubr 30
+PseuMenz 30 40 50 60
+TsugHete 30
+
+MapCode 510
+AlnuRubr 40 50 60 70
+PseuMenz 50 60 70 80 120 130 230 270 290
+ThujPlic 70
+TsugHete 40
+
+MapCode 511
+PseuMenz 10 20 30
+
+MapCode 512
+AbieGran 20
+AlnuRubr 20
+PseuMenz 10 20 170 250 340
+TsugHete 20
+
+MapCode 513
+PseuMenz 30 40 50 60 70
+
+MapCode 514
+AcerMacr 20
+AlnuRubr 10 20 30
+PseuMenz 10 20 30 40
+ThujPlic 40 80
+TsugHete 20 30
+
+MapCode 515
+AlnuRubr 40 50 90
+PiceSitc 70 80
+PseuMenz 70 80 90 100 110 120 130 140 150 160 170 180 190 210 220 240
+TsugHete 40 60 80
+
+MapCode 516
+AlnuRubr 40 50 60 70 80
+PseuMenz 60 80 90 100 110 130 170 200 230 250 270 490
+ThujPlic 70 80 90 100 110 140 160
+TsugHete 110
+
+MapCode 517
+AcerMacr 30
+AlnuRubr 20 30
+PseuMenz 30 40 50 60 70 80
+
+MapCode 518
+AcerMacr 80
+AlnuRubr 30 40 50 70
+PseuMenz 40 50 60 80 90 110 120 160 170 190 200 210 220 240 250 260 270 280 300
+ThujPlic 90
+
+MapCode 519
+AlnuRubr 20 30 40 50 60
+PseuMenz 30 40 50 60
+
+MapCode 520
+PseuMenz 20 30 40
+TsugHete 30 40
+
+MapCode 521
+AcerMacr 60 140
+AlnuRubr 70
+PiceSitc 110 120
+PseuMenz 60 90 100 110 120 130 140 150 160 170 190 210 220 230 240 470
+ThujPlic 90 120 140 150
+TsugHete 60 90 130 140 150
+
+MapCode 522
+AlnuRubr 20 30 40
+PseuMenz 20 30 40
+
+MapCode 523
+AcerMacr 20 30 40
+PseuMenz 20 30 40 50
+
+MapCode 524
+PseuMenz 60 70 80 90 100 110 120 130 140 150 160 190
+ThujPlic 80 120
+TsugHete 40 50 60 70 80
+
+MapCode 525
+AlnuRubr 20 30 40 50 70
+PseuMenz 50 60 70 80 90 100 110 120 130 140 220
+ThujPlic 70 100 110 250
+
+MapCode 526
+AlnuRubr 40 50
+PiceSitc 80
+PseuMenz 50 70 80 100 110 120 130 140 170
+TsugHete 60 70 80 130 160
+
+MapCode 527
+AlnuRubr 20 30 40
+PseuMenz 70 80 90 100 110 120 130 140 150 160 170 180 200
+ThujPlic 80 90 110 120
+TsugHete 20 30 40 50 70
+
+MapCode 528
+PseuMenz 30 40 50 60 70 80
+
+MapCode 529
+PseuMenz 150 170 210 220 230 250 260 270 280 310 320 330 340 350 360 370 380 390 400 430 450 490 510 540 580 590
+TsugHete 90 140
+
+MapCode 530
+AlnuRubr 40 50 60 70
+PiceSitc 70 80
+PseuMenz 60 80 90 100 110 120 130 170
+ThujPlic 70 80 90 100 130
+TsugHete 50 60 70 80 100 110 120
+
+MapCode 531
+AlnuRubr 40
+PiceSitc 130 140
+PseuMenz 100 110 120 130 140
+ThujPlic 60 80 90 100 110 120 130 140
+TsugHete 30 90 120
+
+MapCode 532
+AlnuRubr 40 50 60 70 90
+PseuMenz 140
+
+MapCode 533
+AlnuRubr 20
+PseuMenz 40 50 60 70 80 90
+
+MapCode 534
+AcerMacr 30
+AlnuRubr 20 30 40 50
+PiceSitc 30
+PseuMenz 10 20 30 40 50
+TsugHete 20 30 40 50
+
+MapCode 535
+ArbuMenz 60
+LithDens 30 40 50 60 70 80 90
+PseuMenz 80 90 100 110 160
+SequSemp 40 70 80 90 100 110 130 140 150 190
+
+MapCode 536
+ArbuMenz 30
+PseuMenz 20 30 40 50
+
+MapCode 537
+LithDens 20 30 40 70
+PseuMenz 20 30 40 50 70 100
+
+MapCode 538
+LithDens 20 30 40 50 60 70 80 90
+PseuMenz 70 80 230
+
+MapCode 539
+ArbuMenz 40 50 60 70 80 100
+LithDens 30 40 50 60 70
+PseuMenz 50 60 70 80 90 100 110 120 130 140 150 160 180
+
+MapCode 540
+AcerMacr 80 100
+AlnuRubr 80 90
+ArbuMenz 40 50 60 70 80 100
+ChamLaws 40 60 100 110 120 140 200
+LithDens 20 30 40 50 60 70 80 90
+PseuMenz 30 40 80 90 100 110 120 140 160 170 180 190 200 230 240 250 280 300 470
+
+MapCode 541
+ArbuMenz 40
+LithDens 30 40 50 60 70
+PinuLamb 50 80 90 100 110 120
+PseuMenz 40 50 60 70 80 90 100 110 120
+
+MapCode 542
+ChryChry 20 30 40
+LithDens 40
+PseuMenz 30 40 50 60 70 80 90 100 110
+
+MapCode 543
+ArbuMenz 40
+ChamLaws 20
+ChryChry 20 30
+LithDens 20 30
+PinuLamb 30 40 60 70
+PseuMenz 30 40 50 60 70 180
+
+MapCode 544
+AcerMacr 80 100
+AlnuRubr 60 80
+ArbuMenz 40 50 60 70
+ChamLaws 50 80 90 100 120
+LithDens 30 40 50 60 70 90
+PinuLamb 80
+PseuMenz 40 50 60 70 80 90 100 110 120 130 140 150 190 200 250 320 390 430
+
+MapCode 545
+ChamLaws 60 70 80 90 100 130
+LithDens 30 40 50 60 70
+PseuMenz 30 40 50 60 70 80 90 100 110 120 130 140 150 160 180 190 210 220 240 300 320
+
+MapCode 546
+AcerMacr 110
+ArbuMenz 80 90 100 140
+LithDens 20 30 40 50 60 70 80 90 100 110 120 130
+PinuLamb 390
+PseuMenz 90 200 290 300 320 330 340 350 360 370 380 390 410 420 450 480 520
+
+MapCode 547
+LithDens 20 30 40 50 60 70 80 100 110 120 130 160
+PseuMenz 300 330 340 360 380 410 430 450 480 550
+
+MapCode 548
+LithDens 20 30
+PseuMenz 20 30 40 50
+
+MapCode 549
+AcerMacr 80 100 120
+LithDens 20 30 40 50 70 90 140
+PseuMenz 50 80 90 180 190 200 210 220 290 300 310 320 330 340 380
+
+MapCode 550
+AcerMacr 70
+LithDens 30 40 50 60
+PseuMenz 40 50 60 70 80 90 100 110 120 180 190 220 270
+ThujPlic 110 120 140 160 180 200
+
+MapCode 551
+ChamLaws 20 40 60 140 260
+LithDens 20 30
+PseuMenz 20 40 50 60 150 230
+
+MapCode 552
+AcerMacr 20
+LithDens 30
+PseuMenz 20 30 40 50
+TsugHete 40
+
+MapCode 553
+CaloDecu 190
+ChamLaws 40 80 90 100 110 120 130 160 170 200 210
+ChryChry 50 60
+PinuLamb 50 80
+PseuMenz 60 70 80 90 100 110 120 130 140 150 160 170 180 190 200 210 230 240 260
+
+MapCode 554
+ArbuMenz 40 50 60 70 80 100
+LithDens 20 30 40 50 60 70 80 90 100 130
+PinuLamb 40
+PseuMenz 40 50 70 90 100 110 120 130 140 150 160 180 200 210 230 260 340
+QuerKell 40 50 60
+
+MapCode 555
+ChamLaws 70 80 90 100 150 170 180 190 490
+LithDens 50
+PseuMenz 80 90 100 110 120 130 140 150 170 180 190 200 210 240 250 270 300 530
+TsugHete 60 70 80 90 100 110 140 190
+
+MapCode 556
+ArbuMenz 60 70 80 90 100
+LithDens 30 40 50 60 70 80 90
+PinuLamb 120
+PseuMenz 100 210 230
+
+MapCode 557
+AcerMacr 40 50
+ArbuMenz 40 50 60
+LithDens 20 30 40
+PseuMenz 40 50 60 70 80 90 100 110 120
+
+MapCode 558
+AlnuRubr 50
+ChamLaws 30 60 70 80 90 100 110 120 130 160
+ChryChry 30 40 50
+LithDens 40
+PseuMenz 60 70 80 90 100 110 120 130 140
+TsugHete 50 70 80 100
+
+MapCode 559
+AcerMacr 60 70
+ChamLaws 160
+LithDens 10 20 30 40 50 60
+PseuMenz 70 80 90 100 120 130 150 160 180
+TsugHete 50
+
+MapCode 560
+AcerMacr 50 60
+ArbuMenz 30 40 50 60
+ChryChry 50
+LithDens 20 30 40 50 60
+PseuMenz 80 90 100 110 120 130 140 160 180 190 200 210 220 230 240 250 290
+
+MapCode 561
+ArbuMenz 30 40 50 60 120
+ChryChry 20 30
+LithDens 20 30 40 50 60 70 100
+PseuMenz 40 50 60 70 80 90 100 110 130 190 200 210 230 260
+TsugHete 60
+
+MapCode 562
+ChamLaws 20 70
+PseuMenz 20 30 40 50 60 70 80
+
+MapCode 563
+ChryChry 30
+PinuLamb 80
+PseuMenz 30 40 270
+TsugHete 20
+
+MapCode 564
+ArbuMenz 30
+LithDens 40
+PinuLamb 210 230 260
+PseuMenz 40 50 60 90 100 110 120 130 140 150 160 170 180 190 200 210 220 230 240 250 260 310
+ThujPlic 60
+TsugHete 40 70 80
+
+MapCode 565
+PinuCont 20 30 40 50
+
+MapCode 566
+AcerMacr 20 50 60 70 90
+AlnuRubr 20 30 70
+PseuMenz 80 90 100 110 120 480
+ThujPlic 90
+
+MapCode 567
+AbieGran 90
+AcerMacr 60 100
+PseuMenz 20 30 40 50 60 70 80 90 100 110 120 140 170 210 220
+ThujPlic 40 50 60 70 80 90 100 180 240 280
+TsugHete 70 90
+
+MapCode 568
+AcerMacr 60 70
+AlnuRubr 20 50
+PseuMenz 40 50 60 70 80 90 100 110 120 130 140 160
+
+MapCode 569
+AlnuRubr 30 40 50 60
+PseuMenz 50 60 70 80 90 100 110 120 130 150 180
+
+MapCode 570
+AcerMacr 20 30 50 60 80
+AlnuRubr 20 30
+PiceSitc 140
+PseuMenz 10 20 30 120 190 250
+ThujPlic 40
+TsugHete 20 30 50 80
+
+MapCode 571
+PiceSitc 20 30 40
+PinuCont 10 20 30 40 50
+
+MapCode 572
+PseuMenz 20 30 40
+TsugHete 20 30 40
+
+MapCode 573
+AlnuRubr 20 30 40
+PiceSitc 30 90 100
+PseuMenz 30 50 60 70 80 90 100 110 130 140
+ThujPlic 90
+
+MapCode 574
+AcerMacr 50 60 70 80
+AlnuRubr 50
+PseuMenz 130 190 230 240 250 260 270 280 320 350 370 390 450
+ThujPlic 60 100 180 320
+TsugHete 100 110 120
+
+MapCode 575
+AlnuRubr 20 30
+PiceSitc 80
+PseuMenz 50 60 70 80 90 100 110 150
+ThujPlic 50 60 70
+TsugHete 40
+
+MapCode 576
+AcerMacr 40 50 60 70 80 90 100
+AlnuRubr 40 50
+PseuMenz 50 60 70 80 90 100 190 250 290 300 330 340 350 410 500 510 520 620 740
+ThujPlic 90
+TsugHete 40 50 70 80 90 100 110 170
+
+MapCode 577
+AlnuRubr 10 20 30 40
+PiceSitc 40
+PseuMenz 20 30 40
+TsugHete 30
+
+MapCode 578
+PseuMenz 80 90 100 110 120 130 140 150 160 170
+TsugHete 50 60 70 80 90 100 120 130 140 150
+
+MapCode 579
+AcerMacr 50 60
+AlnuRubr 50
+PseuMenz 80 100 110 120 130 140 150 160 170
+ThujPlic 50 60 70 80 90 100 110 120 140
+TsugHete 30 40 70 80 120 130 140
+
+MapCode 580
+AcerMacr 30 60 70 80 90 100
+AlnuRubr 40 50
+PseuMenz 50 70 90 110 120 130 160 180 190 220 240 350 370 410 420 470
+ThujPlic 40 50 60 70 80 90 100 110 120 150 170 180 260
+TsugHete 100 110 120
+
+MapCode 581
+AlnuRubr 20 30 40
+PseuMenz 20 30 40 50 60
+TsugHete 30 40 50
+
+MapCode 582
+AcerMacr 20 30 50 60 70
+AlnuRubr 30 40 50 60
+PseuMenz 40 50 60 70 80 90 100 110 120 130 140 170 240 260 660
+TsugHete 30 40
+
+MapCode 583
+AlnuRubr 40 50 60
+PseuMenz 40 50 60 70 80 90 100 110 120
+ThujPlic 40 60 70 80 90 100 110
+
+MapCode 584
+AlnuRubr 40 50
+PseuMenz 50 60 70 80 90 100 110 120 130 140
+ThujPlic 50 60 70 80 90 100
+TsugHete 60 70 80 90
+
+MapCode 585
+AcerMacr 30 60 80
+AlnuRubr 40 50
+PseuMenz 50 60 70 80 90 100 110 120 130 140 150 160 180 200 220 240 250 360 460
+ThujPlic 40 50 70 100
+TsugHete 60 70 80 90 110 120 130
+
+MapCode 586
+AlnuRubr 20 50
+PseuMenz 50 60 70 80 90 100 110 120 130 140
+ThujPlic 90 100
+TsugHete 30 40 90
+
+MapCode 587
+AcerMacr 50
+AlnuRubr 20
+PseuMenz 60 80 90 100 110 120 130 140 150 160 180
+TsugHete 20 30
+
+MapCode 588
+AcerMacr 60 70 90 140
+AlnuRubr 40
+PseuMenz 20 30 40
+
+MapCode 589
+AcerMacr 20
+AlnuRubr 20 30
+PseuMenz 20 30 40
+TsugHete 20 30 40 50
+
+MapCode 590
+AlnuRubr 40 50 60 70
+PseuMenz 40 80 90 100 110 120 130 140 150 170 190 200 210 220 240 250 270
+ThujPlic 80
+TsugHete 80 100
+
+MapCode 591
+PseuMenz 20 30
+
+MapCode 592
+AlnuRubr 40 50 60 70
+PiceSitc 110
+PseuMenz 80 100 110 120 130 150 190 200 210 220 230 240 250
+TsugHete 30 40 50 60 80 110
+
+MapCode 593
+AcerMacr 70 80
+PseuMenz 120 130 140 150 170 180 190 200 220 230 240 290 310 330 340 360 740
+ThujPlic 70 80 140
+TsugHete 60 70 80 90 100 110 120 130 140 150 160
+
+MapCode 594
+AcerMacr 40
+AlnuRubr 20 30 40 50 60 70
+PseuMenz 50 60 70 80
+
+MapCode 595
+AcerMacr 30 40 50 70
+AlnuRubr 20 40 50 60
+PseuMenz 50 60 70 80 90 100 110 120 150 160
+ThujPlic 60 80
+TsugHete 80 90
+
+MapCode 596
+AlnuRubr 20 30 40
+PseuMenz 30 40 50 60
+
+MapCode 597
+AlnuRubr 30 40 50 60
+PiceSitc 40 60 70 80 90 100 120 130
+PseuMenz 60 70 90 110 120 140
+TsugHete 50 70 80 90 120
+
+MapCode 598
+PseuMenz 60 70 80 90 100 110 120 130 140 150 160 170
+
+MapCode 599
+AlnuRubr 30 40 50 60 70
+PseuMenz 60 100 130 140 150 160 180 210
+
+MapCode 600
+AlnuRubr 10 20 30
+PiceSitc 20 30 40
+PseuMenz 20 30 40 50
+TsugHete 30
+
+MapCode 601
+AlnuRubr 40 50
+PiceSitc 40
+PseuMenz 60 70 80 90 100 110 120 130 140 150 160 180 190 250
+TsugHete 70
+
+MapCode 602
+AlnuRubr 50
+PseuMenz 80 90 100 110 120 130 140 150 160 170 180 190 200 220
+
+MapCode 603
+AlnuRubr 20 30
+PseuMenz 40 50
+
+MapCode 604
+AlnuRubr 20 30 60
+PseuMenz 50 60 70 80 120 130 140 150 160 170 180 190 210 230 240 280
+
+MapCode 605
+AlnuRubr 20
+PseuMenz 20 30 40 50 60 140 170
+
+MapCode 606
+AcerMacr 50 60 70
+AlnuRubr 50 70
+PseuMenz 80 90 100 110 120 130 140 150 160 170 180 200 210 230 290 440
+ThujPlic 60 70 80 90 100 110 120 160 220 310 340 480
+TsugHete 50 70 80 100 120 130 150
+
+MapCode 607
+AlnuRubr 10 20 30 40 60
+PseuMenz 10 20 30 40
+TsugHete 20
+
+MapCode 608
+AlnuRubr 30 40
+PseuMenz 40 60 70 80 90 100 110 120 130 140 150 160 170 180 190 210 220
+TsugHete 50 60 70 90
+
+MapCode 609
+AcerMacr 20 30
+AlnuRubr 30
+PseuMenz 30 40 50 60
+
+MapCode 610
+AlnuRubr 20 30 40
+PseuMenz 20 40 150
+ThujPlic 30 40
+
+MapCode 611
+AcerMacr 20
+AlnuRubr 20
+PseuMenz 10
+
+MapCode 612
+AlnuRubr 20 30 40 50
+PseuMenz 20 30 40
+
+MapCode 613
+AlnuRubr 10
+PiceSitc 20 30
+PseuMenz 10 20 30
+TsugHete 10 20 30
+
+MapCode 614
+AcerMacr 50 60
+PseuMenz 50 60 70 80 90 100 110 120 130 140 150 190
+
+MapCode 615
+AlnuRubr 20 30 40
+
+MapCode 616
+AcerMacr 30 40 50
+PseuMenz 10 20 30 40 90 100 110 120 130 140 150 160
+
+MapCode 617
+AlnuRubr 40 50 60
+PiceSitc 70 80 90 100 120
+PseuMenz 60 70 90 100 110 120 130 140 150 160 170 200 210 220 240
+ThujPlic 70
+TsugHete 100
+
+MapCode 618
+AlnuRubr 50 60 70
+PseuMenz 190 200 280 340 520
+ThujPlic 60 70 90 110 120 130 200 220 240 250 260 280 290 320 350 370 530
+TsugHete 30 40 60 80 100 110 120 130 140 160
+
+MapCode 619
+PseuMenz 60 70 80 90 100 110 120 130 140 180
+ThujPlic 40 60 70 100
+TsugHete 40 50 80 100
+
+MapCode 620
+AlnuRubr 20 30 40
+PseuMenz 20 30 40 50 60
+ThujPlic 60 80
+
+MapCode 621
+PseuMenz 70 80 90 100 110 120 130 140 150 160 170 180 190 200 210 240
+TsugHete 40
+
+MapCode 622
+AlnuRubr 10 20
+PseuMenz 20 30 40
+
+MapCode 623
+AlnuRubr 40 50 60 70
+PseuMenz 60 70 80 90 100 110 120 130 140 160 180 190 210 220 230 240 260 280 310
+
+MapCode 624
+AcerMacr 20 30 40 50 60 70
+PseuMenz 100 110 120 130 140 150 160 170 190 200 210 220 230 240 280 310 380 410 440 470
+TsugHete 40 50 80 90 150
+
+MapCode 625
+AlnuRubr 40 50 60 70
+PiceSitc 70 120 190
+PseuMenz 70 90 100 110 170 180
+TsugHete 100
+
+MapCode 626
+AlnuRubr 20 30 40 50 60 70
+PseuMenz 30 40 50 60 70 90 130 200 210 220 230 250 260 290 350
+
+MapCode 627
+AlnuRubr 30 40 50 60
+PseuMenz 60 70 80 90 100 110 120 130 140 150 160 170 180 200 210 220 250 260 270
+
+MapCode 628
+AlnuRubr 20 30 40 50
+PseuMenz 60 70 80 90 100 110 120 130
+ThujPlic 60 90
+TsugHete 30 40 50 70 80 90 100 110 150
+
+MapCode 629
+AlnuRubr 20
+PiceSitc 20
+PseuMenz 10 20 30
+TsugHete 20
+
+MapCode 630
+AlnuRubr 20 30
+PiceSitc 70
+PseuMenz 40 60 70 80 110 120 130 140 150 160 170
+TsugHete 20 30 40 50 60 70 80 100 110 120 130 140
+
+MapCode 631
+PiceSitc 50 60 70 80 90 100 110 120 140
+PseuMenz 70 80
+TsugHete 20 30 40 60 70 80 90 100 110 120 130 140
+
+MapCode 632
+AlnuRubr 30 40 50 60
+PiceSitc 40 50 60 70 80 120 130
+PseuMenz 60 70 80
+TsugHete 40 50 60 70 80 90 100
+
+MapCode 633
+AlnuRubr 20 30 40
+PiceSitc 30 40 50
+PseuMenz 20 30 40 50
+TsugHete 30 40 50 60
+
+MapCode 634
+AlnuRubr 20 30 40 50 60 70 80
+PiceSitc 30 40 50 60 160
+PseuMenz 30 40 50 60
+TsugHete 30 40 50 60 70 80
+
+MapCode 635
+AlnuRubr 30 40 50 60 70
+PiceSitc 80 90 110
+PseuMenz 60
+
+MapCode 636
+AbieProc 20 30
+AlnuRubr 20
+PseuMenz 20 30
+TsugHete 20 30 40 50 60
+
+MapCode 637
+PseuMenz 50 60 70 80 90 100 110
+TsugHete 50
+
+MapCode 638
+AlnuRubr 30 40 50 60 70 90
+PseuMenz 100 120 140
+
+MapCode 639
+AlnuRubr 40 50
+PseuMenz 40 50 60 80 90 100 110 140 150
+
+MapCode 640
+AlnuRubr 30 40 50 60 70
+PiceSitc 50
+PseuMenz 40 50 60 70 80 90
+
+MapCode 641
+AlnuRubr 20 30
+PseuMenz 40 50 60 70 80 90 100 120 200 230
+
+MapCode 642
+PseuMenz 60 70 80 90 100
+
+MapCode 643
+AlnuRubr 40 50 60
+PseuMenz 60 70 80 90 100 110 120 130 140
+TsugHete 30 40
+
+MapCode 644
+AlnuRubr 40 50 60 70 80
+PiceSitc 40 70 80 100
+PseuMenz 70 90 100 110
+
+MapCode 645
+AlnuRubr 40 50 60 70
+PiceSitc 30 100 110 160
+PseuMenz 130 140 240
+TsugHete 110
+
+MapCode 646
+AlnuRubr 40 50 60 70
+PseuMenz 50 60 70 80 90 100 120 140 160
+
+MapCode 647
+AcerMacr 60
+AlnuRubr 30 40 50 60
+PseuMenz 40 50 60 70 80 110 170 180
+TsugHete 80
+
+MapCode 648
+AlnuRubr 10 20 50 60 70
+PiceSitc 130
+PseuMenz 10 20 100 110 160 180
+TsugHete 10 20 30 60 70 90 110 170
+
+MapCode 649
+CaloDecu 80
+ChryChry 70 80 90 110
+PseuMenz 10 30 40 50 60 70 80 90 100 110 120 130 140 150 160
+TsugHete 30 50 60 70 80 110
+
+MapCode 650
+CaloDecu 190
+LithDens 20 30 40 50 60 70
+PinuLamb 340
+PseuMenz 40 60 80 90 100 140 170 180 190 210 220 240 250 260 280 300 320 340 350 450
+ThujPlic 20 30 40 50 80 90 100 120 130
+TsugHete 30 40 50 60 80 90 100 130
+
+MapCode 651
+AbieGran 20 30 40 50 60 70
+AcerMacr 30 40
+AlnuRubr 30 40 60
+CaloDecu 40 50 60 70
+LithDens 20
+PseuMenz 30 40 50 60 70 80
+
+MapCode 652
+AbieGran 60 90 100
+ArbuMenz 40 60 80 90 160
+CaloDecu 190
+ChryChry 90
+PinuLamb 120
+PseuMenz 50 60 70 80 90 100 110 120 130 140 170 190 200 210 220 240 250 350
+
+MapCode 653
+AbieGran 30
+ChryChry 30 40
+PseuMenz 30 40 50 60
+ThujPlic 60
+TsugHete 30 40 50 60 70
+
+MapCode 654
+AbieGran 30 40 50 60 80 90
+AlnuRubr 20 30 40 50 60
+ArbuMenz 30 40
+PseuMenz 20 30 40 50 60 70 80 90 100
+ThujPlic 20 50
+TsugHete 30 40 60
+
+MapCode 656
+AbieGran 50 80
+AcerMacr 20
+AlnuRubr 20 30 40
+ChamLaws 40 60 90 100 110 120 130 140
+LithDens 20 30 40
+PseuMenz 20 30 50
+TsugHete 40 50 60 70 100
+
+MapCode 657
+AbieGran 20 40 50 60 70 80 90
+ArbuMenz 20 30 40
+ChamLaws 10 20 30 40 50 60 70 80 90
+PseuMenz 40 50 60 70 90 160
+TsugHete 70
+
+MapCode 658
+AbieGran 40 90
+AcerMacr 40 50 90
+AlnuRubr 20 30 40 50
+ChamLaws 20 40
+PseuMenz 30 40 50 60
+ThujPlic 50
+TsugHete 40 50 80
+
+MapCode 659
+AcerMacr 50 60 70
+AlnuRubr 20 30
+ChamLaws 70 100 130
+PseuMenz 50 90 100 110 120 130 140 150 180
+ThujPlic 100 140 250
+TsugHete 40 50
+
+MapCode 660
+AlnuRubr 20 30 40 50 60 70
+PseuMenz 40 50 60 70
+
+MapCode 661
+AlnuRubr 30 40
+ChryChry 20 30
+LithDens 20 30
+PseuMenz 30 40 50 60
+TsugHete 30 40 50
+
+MapCode 662
+PseuMenz 20 30 40 50
+
+MapCode 663
+AcerMacr 40 50 70
+AlnuRubr 30 40 50 60 70
+PseuMenz 60 70 90
+ThujPlic 60
+
+MapCode 664
+PseuMenz 20 30 40 50
+
+MapCode 665
+PseuMenz 10 20 30 40
+TsugHete 20 30 40
+
+MapCode 666
+AbieGran 40 70
+ArbuMenz 30
+ChryChry 40
+PseuMenz 20 40 50 60 70 80 90
+
+MapCode 667
+PseuMenz 20 30 40
+
+MapCode 668
+ArbuMenz 40 60 70 80
+PseuMenz 10 20 100
+QuerGarr 40
+QuerKell 120
+
+MapCode 669
+AbieGran 60 70 80 90 190
+AcerMacr 70
+ArbuMenz 40 60 70 80
+ChryChry 50 60
+PseuMenz 40 50 60 110 120 130 140 150 160 170 180 190 200 210 220 230 270 290 300 360 400 410 430
+
+MapCode 670
+AbieGran 40 50 60 70
+AlnuRubr 20 30
+PseuMenz 30 40 50 60 70 80 150 190 320 470
+ThujPlic 40 50 60 110
+TsugHete 10 40 50 60 70 80 90 100
+
+MapCode 671
+CaloDecu 70
+ChryChry 20
+PinuPond 30 40
+PseuMenz 10 20 30 40 50 60 70 80 90 160
+QuerKell 80
+
+MapCode 672
+PseuMenz 10 20 30 40 50 60 70
+QuerKell 40
+
+MapCode 673
+AcerMacr 20
+PseuMenz 10
+
+MapCode 674
+AbieGran 20
+AlnuRubr 20
+PseuMenz 10 20 30
+TsugHete 10 80
+
+MapCode 675
+AcerMacr 20 30 40 50
+ChryChry 20 30
+PseuMenz 30 40 50 60 70
+
+MapCode 676
+AbieGran 20
+PseuMenz 10 20
+
+MapCode 677
+PseuMenz 10 20 30
+
+MapCode 678
+AcerMacr 60
+AlnuRubr 30
+PseuMenz 100 130 140 150 170 180 190 200 220 230 240 250 260 280 330 350
+ThujPlic 50 90 110 120 150 160
+TsugHete 40 50 60 70 80 100 140
+
+MapCode 679
+AcerMacr 20 30 40 50
+AlnuRubr 20 30 40 50
+PseuMenz 20 30 40 50
+ThujPlic 30 40 50 60 70
+
+MapCode 680
+AcerMacr 30 40 50 60 80 90
+AlnuRubr 20 50
+PseuMenz 60 70 80 90 110 120 160 180 190 200 220 280 320 460
+ThujPlic 40 50 100 110 150 190 220 230 310
+TsugHete 40 50 60 70 80 90 100 120 150
+
+MapCode 681
+AcerMacr 50 60
+AlnuRubr 10 20
+PseuMenz 10 20
+
+MapCode 682
+AcerMacr 20
+AlnuRubr 20
+PseuMenz 30 40 50 60
+
+MapCode 683
+AcerMacr 30 40 50 60 100
+PseuMenz 60 70 80 90 100 110 120 140 170 180 190 200 210 220 230 250 260 270 290 310 320
+
+MapCode 684
+PseuMenz 10
+
+MapCode 685
+AcerMacr 40 50
+PinuPond 30 40 60
+PseuMenz 30 40 50 60 70 80 90 110
+
+MapCode 686
+AcerMacr 30 40 50
+PseuMenz 30 40 50 60 70 80 90 100 110 140
+TsugHete 30 60
+
+MapCode 687
+AcerMacr 60
+PseuMenz 30 40 50 60 70 80
+TsugHete 30 40 50 60 70
+
+MapCode 688
+AcerMacr 30
+PseuMenz 40 50 60 70 80 100 160 180
+TsugHete 30
+
+MapCode 689
+AcerMacr 30 50 60
+AlnuRubr 10 20 30 60
+ChryChry 70
+PseuMenz 50 60 70 80 90 100 110 120 130 160 170 240
+
+MapCode 690
+AbieProc 30 40
+PseuMenz 30 40 50 60 70 80
+ThujPlic 70
+TsugHete 40 60 70 80
+
+MapCode 691
+AbieGran 70
+AbieProc 80
+PseuMenz 20 30 40 50 60 70 80 100 210 230 580 620
+TsugHete 30 40 50 60 80
+
+MapCode 692
+AlnuRubr 20
+PseuMenz 40 50 60 70 80 90 100
+
+MapCode 693
+PseuMenz 20 30 90 110
+
+MapCode 694
+AcerMacr 30 50 60
+PseuMenz 10 20 30
+
+MapCode 695
+AcerMacr 20 30 40 50 60
+AlnuRubr 20 30 40 50
+PseuMenz 20 30 40 50 60 70 80
+TsugHete 30 40 50 60 70
+
+MapCode 696
+AlnuRubr 10 20
+PseuMenz 10 20 30 40
+TsugHete 10
+
+MapCode 697
+AbieProc 30
+PseuMenz 30 40 50 60 70 80
+TsugHete 30 40 50 60 70
+
+MapCode 698
+PseuMenz 30 40 50 60 70 80 90
+
+MapCode 699
+AlnuRubr 30 40
+PseuMenz 30 40 50 60 70 100
+
+MapCode 700
+AlnuRubr 10 20 30 40 50
+PseuMenz 20 30 40 50
+
+MapCode 701
+AcerMacr 30 50
+AlnuRubr 20 40 50 60
+PseuMenz 30 40 50 60 70 80 90
+ThujPlic 30 50 60 70 80
+TsugHete 40 50 60 70
+
+MapCode 702
+AcerMacr 80 90
+LithDens 20 30 40 50 60 70 80 90
+PseuMenz 50 80 100 140 210 330
+
+MapCode 703
+ChryChry 20 30 40
+LithDens 20 30
+PseuMenz 30 40
+
+MapCode 704
+ArbuMenz 20 30 40 50
+LithDens 20 30 40 50 60 70 80 100 110 160
+PseuMenz 40 50 60 110 150 310
+
+MapCode 705
+ArbuMenz 20 30 40 50
+LithDens 20 30 40 50 60 70 80
+PseuMenz 20 30 40 80 90 100 110 120 130 140 160 180 200
+
+MapCode 706
+ArbuMenz 60
+LithDens 20 30 40 50
+PseuMenz 20 30 40 50 60
+
+MapCode 707
+AlnuRubr 20 30 50
+LithDens 20 30 40 60 70
+PseuMenz 30 40 50 60 70
+
+MapCode 708
+LithDens 20 30 40 50 60 70 80 90 100
+PseuMenz 20 30 40 50 60 170 180 190 200 210 230 240 250 260 280 330 360 460
+
+MapCode 709
+AlnuRubr 20 30 40 50
+ArbuMenz 30 50
+LithDens 20 30 40
+PseuMenz 20 30 40 50 60 70 80
+
+MapCode 710
+ArbuMenz 70 90 100 110 120
+LithDens 30 40 50 60 70 80 90 100 110 120 130 140
+PinuLamb 40
+PseuMenz 30 40 120 210 220 230 240 250 260 290 310 320 330 340 740
+
+MapCode 711
+ArbuMenz 30 40 50 60 70
+LithDens 30 40 50 60 70 80
+PseuMenz 50 60 80
+
+MapCode 712
+AcerMacr 60 80 100 110
+ArbuMenz 50 60 70 80 90 100 110
+ChryChry 40 60
+LithDens 30 40 50 60 70 80 130
+PseuMenz 40 70 80 100 150 160 240 270 300 310 380 470
+
+MapCode 713
+ArbuMenz 40
+LithDens 30 40 50
+PinuLamb 40 60 70 100 120 140 190 200 220 240
+PseuMenz 30 40 60 70 200 220
+
+MapCode 714
+ArbuMenz 40 60 70
+LithDens 30 40 50
+PinuLamb 480
+PseuMenz 40 50 60 150 160 170 190 200 210 220 230 250 260 280 290 310 320 330 340 350 390
+
+MapCode 715
+PseuMenz 20 30 40 60 70 80 100 140 300
+
+MapCode 716
+LithDens 30 40 50 60 70 80
+PseuMenz 30 40 150 160 170 180 190 200 210 250 260 300 330
+
+MapCode 717
+ChryChry 30 40
+PinuLamb 190 200 220 270
+PseuMenz 90 100 110 120 130 140 150 160 170 180 190 200 210 220 230 250
+
+MapCode 718
+ArbuMenz 30 40 50 60
+ChryChry 40 50 60
+LithDens 40 50 60
+PinuLamb 130 140 160 200 220 240 490
+PseuMenz 60 70 80 90 100 110 120 130 140
+
+MapCode 719
+AbieGran 60 80 90 110 230 240
+CaloDecu 170
+ChamLaws 150
+ChryChry 30 40
+PinuLamb 420 440
+PseuMenz 100 110 120 170 180 190 200 210 220 230 250 280 320 350
+TsugHete 40 50 60 70 80 90 100 110 120 130 240 270
+
+MapCode 720
+AbieGran 70 80 120 170
+CaloDecu 90 100 120
+PinuLamb 70
+PseuMenz 60 70 80 90 100 110 120 130 140 150 160 170 200 210 220 260 270 280 320 740
+TsugHete 50 60 70 80 90
+
+MapCode 721
+ArbuMenz 40 70
+ChamLaws 40 50 80 90 100 120 130 150 170 180
+ChryChry 40 50 60
+LithDens 30 40 50 60
+PseuMenz 40 50 70 90 100 130 150 160 170 180 190 220 230 250 290 310 320 340
+TsugHete 60
+
+MapCode 722
+AlnuRubr 20 30 40 50
+PseuMenz 30 40 50 60 70
+TsugHete 30 40 50 70
+
+MapCode 723
+AbieGran 30
+ChamLaws 20 30 40 50
+PseuMenz 20 30 40 50
+TsugHete 20 30 40 50
+
+MapCode 724
+AbieGran 40 90
+ArbuMenz 30
+CaloDecu 30 40 60 80
+PseuMenz 20 30 40 50 60 80 270
+
+MapCode 725
+ArbuMenz 30 40 50 60 70 80
+ChryChry 40 50 60 80
+PinuLamb 30 60
+PseuMenz 40 50 60 70 90 140 170 180 260 270 350 360
+
+MapCode 726
+AbieGran 40 50 60 70 80 90 100 110 120 130 200
+CaloDecu 40 60 90 100 110 160 190
+ChryChry 50 120
+PinuLamb 160 300
+PseuMenz 30 40 50 90 100 110 120 130 140 150 160 170 180 190 200 210 220 230 260 270 280 290 310 340 350 370 380
+
+MapCode 727
+AlnuRubr 30 40 50
+PseuMenz 40 50 60 70 80 130
+TsugHete 20 30 40 50 60 70 80 90
+
+MapCode 728
+PseuMenz 10 20 30 40
+
+MapCode 729
+AbieGran 40 60 70 80 90 100 110 120 130
+ArbuMenz 30 40
+CaloDecu 50 130 140 150 170 190
+ChryChry 40 50 60 80
+PinuLamb 50
+PseuMenz 30 50 60 70 80 100 110 120 130 140 150 200 220 260 280 350
+TsugHete 40 50 60 70 120 170
+
+MapCode 730
+AbieGran 60 80
+ArbuMenz 30 40 60
+CaloDecu 120 190
+PseuMenz 50 70 80 90 100 110 120 130 140 150 160 170 180 200
+
+MapCode 731
+AcerMacr 40 50 70
+AlnuRubr 10 20 50
+ChamLaws 210
+LithDens 20 30
+PseuMenz 50 60 70 80 90 110 120 130 140
+TsugHete 40 50
+
+MapCode 732
+AbieGran 50
+AlnuRubr 40
+CaloDecu 30
+PseuMenz 20 30 40 50 60 70
+ThujPlic 40 50 60
+
+MapCode 733
+AbieGran 80 100
+ArbuMenz 30 40 50 60
+CaloDecu 60 100 140
+PseuMenz 50 60 70 80 90 100 110 120 130 140 150 160 170 180 190
+
+MapCode 734
+AbieGran 50 60 70 80 90 100 110 120 130
+CaloDecu 190
+PseuMenz 50 60 70 80 90 100 110 120 130 140 160 200 230 250 300 340 370 450 740
+ThujPlic 30 40 50 60 70 80 90 100 110 260 300
+TsugHete 60 100
+
+MapCode 735
+AbieGran 60
+AcerMacr 50 60
+AlnuRubr 20 30
+ArbuMenz 60
+ChamLaws 40
+ChryChry 40 60
+LithDens 30 40
+PseuMenz 60 100 110 120 130 140 150 160 170 180 190 200 210 220 250 270
+TsugHete 40 50 60 70
+
+MapCode 736
+AbieGran 20 30 40 50 60 70
+ArbuMenz 30
+PseuMenz 20 30 40
+
+MapCode 737
+PseuMenz 20 200
+
+MapCode 738
+AbieGran 30 40 50
+ArbuMenz 30 40 50 60 70 90
+CaloDecu 30 40 60 130 150
+ChryChry 50 100
+PseuMenz 30 40 50 60 70 80 90 100
+
+MapCode 739
+AbieGran 40 50 60 70 80
+ArbuMenz 30 40 90
+CaloDecu 30 50 130
+PseuMenz 20 40 50 60 70 80 90 100
+
+MapCode 740
+LithDens 20 30 40 50 60 70 90
+PseuMenz 30 40 50 60 70 80 90 110 120 200 210
+
+MapCode 741
+ArbuMenz 30 40 50 60
+ChryChry 60
+PinuPond 30 40
+PseuMenz 30 40 50 60 70 80
+
+MapCode 742
+AlnuRubr 20 30
+PseuMenz 20 30 40
+
+MapCode 743
+ChamLaws 50 70 80
+PseuMenz 40 50 60 70 80 90 100 110
+TsugHete 50 60 70 80
+
+MapCode 744
+AlnuRubr 30
+PseuMenz 20 30 40 50
+
+MapCode 745
+AbieGran 50 60 120 150 190
+AcerMacr 40 50 60 70 80 120
+AlnuRubr 20 30
+PseuMenz 30 50 80 340 510
+ThujPlic 60 70 130 140 220 230 440 460 480
+TsugHete 40 50 60 70 80 90 110 120 140 150 210 220
+
+MapCode 746
+AbieGran 90
+AcerMacr 50
+AlnuRubr 50
+LithDens 20 30 40
+PseuMenz 70 80 90 100 110 120 130 140 160
+ThujPlic 80
+
+MapCode 747
+AbieGran 30 40 50
+AcerMacr 40 50 120
+AlnuRubr 20 30 50
+PseuMenz 20 30 40 50 60 70
+
+MapCode 748
+AbieGran 50 60 70
+AcerMacr 30 40 50 60 70
+AlnuRubr 30 40
+PseuMenz 40 50 60 70 80 90 240 390
+ThujPlic 50 60
+TsugHete 30 40 50 60 100
+
+MapCode 749
+LithDens 20
+PseuMenz 30 40 50 60 70 100
+
+MapCode 750
+AlnuRubr 30 40 50 60
+ChamLaws 100 120 180 280 330 490
+PseuMenz 100 120 130 140 150 170 180 220 230 240 270 290 620
+TsugHete 50 60 70
+
+MapCode 751
+AcerMacr 40 50 60
+AlnuRubr 30 40 50 60
+ChamLaws 40
+PseuMenz 30 50 60 70 80 90 100 110 120 130 160 190
+
+MapCode 752
+ChamLaws 50 60 70
+PseuMenz 80 90 100 110 120 130 140 150 160 170 180 190 220 270
+TsugHete 40 50 60 70 80 100 110
+
+MapCode 753
+AcerMacr 50 60 70 110
+ChamLaws 40 90 100 120 130 140 180 190 200 210 230 240 290 330 350 360 370 490
+PseuMenz 100 110 120 200 210 220 260 320 440 470 570
+ThujPlic 100 120
+TsugHete 40 50 60 70 80 90 100 160 170 210 240
+
+MapCode 754
+PseuMenz 20 30 40 50 60
+TsugHete 20 40 50 60 100 150
+
+MapCode 755
+AbieGran 40
+AcerMacr 20 30 40
+AlnuRubr 20 30 40 50
+PseuMenz 30 40 50 60
+
+MapCode 756
+AbieGran 50 60 70 80
+AcerMacr 50
+AlnuRubr 40
+LithDens 50
+PseuMenz 30 40 50 60 70 80 90 100 110 150
+ThujPlic 40 50 60 70
+TsugHete 40 50 60 80
+
+MapCode 757
+AlnuRubr 40
+ChryChry 20
+PseuMenz 20 30 40
+TsugHete 40 280
+
+MapCode 758
+AcerMacr 20 30 40 50 60 70
+AlnuRubr 20 30 40 50 60
+PseuMenz 40 180 260 340
+
+MapCode 759
+AcerMacr 40 50 60 100 110 190
+AlnuRubr 20 30 40 60
+PseuMenz 260 330 340 380
+ThujPlic 100 110 120 140 150 160 190 200 220 230 270 360
+
+MapCode 760
+ChryChry 40
+PseuMenz 40 50 60 70 80 90
+TsugHete 30 40 50 60 70 80 90 100
+
+MapCode 761
+AbieGran 30 50 60
+ArbuMenz 50
+CaloDecu 30 190
+ChryChry 80
+PseuMenz 50 60 70 80 90 100 140 160 230 250 260 290 300 340 360 370 420 440
+ThujPlic 50 80 100 110 140
+TsugHete 50 60 70 80 90 100 110 130 140
+
+MapCode 762
+AlnuRubr 20 30 40 50
+PseuMenz 30 40 50 60
+TsugHete 30 40 50 60 70
+
+MapCode 763
+PseuMenz 280 290 300 310 320 330 340 350 380 390 400 410 440 460 610 650
+ThujPlic 80
+TsugHete 50 60 70 80 90 100 110 120 130
+
+MapCode 764
+AcerMacr 40 60 70
+AlnuRubr 30 40 50 60 70
+PseuMenz 30 50 60 70 80 90
+ThujPlic 60
+
+MapCode 766
+PseuMenz 100 110 120 160 170 190 200 210 230 240 250 270 280 290 530
+ThujPlic 160 210
+TsugHete 50 60 70 80 90 100 110 120 140 210
+
+MapCode 767
+AcerMacr 30 40 60 70
+AlnuRubr 30
+ArbuMenz 30
+PseuMenz 110 130 140 150 170 180 190 200 210 220 230 240 250 260 320 370
+ThujPlic 90
+TsugHete 30 40 50 60 70 80 90 100
+
+MapCode 768
+AlnuRubr 20 30 40 50
+PseuMenz 30 40
+ThujPlic 30
+TsugHete 30 40 50 60
+
+MapCode 769
+PseuMenz 40 50 60 70 80 90
+TsugHete 40 50 60 70 80
+
+MapCode 770
+AcerMacr 30 50 60 70 90
+PseuMenz 30 40 50 60 70 80 100
+
+MapCode 771
+AlnuRubr 40
+ChryChry 10 20
+PseuMenz 30 40 50 60 70 80
+ThujPlic 40 50
+TsugHete 50
+
+MapCode 772
+AcerMacr 30 40 70 90
+AlnuRubr 20 30 40 50 70
+LithDens 20 30 50 60 70
+PseuMenz 30 40 50 60 80 260 470
+TsugHete 40
+
+MapCode 773
+AlnuRubr 20 30 40
+PseuMenz 20 30 40 50
+TsugHete 20 30 40 50 60
+
+MapCode 774
+AcerMacr 30 40
+PseuMenz 50 60 70 80 90 100 110 120 130
+
+MapCode 775
+AbieGran 50
+AcerMacr 20 30 40 60 70 130
+AlnuRubr 20 30 40 50 90
+PseuMenz 30 40 50 60 70 80 90
+ThujPlic 40 50
+TsugHete 40 60 70
+
+MapCode 776
+AlnuRubr 20 30 40 50 60
+PseuMenz 40 50 60 70 80 90 100
+ThujPlic 30 40 50 60 70 80 90 100
+
+MapCode 777
+AlnuRubr 50
+PseuMenz 40 50 60 70 90
+TsugHete 40 50
+
+MapCode 778
+AlnuRubr 20 60
+PseuMenz 20 30 40
+ThujPlic 20 40 50
+TsugHete 20 30 40 50 60 70
+
+MapCode 779
+AlnuRubr 20 30 40 50
+ChryChry 30 40
+PseuMenz 40 50 60 120 130
+TsugHete 40 50 60 70 80 90 100 120
+
+MapCode 780
+AcerMacr 50 60 70 80 90
+PseuMenz 60 210 240 250 260 280 290 310 320 360 380 400 440 480
+ThujPlic 60 70 80 100 110 120 140 160 190 210 240 300
+TsugHete 40 50 60 70 80 90 100 110 120 130 160
+
+MapCode 781
+ArbuMenz 30 40
+ChryChry 40 50 60
+PseuMenz 40 50 60 70 80 90 110 120 140
+TsugHete 40 50 60
+
+MapCode 782
+AbieGran 40 80
+AcerMacr 30 40
+ChryChry 60
+PseuMenz 30 40 50 60 70 80 90 100
+
+MapCode 783
+AlnuRubr 20 30
+ChryChry 20 60
+PseuMenz 20 30 40 50 210
+TsugHete 20 30 40 50 70
+
+MapCode 784
+ChryChry 60
+PseuMenz 100 110 120 130 140 150 160 170 180 190 200 220 230 260 270 420
+ThujPlic 100 110 130 180 220
+TsugHete 50 80 90 100 110 120 130 140 160 180 190 210 230
+
+MapCode 785
+AbieGran 70
+AcerMacr 20 30 40 50 90 100 120 140 170
+AlnuRubr 30 40 50
+PseuMenz 60 70
+ThujPlic 310
+TsugHete 50 60 70 90 100 120
+
+MapCode 786
+AbieGran 100
+AcerMacr 30 40 50 60
+AlnuRubr 30 40
+ArbuMenz 40 60
+PseuMenz 50 60 70 80 90 100 110 120 130 140 150 160 170 180 190 200 230 240 270 300 310
+ThujPlic 50 80 90 100
+
+MapCode 787
+AlnuRubr 20 30 40 50
+PseuMenz 30 40
+ThujPlic 30 40 50
+TsugHete 30 40
+
+MapCode 788
+PseuMenz 30 40 50 60 70 80
+TsugHete 30 40 50
+
+MapCode 789
+AcerMacr 40 50 60 70 80 110
+AlnuRubr 40 50
+PseuMenz 100 110 120 130 140 160 170 180 190 210 220 240 250 260 420
+ThujPlic 100 120
+TsugHete 110
+
+MapCode 790
+AcerMacr 70 80
+ArbuMenz 30 40 50 60 70
+PseuMenz 10 20 30 80
+
+MapCode 791
+AbieGran 20
+PseuMenz 20 30 40 50 60 240 370
+ThujPlic 60 70 110 140
+
+MapCode 792
+AbieGran 40 50 70
+AcerMacr 50 60 70 80 90
+AlnuRubr 30 50 60
+PseuMenz 60 70 80 90 100 110 450
+ThujPlic 60 70 90 110 120 140 180
+TsugHete 60
+
+MapCode 794
+AbieGran 50 60 70 80
+AcerMacr 30 40 50 60 70 80
+ChryChry 40 60
+PseuMenz 100 120 140 150 160 170 200 210 220 240 250 260 270 280 290 300 440 460
+ThujPlic 80 90 100
+TsugHete 70
+
+MapCode 795
+AbieGran 60 70 80 90 100 110 120 130 150
+ArbuMenz 60 120
+PseuMenz 40 60 70 80 90 100 110 120 130 140 150 160 170 180 190 200 210 220 240 270 280 300 320 350
+
+MapCode 796
+AbieGran 30 40 50 60 80
+AcerMacr 40 50 60
+AlnuRubr 20 30 40 50
+CaloDecu 80
+ChryChry 30 40 60
+PseuMenz 40 50 60 80 90
+ThujPlic 50 60 70 80 90 110 120
+TsugHete 60 70 80 100
+
+MapCode 797
+AbieGran 30 50 60 70 80 90
+AlnuRubr 20
+CaloDecu 80
+PseuMenz 40 50 60 70
+ThujPlic 30 60 80 90 100
+TsugHete 30 40 50
+
+MapCode 798
+PseuMenz 20 30 40 50
+
+MapCode 799
+ArbuMenz 40 50
+PseuMenz 40 60 70 80 90 100 110 120 130 140 150
+
+MapCode 800
+AcerMacr 30
+PseuMenz 40 50 60 70 80 90 100 110 120
+
+MapCode 801
+AlnuRubr 20
+PseuMenz 30 40 50
+
+MapCode 802
+AcerMacr 60 70 90
+ArbuMenz 40 50 70
+ChryChry 70 90 120
+PseuMenz 60 80 90 100 120 140 150 160 190 240 270 300 310 380 420 450
+ThujPlic 80 150 230
+TsugHete 20 40 50 60 70 80 90 100 110 140
+
+MapCode 803
+PseuMenz 20 30 40 50
+
+MapCode 804
+PseuMenz 20 30 40
+TsugHete 20 30 40
+
+MapCode 805
+AbieGran 50 60 70
+AcerMacr 40 50 60 70
+ArbuMenz 30
+CaloDecu 120
+PseuMenz 30 40 50 60 70 80 90 100
+
+MapCode 806
+ChryChry 20
+PseuMenz 30 40 50 60 70 80 90 100
+ThujPlic 60 70
+TsugHete 40 50 60 70 80 90 100 110
+
+MapCode 807
+AcerMacr 40 50 60 70
+PseuMenz 60 70 80 90 100 110 120 150 170
+
+MapCode 808
+AcerMacr 20 30 40
+AlnuRubr 20 30 40 60
+PseuMenz 30 40 50 60
+TsugHete 30 60
+
+MapCode 809
+AbieGran 70
+AcerMacr 50 60
+PseuMenz 40 50 60 70 80 90 100 110 120
+
+MapCode 810
+AbieGran 40 50 60 90 100 130
+AcerMacr 30 40 50 60
+AlnuRubr 50
+CaloDecu 60 100
+PseuMenz 20 60 70 90 120 160 190 200 220 240 250 260 310 320 330 360 390 400 410 460 480 500
+
+MapCode 811
+AbieGran 40
+AcerMacr 20 30 50
+AlnuRubr 10
+ChryChry 30
+PseuMenz 20 30 40 50 60
+TsugHete 20 30 40
+
+MapCode 812
+AcerMacr 20 30 40 50 60
+AlnuRubr 20 30 40 50 60
+PseuMenz 40 50 60 70
+TsugHete 40
+
+MapCode 813
+AcerMacr 30 50 60 70
+PseuMenz 90 100 110 120 130 140 150 160 170 180
+
+MapCode 814
+PseuMenz 10 20 30 40
+
+MapCode 815
+AcerMacr 50
+PseuMenz 20 30 40 50 60 70 80 100
+
+MapCode 816
+AcerMacr 50 60 70 80
+AlnuRubr 10 40 50 60
+PseuMenz 50 80 100 110 120 180 190 200 320 330 400 520
+ThujPlic 50 60 70 80 90 100 110 120
+TsugHete 60 70 80 90 100
+
+MapCode 817
+PseuMenz 40 50 60 70 80
+
+MapCode 818
+ChryChry 40 60 70
+PseuMenz 40 60 70 80 90 100 110 120 130 140 160 510
+ThujPlic 50 60 70 80 90
+TsugHete 40 50 60 70 80 90
+
+MapCode 819
+AcerMacr 30 40
+AlnuRubr 30
+PseuMenz 30 40 50
+
+MapCode 820
+AcerMacr 50 60 90
+AlnuRubr 40 50 60
+PseuMenz 40 50 60 70 80 90 100 110 130 170 180 210 240 270 430
+ThujPlic 50 60 100 110 220
+TsugHete 50 60 70 80 100
+
+MapCode 821
+AcerMacr 20 30 40 60
+AlnuRubr 20 30 40
+PseuMenz 30 40 50 90 100 120 140 240 380
+ThujPlic 50 60
+TsugHete 20 30 40 50 60
+
+MapCode 822
+AcerMacr 20 30 40 50 60 70
+AlnuRubr 20 30 40 50
+ChryChry 30
+PseuMenz 20 30 40 50 60 70 80 90 110 130 150 160 170
+ThujPlic 60 100 110
+TsugHete 20 40 50
+
+MapCode 823
+AlnuRubr 20 30
+ChryChry 50 60
+PseuMenz 30 40 50 60 70
+ThujPlic 120
+TsugHete 30 40 50
+
+MapCode 824
+AcerMacr 30
+PseuMenz 40 50 60 70 80 90 100 110 120 130 140 150 160 170 180 190 200 210 240 270
+
+MapCode 825
+AcerMacr 30 40 50 60
+PseuMenz 30 40 50 60 70 80 90
+TsugHete 40 70
+
+MapCode 826
+AlnuRubr 40 50
+PseuMenz 20 40 50 60 70 80 90 100
+ThujPlic 60
+TsugHete 30 40 50 60 70 80 90
+
+MapCode 827
+AcerMacr 30
+AlnuRubr 40 50
+PseuMenz 30 40 50 60
+TsugHete 30
+
+MapCode 828
+AcerMacr 20 30 40
+AlnuRubr 20 30
+PseuMenz 20 30 40 50
+
+MapCode 829
+AcerMacr 20 30
+PseuMenz 20 30 40 50
+
+MapCode 830
+AcerMacr 30 40
+AlnuRubr 30 40
+ChryChry 40
+PseuMenz 30 40 50 60 70 80
+
+MapCode 831
+AcerMacr 50 60 70
+PseuMenz 80 100 110 120 130 140 150 160 180 190 310 320 350 400 430 440 450 580 740
+TsugHete 50 70 80 90 100 110 120
+
+MapCode 832
+AcerMacr 20 30
+PseuMenz 20 30 40 50 60
+TsugHete 20 30 40 50
+
+MapCode 833
+AcerMacr 40
+AlnuRubr 20 30 50
+PseuMenz 30 40 50 60 70 90 100 110 200 400 510
+ThujPlic 80
+TsugHete 30 40 50 60 70 80 100
+
+MapCode 834
+PseuMenz 40 50 60 70 80 130 170 430
+TsugHete 40 50 60 70 80 90 100
+
+MapCode 835
+PseuMenz 10
+
+MapCode 836
+AcerMacr 30 40 50 60 70 90
+PseuMenz 60 100 120 200 220 250 300 310 360 390 480
+ThujPlic 50 80 90 160 170 200 210 250 280
+TsugHete 30 40 50 60 70 100 120
+
+MapCode 837
+AcerMacr 20 30 40 50 80 90 100
+AlnuRubr 30 40 50 60
+PseuMenz 40 50 60
+ThujPlic 180
+TsugHete 40 50 60 70 80
+
+MapCode 838
+AlnuRubr 20 30
+PseuMenz 30 40 50 60
+TsugHete 40 60
+
+MapCode 839
+AcerMacr 30 50 60 160
+PseuMenz 60 70 80 90 100 110 120 130 270 310
+
+MapCode 840
+AlnuRubr 10 20 30
+PseuMenz 20 30 40
+TsugHete 20
+
+MapCode 841
+PseuMenz 50 60 70 80 90 100 110 120 130 140 150 170 240 270 310 340 400
+
+MapCode 842
+AcerMacr 20 30 40
+PseuMenz 20 30 40 50
+ThujPlic 90
+TsugHete 20
+
+MapCode 843
+ChryChry 40
+PseuMenz 20 30 40
+TsugHete 30
+
+MapCode 844
+AcerMacr 20 30
+PseuMenz 20 30 40 50 60
+TsugHete 20 30 40 50
+
+MapCode 845
+AbieGran 30 40
+AcerMacr 20 30
+CaloDecu 50 120
+ChryChry 30
+PseuMenz 20 30 40 50
+
+MapCode 846
+AcerMacr 50 60 70 80 100
+AlnuRubr 40 50 60
+PseuMenz 100 110 120 140 150 160 180 190 200 210 220 230 270 290 320 340 350
+ThujPlic 80
+
+MapCode 847
+AcerMacr 50 60 70 80
+AlnuRubr 40 50
+PseuMenz 70 80 90 100 110 120 130 140 150 160 180 210 240 250 300
+ThujPlic 60 80 90 100
+TsugHete 40 50 60 70 80 90 100 110
+
+MapCode 848
+AcerMacr 30 40 50 60 80
+PseuMenz 40 50 60 70 80 90 100 110 200 210 250 280 300 320 350 380 390 430 440 480 670
+ThujPlic 100 110 260
+
+MapCode 849
+AcerMacr 30 40 50 60 70 80 90 120
+AlnuRubr 40 50 60 70
+PseuMenz 50 70 80 100 110 220 330 360
+ThujPlic 40 50 60 70 80 100 210
+
+MapCode 850
+PseuMenz 20 30 40
+TsugHete 40
+
+MapCode 851
+AcerMacr 50 60
+AlnuRubr 30 40
+PseuMenz 50 60 70 80 100 110 120 130 140 150 160 180 190
+
+MapCode 852
+AcerMacr 20 30 40
+PseuMenz 20 30
+TsugHete 20
+
+MapCode 853
+AcerMacr 20
+AlnuRubr 10 20 30
+PseuMenz 10 20 30 40 50
+TsugHete 20 30 40
+
+MapCode 854
+ChryChry 50 60 80
+PseuMenz 70 80 90 100 110 120 130 140 150 160 180 240 250 270 280 290 300 320 330 360 420
+TsugHete 50 60 70 80 90 100 110 120 140 150
+
+MapCode 855
+AcerMacr 20 30
+PseuMenz 20 30 40 50 60 70
+TsugHete 20 30 40 50 60 70
+
+MapCode 856
+AcerMacr 20 30
+ChryChry 20 30
+PseuMenz 20 30 40 50
+ThujPlic 40
+TsugHete 30 50
+
+MapCode 857
+AcerMacr 30
+AlnuRubr 40 50
+PseuMenz 40 50 60 70 80 90 100 110 120 140 150 170 190 560
+TsugHete 30 40 50 60 70 80 90
+
+MapCode 858
+AcerMacr 20 30 60 70 80 130
+AlnuRubr 20 30
+PseuMenz 160 170 180 200 210 220 230 240 250 260 270 280 290 300 320 340 350 360 390 410 480
+ThujPlic 70 120
+TsugHete 30 40 50 60 70 80 90 110 180
+
+MapCode 859
+AcerMacr 20
+PseuMenz 30 40 50 60 70
+TsugHete 20
+
+MapCode 860
+AcerMacr 20 30
+PseuMenz 20 30 40
+TsugHete 20 30
+
+MapCode 861
+AcerMacr 30
+PseuMenz 40 50 60 80
+
+MapCode 862
+AcerMacr 40
+ChryChry 40
+PseuMenz 40 50 60 70 80 90 120 220 230 240 280 370 470
+TsugHete 60
+
+MapCode 863
+AcerMacr 40 50 60
+AlnuRubr 40 50 70
+PseuMenz 40 50 60 70 80 220 400
+ThujPlic 60 140
+TsugHete 40 50 60 70 80 140
+
+MapCode 864
+AbieGran 70
+AcerMacr 40
+PseuMenz 30 40 50 60 70 80 90 100 110 120
+
+MapCode 865
+AbieGran 50
+AcerMacr 30 40 50 60
+AlnuRubr 30 40 50 60
+PseuMenz 40 50 60 70 90 100 120 130 170
+ThujPlic 20 50 60 80 90
+TsugHete 30
+
+MapCode 866
+AlnuRubr 10 20 60
+PseuMenz 70 80 90 100 110 120 130 140 150 170
+TsugHete 30 40
+
+MapCode 867
+PseuMenz 10 20
+
+MapCode 868
+AcerMacr 10 20
+PseuMenz 10 20
+
+MapCode 869
+PseuMenz 40 50 60 70 80 90 100
+
+MapCode 870
+AcerMacr 20 30 40 50 60 70
+AlnuRubr 40 50
+ChryChry 60 90
+PseuMenz 40 50 60 70 80 310
+
+MapCode 871
+AcerMacr 20 30 40 50 60 70 80
+AlnuRubr 40 50
+PseuMenz 40 50 60 70 80 90 110 130 360 400
+ThujPlic 80
+TsugHete 40
+
+MapCode 872
+AcerMacr 40 50 60 70
+AlnuRubr 20 30 40 50
+ChryChry 20 30 60
+PseuMenz 20 30 40 50 60 70 80
+TsugHete 40 50 60 70
+
+MapCode 873
+AcerMacr 30 40
+AlnuRubr 40 50 60
+PseuMenz 40 50 60 70 80 90 100
+
+MapCode 874
+ChryChry 90
+PseuMenz 40 50 60 70 80 90 100 110 130
+
+MapCode 875
+AcerMacr 30 40
+ArbuMenz 40 50
+ChryChry 30 40 50 60 70
+PseuMenz 30 40 50 60 70 80 90 120 420
+
+MapCode 876
+AcerMacr 30 50 60 80
+AlnuRubr 30 40 50 60
+PseuMenz 40 50 60 70 80 90 110 150 160 190 200
+TsugHete 40 50 60 70
+
+MapCode 877
+AcerMacr 60
+AlnuRubr 10 20 30 40
+PseuMenz 20 30 80 100 110 120 130 140 150 160 170 190
+TsugHete 40 50 60 80 90
+
+MapCode 878
+ChryChry 80
+PseuMenz 50 60 70 80 90 100 110 120 130 140 150 210 220 310 320 370
+
+MapCode 879
+AcerMacr 30 40 50
+ChryChry 30
+PseuMenz 40 50 60 70 80 90
+
+MapCode 880
+ArbuMenz 30
+ChryChry 30 50 60 70
+PseuMenz 30 40 50 60 70 80 90 100
+TsugHete 40 50 60 70
+
+MapCode 881
+AcerMacr 40 50 60
+AlnuRubr 10 20 30 40 50 60 70 80 90
+PseuMenz 60 70 80 90 100 110 120 130 140 160 180 230 270 300
+ThujPlic 40 100 130 170
+
+MapCode 882
+AcerMacr 20 30 40
+ChryChry 30
+PseuMenz 30 40 50 60 70 80
+ThujPlic 20 50 60
+TsugHete 40 50 60 70
+
+MapCode 883
+AcerMacr 20 30 40 50 70
+ChryChry 40
+PseuMenz 90 100 110 120 130 140 150 160 170 180 190 200 210 220 240 260
+TsugHete 60
+
+MapCode 884
+AcerMacr 30 40 50
+AlnuRubr 30 40 50 60
+PseuMenz 30 40 50 60 70 80 100 110
+ThujPlic 50 60 70
+TsugHete 40 50 60 70 80
+
+MapCode 885
+AlnuRubr 20 30 40 50 60
+ChryChry 20
+PseuMenz 30 40 50 60 70 80
+ThujPlic 40 50 60 100
+TsugHete 40 50 80 100
+
+MapCode 886
+AcerMacr 20 40 50
+AlnuRubr 30 40 50
+PseuMenz 40 50 60 70 80 90 100 110
+TsugHete 40 50 60 80 90
+
+MapCode 887
+ChryChry 30 40 50 60 70 80 90 100
+PseuMenz 40 50 60 70 80 150 290
+ThujPlic 60
+TsugHete 40 50
+
+MapCode 888
+AcerMacr 40
+PseuMenz 70 80 90 100 110 120 130 140 150 160 170 200 210
+TsugHete 40 50 60 70 90 100
+
+MapCode 889
+AcerMacr 70
+AlnuRubr 20 30 40 50
+ChryChry 30 40 50
+PseuMenz 30 40 50 60
+ThujPlic 30 60
+TsugHete 30 40 50 60
+
+MapCode 890
+PseuMenz 30 40 50 120 130 170 190 200 210 220 230 240 250 260 270 280 290 300 310 320 330 350 370 420 480 510
+TsugHete 30 40 50 70
+
+MapCode 891
+AcerMacr 20
+AlnuRubr 20 30 40 50
+PseuMenz 30 40 50 60 70 80 90 100 110 130 150 170 180 240 250 260
+
+MapCode 892
+ChryChry 50 60 70
+PseuMenz 40 50 60 70 80 90 100
+
+MapCode 893
+AcerMacr 20 30 40 50
+AlnuRubr 30 40 50
+PseuMenz 30 40 50
+ThujPlic 60
+
+MapCode 894
+AcerMacr 20 50 60 70 80 90 110
+AlnuRubr 60
+PseuMenz 20
+ThujPlic 40 80 90 100 120
+TsugHete 20
+
+MapCode 895
+AcerMacr 20 30 40 50 80
+AlnuRubr 30 40 50
+PseuMenz 40 50 60 70
+TsugHete 40
+
+MapCode 896
+AcerMacr 30
+PseuMenz 40 50 60 70 80
+TsugHete 40 50 60 70
+
+MapCode 897
+PseuMenz 10 20 30
+ThujPlic 30 50
+
+MapCode 898
+PseuMenz 60 70 80 90 100 110
+TsugHete 40 50 60 70 80 90
+
+MapCode 899
+AcerMacr 40 50 60 80 120
+AlnuRubr 20 30 40 50 60
+PseuMenz 30 40 50 60 70 80
+
+MapCode 900
+AcerMacr 20
+AlnuRubr 10 20
+PseuMenz 10 20 30 130 170
+
+MapCode 901
+AcerMacr 20 30
+AlnuRubr 20 30 40
+ChryChry 30 40
+PseuMenz 40 50 60 70
+TsugHete 30 40 50 60 70
+
+MapCode 902
+AcerMacr 30 40
+AlnuRubr 30 40 50
+PseuMenz 50 200 210 310 330 510
+TsugHete 30 40 50 60 70 80 90 120 140
+
+MapCode 903
+PseuMenz 10 20 30 40
+
+MapCode 904
+AlnuRubr 40 50 60
+PseuMenz 90 100 120 130 140 150 170 180 200 210 220 230 270 280 290 300 320
+
+MapCode 905
+AlnuRubr 40 60
+PseuMenz 30 40 50 60 80 90 100 120 130 140 150 160 170 180 190 200 220 260 280 360
+TsugHete 90
+
+MapCode 906
+AlnuRubr 70
+PseuMenz 120 130 140 150 160 170 180 190 200 210 220 230 260
+
+MapCode 907
+AlnuRubr 30 50 60
+PseuMenz 60 80 90 100 110 120 130 140 150 160 170 180 220
+TsugHete 50 60 70 80 100
+
+MapCode 908
+AlnuRubr 10 20
+PiceSitc 20 30 40 50 60
+PseuMenz 30 40
+TsugHete 30 40
+
+MapCode 909
+AcerMacr 30 60 70
+AlnuRubr 40 50 60 70 80
+PseuMenz 50 60 70 80
+TsugHete 50 60 70 100 120 190
+
+MapCode 910
+PseuMenz 60 70 80 90 100 110 120
+
+MapCode 911
+PseuMenz 40 50 60 70 80 100 170 190 210 230 260 270 350 380 430 440 500
+TsugHete 60
+
+MapCode 912
+AcerMacr 30 40 50 60
+AlnuRubr 20 30 40 50 60
+ArbuMenz 40
+PseuMenz 30 40 50 60 70 80 100
+
+MapCode 913
+AcerMacr 20 30 40 50 110
+AlnuRubr 30 40 50
+PseuMenz 20 30 40 50 60 70
+TsugHete 40
+
+MapCode 914
+AcerMacr 50
+PseuMenz 30 40 50 100 120 130 140 150 160 170 180 190 200 220 230 240 250 260 270 280 300 310 320 340 350
+
+MapCode 915
+PseuMenz 30 40 50 60
+TsugHete 30 40 50 60
+
+MapCode 916
+AlnuRubr 30 40
+PseuMenz 10 20 30 40 50 60 70 80 90 100 110
+ThujPlic 20 30 60 70
+
+MapCode 917
+PseuMenz 40 50 60 70 80 90 100
+TsugHete 40 50 60 70 80
+
+MapCode 918
+PseuMenz 40 60 70 80 90 100 110
+TsugHete 40 50 60 70 80 90
+
+MapCode 919
+AbieProc 30 40 50 60
+PseuMenz 40 50 60 70 80
+TsugHete 40 50 60 70
+
+MapCode 920
+PseuMenz 30 40 50 60
+TsugHete 30 40 50
+
+MapCode 921
+AlnuRubr 20 30 50
+PseuMenz 30 40 50 60 70 90 100 310
+ThujPlic 50 60 70 80 90 100 110
+TsugHete 40 50 60 70 80 90 110
+
+MapCode 922
+AbieProc 40 50 60
+PseuMenz 40 50 60 70
+ThujPlic 50 60 70 80
+TsugHete 30 40 50 60 70
+
+MapCode 923
+AcerMacr 40 50
+PseuMenz 30 40 50 60 70 80 90 100 110 120 140 180 230
+TsugHete 40
+
+MapCode 924
+AcerMacr 20 30 40 50
+AlnuRubr 30 40
+PseuMenz 30 40 50 60
+TsugHete 40 50
+
+MapCode 925
+AcerMacr 20
+PseuMenz 30 40 50 60
+
+MapCode 926
+AlnuRubr 40 50 60
+PiceSitc 40 60 70 80 90 100 110 120 130 140
+PseuMenz 50 70 80 90 110 120 170 180
+TsugHete 50 80 100 120
+
+MapCode 927
+PseuMenz 40 60 70 80 90 100
+
+MapCode 928
+PseuMenz 20 40 50 60 70 80 90 100 110 120 130 140 150 160 170 190 210
+TsugHete 30 50 60 70 100
+
+MapCode 929
+AlnuRubr 20 30 40
+PseuMenz 20 30 40 50 90 100 110 120 130
+
+MapCode 930
+PseuMenz 40 50 60 90 160
+
+MapCode 931
+AlnuRubr 20 40 50
+PseuMenz 60 70 80 90 100 110 130 150
+
+MapCode 932
+AbieGran 50
+AcerMacr 20 30
+AlnuRubr 20 40
+PseuMenz 20 30 40
+
+MapCode 933
+AlnuRubr 10
+PseuMenz 10 20
+
+MapCode 934
+AbieProc 50
+PseuMenz 60 80 90 100 110 120 130 140 150 160 170 180
+TsugHete 30 40 50 60
+
+MapCode 935
+AlnuRubr 20 30 40
+PseuMenz 30 40 50 60
+TsugHete 30 40 50 60 70 80
+
+MapCode 936
+AcerMacr 50 60 70
+AlnuRubr 40 50 60
+PseuMenz 70 80 90 100 110 120 130 140 160
+TsugHete 40 50 60 70 80 90 100 110 120
+
+MapCode 937
+AlnuRubr 20 30 40 50 60
+PseuMenz 30 40 50 60 70 80
+TsugHete 10 30 40 50 60 70 80
+
+MapCode 938
+AlnuRubr 10
+PseuMenz 20
+
+MapCode 939
+AcerMacr 30 40 50
+AlnuRubr 20 30 40
+PseuMenz 40 50 60 70 80 90
+ThujPlic 60
+
+MapCode 940
+AbieGran 30
+AcerMacr 20 30 40 50
+PseuMenz 30 40 50 60 70
+
+MapCode 941
+AbieGran 40
+ArbuMenz 40
+PseuMenz 10 30 40
+
+MapCode 942
+AcerMacr 30 40 50
+AlnuRubr 20 30 40 50 60
+PseuMenz 30 50 60 70 80 90 100 170
+
+MapCode 943
+PseuMenz 30 40 50 60 70
+
+MapCode 944
+AcerMacr 70
+AlnuRubr 30 40 50 60 70 80 90
+PiceSitc 50 70 80
+TsugHete 60 90
+
+MapCode 945
+AlnuRubr 20 30 40 50
+PseuMenz 30 40 50 60 70
+TsugHete 40
+
+MapCode 946
+AcerMacr 30 40
+AlnuRubr 20 40 50 60
+PseuMenz 40 50 60 70
+TsugHete 50
+
+MapCode 947
+PseuMenz 30 40 50 60 70 80
+ThujPlic 100 110 140
+TsugHete 70
+
+MapCode 948
+AlnuRubr 20 30 40 50
+PseuMenz 30 40 50 60 70 80 100
+ThujPlic 50
+TsugHete 30 40 60
+
+MapCode 949
+AcerMacr 30 50
+AlnuRubr 30
+PseuMenz 40 50 60 70 80 120
+
+MapCode 950
+PseuMenz 70 90
+
+MapCode 951
+PseuMenz 20 30 40 50 60 70 80
+
+MapCode 952
+PseuMenz 30 40 50 60 70 80
+
+MapCode 953
+AcerMacr 50 80
+AlnuRubr 20
+CaloDecu 60
+PseuMenz 40 50 70 80
+ThujPlic 50 60 70 80
+
+MapCode 954
+ChamLaws 60
+ChryChry 50
+PseuMenz 40 50 60 70 80 100 110 120 170
+
+MapCode 955
+AbieGran 20 30
+ArbuMenz 40
+LithDens 10 20 30 40
+PseuMenz 20 30 40 50 70
+
+MapCode 956
+ArbuMenz 40
+LithDens 30 40 50
+PseuMenz 50 60 70 80 90 100 110
+
+MapCode 957
+PseuMenz 10 20
+ThujPlic 50
+
+MapCode 958
+ChamLaws 40 80 90 110
+PseuMenz 40 50 60 70 80 90 100
+
+MapCode 959
+ArbuMenz 40
+CaloDecu 40 50 60 80
+PinuPond 30
+PseuMenz 30 40 50 60 70
+
+MapCode 961
+ArbuMenz 30 40 50 90
+ChryChry 40
+PseuMenz 40 50 60 70
+
+MapCode 962
+AcerMacr 10 20
+ArbuMenz 40 50
+PseuMenz 30 40 50 60
+QuerGarr 40 50 60 70
+ThujPlic 30 50 60 70
+
+MapCode 963
+PseuMenz 20 30 40
+
+MapCode 964
+ArbuMenz 30 40
+CaloDecu 30 60 190
+PseuMenz 30 40 50 60 70 80
+
+MapCode 965
+PseuMenz 20 30 40 50
+
+MapCode 966
+AcerMacr 30
+ArbuMenz 40 70
+PseuMenz 30 40 50 60 70 80 90
+TsugHete 40 60 90
+
+MapCode 967
+PseuMenz 20
+
+MapCode 968
+AcerMacr 30
+AlnuRubr 20
+ArbuMenz 30
+PseuMenz 30 40 50 60 70 80
+
+MapCode 969
+AlnuRubr 20
+PiceSitc 30
+PseuMenz 20 30 70 100
+
+MapCode 970
+PseuMenz 20
+
+MapCode 971
+AcerMacr 40
+PseuMenz 40 50 60 70 160 170 210 240 270 280 290 300 320 380 440 640
+ThujPlic 40
+TsugHete 40 50 60 70 80 100
+
+MapCode 972
+AlnuRubr 40
+PseuMenz 20 30 40 50 90
+
+MapCode 973
+AlnuRubr 20 30
+PseuMenz 20 30 40 50 60
+
+MapCode 974
+AcerMacr 110
+AlnuRubr 20 30 40 50
+PseuMenz 40 70
+TsugHete 30 50 60 70
+
+MapCode 975
+AcerMacr 40 80 100 110
+AlnuRubr 20 80
+PseuMenz 320
+ThujPlic 90 100 120 250 260 330
+
+MapCode 976
+PinuCont 30 40 50 60
+PseuMenz 20 60
+
+MapCode 977
+AlnuRubr 40
+PseuMenz 50 60 70 80 90 100 110 120 130 140 160 190
+
+MapCode 978
+AcerMacr 30 40 50
+PseuMenz 40 50 60 70 90
+QuerGarr 70
+
+MapCode 979
+AlnuRubr 10 20 30
+PiceSitc 40
+PseuMenz 20 30 40
+TsugHete 20 30
+
+MapCode 980
+AlnuRubr 10 20
+PseuMenz 10 20
+TsugHete 10 20
+
+MapCode 981
+AlnuRubr 10
+PiceSitc 20 30 40
+TsugHete 20 30 40
+
+MapCode 982
+PseuMenz 60 120
+TsugHete 40 50 60 70 80 90 110
+
+MapCode 983
+AlnuRubr 20 30 40
+TsugHete 10 20 30 40 50
+
+MapCode 984
+AlnuRubr 10 20
+PseuMenz 20 30 40
+
+MapCode 985
+AcerMacr 30 40 50 70 80
+AlnuRubr 20 30
+PseuMenz 20 30 40 50
+
+MapCode 986
+AlnuRubr 30 40
+PseuMenz 40 50 60
+ThujPlic 40 50 60
+TsugHete 20
+
+MapCode 987
+AlnuRubr 10 30 40 60 70 80
+PseuMenz 10 20 90 100
+ThujPlic 50 60 70 90 100
+TsugHete 50 70 80
+
+MapCode 988
+ChryChry 60
+PseuMenz 40 50 60 80
+ThujPlic 140
+TsugHete 40 50 60 70 80 90 100
+
+MapCode 989
+PseuMenz 10
+
+MapCode 990
+ChamLaws 40
+PseuMenz 50 70 100
+ThujPlic 70
+TsugHete 50 60 80
+
+MapCode 991
+AcerMacr 40
+AlnuRubr 90
+PseuMenz 50 60 70 120 130 140 150 220
+
+MapCode 992
+AcerMacr 40
+PseuMenz 30 50 70 80 90 110
+QuerGarr 40 50 60 80 90 120 130
+
+MapCode 993
+AcerMacr 60 90
+
+MapCode 995
+PiceSitc 40 50 60 70
+PseuMenz 50 60 90
+TsugHete 50 60 70 80 90
+
+MapCode 996
+PseuMenz 90 100 110 120 130 140 150 160 170 180 190 200
+ThujPlic 100 110 120
+
+MapCode 997
+AcerMacr 20
+AlnuRubr 20
+PseuMenz 10 20 30 40
+
+MapCode 998
+AlnuRubr 20 30 40
+PiceSitc 20 40
+PseuMenz 10 20 30 40
+TsugHete 20 40 50
+
+MapCode 999
+AlnuRubr 20
+PseuMenz 20 30 40 50
+ThujPlic 30
+TsugHete 30 40 50 60 70 90
+
+MapCode 1000
+PiceSitc 40
+PseuMenz 20 30 40
+TsugHete 20 30 40 50 60 70
+
+MapCode 1001
+PseuMenz 30 40 50 60 70 90
+TsugHete 40 50 60
+
+MapCode 1002
+PseuMenz 50 60 70 80 90
+
+MapCode 1003
+PseuMenz 10 20
+
+MapCode 1004
+AlnuRubr 10
+PiceSitc 20 50
+PseuMenz 10 20
+
+MapCode 1005
+AlnuRubr 30 40 60
+ThujPlic 60
+TsugHete 30 40 50 60 70 90 100 110 140
+
+MapCode 1006
+PseuMenz 30 40 50 60
+
+MapCode 1007
+AlnuRubr 20 30 40
+PseuMenz 30 40 50 60 70
+
+MapCode 1008
+AlnuRubr 30 40 50 60
+PseuMenz 30 40 50 60 70 80 90 100
+TsugHete 40 50 60 80
+
+MapCode 1009
+AlnuRubr 50 80
+PiceSitc 70
+PseuMenz 70 80
+TsugHete 30 40 50 60 70 80 90 100 120 130 150 230
+
+MapCode 1010
+AbieProc 20 40
+AlnuRubr 20
+PseuMenz 20 30 40 60 70 80 100
+TsugHete 50 60 70
+
+MapCode 1011
+AbieProc 60
+AlnuRubr 40 60
+PseuMenz 40 50 60 80
+TsugHete 50 70
+
+MapCode 1012
+AcerMacr 30 50 70 110
+AlnuRubr 20 30 40 50 90
+PseuMenz 120 200 740
+
+MapCode 1013
+AbieGran 30 40 50 60
+AcerMacr 20 30
+PseuMenz 20 30 40 50
+
+MapCode 1014
+QuerGarr 40 50 60 70
+
+MapCode 1015
+AlnuRubr 10
+PseuMenz 20 30 40 50 60 70 80 90 120
+
+MapCode 1016
+AcerMacr 20 100
+AlnuRubr 10
+ChryChry 30
+PseuMenz 10 20 30 40 250
+
+MapCode 1017
+ArbuMenz 20 30
+PseuMenz 20 30
+ThujPlic 30
+
+MapCode 1018
+AcerMacr 20 30
+AlnuRubr 30 40
+PseuMenz 30 40 50 60 70 80
+
+MapCode 1019
+AbieGran 40
+AcerMacr 10 30
+PseuMenz 40 80 90
+QuerGarr 30 40 100
+
+MapCode 1020
+AcerMacr 10
+PseuMenz 20
+
+MapCode 1021
+AlnuRubr 20 30 40
+PiceSitc 20
+PseuMenz 20 30
+TsugHete 20 30 40
+
+MapCode 1022
+AlnuRubr 10 20
+PseuMenz 100 110
+TsugHete 20 30 40 50 70 80 100
+
+MapCode 1023
+AlnuRubr 20 30 40
+PiceSitc 40 50 80
+TsugHete 40
+
+MapCode 1024
+PiceSitc 30
+PseuMenz 30
+TsugHete 30
+
+MapCode 1026
+AcerMacr 20 30
+AlnuRubr 30 40
+PseuMenz 30 40
+
+MapCode 1027
+AcerMacr 50
+PseuMenz 50 60
+QuerKell 50
+
+MapCode 1028
+AlnuRubr 20
+PiceSitc 20
+PseuMenz 20
+TsugHete 10 20
+
+MapCode 1030
+AcerMacr 30
+PseuMenz 30 40
+
+MapCode 1031
+PseuMenz 30 40
+
+MapCode 1032
+AlnuRubr 20
+PseuMenz 30 40
+
+MapCode 1033
+PseuMenz 20
+
+MapCode 1034
+AlnuRubr 20 30
+PseuMenz 30 40 50 60 70 80 90 150
+TsugHete 20 40 50 70 80
+
+MapCode 1035
+AcerMacr 40
+AlnuRubr 40 50
+
+MapCode 1036
+AcerMacr 10 20 50
+PseuMenz 30 40 50
+
+MapCode 1037
+AcerMacr 60 70
+AlnuRubr 20 30 40 60 70
+PseuMenz 40 80 110 160
+
+MapCode 1038
+AlnuRubr 20
+PiceSitc 20 30
+PseuMenz 20 30
+TsugHete 20 30
+
+MapCode 1039
+PseuMenz 60
+
+MapCode 1040
+PseuMenz 20
+
+MapCode 1041
+AlnuRubr 30 40 50
+PseuMenz 50 60 70
+TsugHete 50 60 70
+
+MapCode 1042
+PinuCont 30 40
+PseuMenz 30
+
+MapCode 1043
+AbieGran 40
+AlnuRubr 30
+LithDens 30
+PseuMenz 30 40 50
+
+MapCode 1044
+AcerMacr 30
+AlnuRubr 30
+PseuMenz 30 40
+
+MapCode 1045
+AlnuRubr 10 20
+PiceSitc 20
+PseuMenz 20 30
+TsugHete 20
+
+MapCode 1047
+AcerMacr 30 40
+AlnuRubr 30
+PseuMenz 40
+TsugHete 50
+
+MapCode 1048
+AlnuRubr 30
+PseuMenz 20 30 40
+
+MapCode 1049
+PseuMenz 50 60 70 80
+QuerGarr 50 60 130
+
+MapCode 1050
+AcerMacr 30 40 100
+LithDens 40
+PseuMenz 30 40
+
+MapCode 1052
+ArbuMenz 10 100 200
+LithDens 10 20 30 80 130 200
+PseuMenz 30 40 80 180 210 260 310
+
+MapCode 1053
+AbieGran 40 50 60
+ChamLaws 50
+LithDens 10 20 30
+PseuMenz 20 30 40
+TsugHete 50
+
+MapCode 1054
+AbieGran 40 50
+ArbuMenz 50
+PinuPond 80 110 130 140 150 160
+PseuMenz 30 40 50 90 100 110 130
+
+MapCode 1055
+PseuMenz 20
+ThujPlic 20
+
+MapCode 1056
+ChryChry 80
+PseuMenz 30 40 50 60 70 80 90
+TsugHete 20
+
+MapCode 1057
+AcerMacr 70
+PseuMenz 60 100 110 130
+
+MapCode 1058
+AcerMacr 70
+AlnuRubr 20 30 40
+PseuMenz 30
+ThujPlic 160
+
+MapCode 1059
+PseuMenz 40 50 60
+
+MapCode 1060
+AcerMacr 20
+PseuMenz 20
+
+MapCode 1061
+AlnuRubr 10 20
+PseuMenz 20
+TsugHete 20
+
+MapCode 1062
+AcerMacr 30 40 90
+AlnuRubr 30
+PseuMenz 20 30 40
+
+MapCode 1063
+PseuMenz 10 20 30
+
+MapCode 1064
+AlnuRubr 10 20 30
+PseuMenz 30 50
+
+MapCode 1066
+AcerMacr 70
+AlnuRubr 20 30 40 70
+ThujPlic 90
+
+MapCode 1067
+AlnuRubr 40
+PseuMenz 40 50 60 70 80 100
+TsugHete 40 50 60 70 80
+
+MapCode 1069
+AlnuRubr 10 20
+PseuMenz 20 30 40
+TsugHete 20 30
+
+MapCode 1070
+AlnuRubr 20 30 40
+TsugHete 20 30 40 50
+
+MapCode 1071
+PseuMenz 20 30
+TsugHete 20 30 40 50 80
+
+MapCode 1072
+PseuMenz 10 20 30
+
+MapCode 1073
+AlnuRubr 10
+PseuMenz 20 30 40
+
+MapCode 1074
+AlnuRubr 20 30 40
+PseuMenz 20 30
+TsugHete 20 30 40 50 60 70 90
+
+MapCode 1075
+PseuMenz 20 30 50 60 70 80
+
+MapCode 1076
+AcerMacr 40 50 60 90
+AlnuRubr 20 30 40
+ArbuMenz 30 40 60
+LithDens 30 40 50
+PseuMenz 30 50
+
+MapCode 1077
+AbieGran 40
+LithDens 20 30
+PseuMenz 80 100 110 120 130 140 150 160 170 180 200 210
+ThujPlic 70
+TsugHete 60
+
+MapCode 1078
+ChryChry 20 30 40 70
+PseuMenz 40 90 110 120 130 140 150 160 170 180 190 210 220 230 650
+TsugHete 130
+
+MapCode 1079
+AlnuRubr 20 30 40
+PseuMenz 20 30 40
+
+MapCode 1080
+AlnuRubr 10
+PseuMenz 10
+
+MapCode 1081
+AlnuRubr 20 30 40 50 90
+PseuMenz 30 40 50 60 80
+
+MapCode 1083
+AlnuRubr 30 40 50
+PseuMenz 30 40 50 60 70 90 130 370
+TsugHete 40
+
+MapCode 1084
+AlnuRubr 20
+PseuMenz 20 30
+SequSemp 10 20 30 40
+
+MapCode 1085
+PseuMenz 20 30 40 60 70 90
+
+MapCode 1086
+AbieGran 20
+PseuMenz 10 20
+
+MapCode 1087
+AlnuRubr 20
+PseuMenz 20 30 40 50 60 70
+
+MapCode 1088
+ArbuMenz 30 40
+ChryChry 50 60 70
+LithDens 40 50
+PinuLamb 200 230 240
+PseuMenz 50 60 70 80 90 100 110 120 180 200 220 380
+
+MapCode 1089
+AbieGran 20 70
+ArbuMenz 30 40
+PseuMenz 20 30 40 60 70 80 90 100
+ThujPlic 80
+
+MapCode 1090
+AbieGran 40 60
+ArbuMenz 40 50 60
+PseuMenz 20 30 40 50 60 80
+
+MapCode 1091
+PseuMenz 10 20 50 60 70
+
+MapCode 1092
+ChryChry 30 40
+PseuMenz 30 40 50 60 70
+
+MapCode 1093
+AcerMacr 30 40 50 80
+ArbuMenz 40
+PseuMenz 40 50 60 70 80 90 100 110 120 130 140 150 170 180 210 260
+
+MapCode 1094
+PseuMenz 30 40 50 60 70
+TsugHete 40 50 60
+
+MapCode 1095
+AbieGran 40 50 60
+AcerMacr 60
+PseuMenz 40 50 120 140 150 200 210
+
+MapCode 1096
+AcerMacr 30 40 50
+ArbuMenz 30
+PseuMenz 10 20 30 40 50 60 70 80 110 120 190
+
+MapCode 1097
+AcerMacr 20 30 40
+PseuMenz 30 40 50 60
+TsugHete 40
+
+MapCode 1098
+PseuMenz 30 40 50
+
+MapCode 1099
+AcerMacr 40 50
+ArbuMenz 20 30 40
+PseuMenz 20 40 50 60 70 140 250
+ThujPlic 210
+
+MapCode 1100
+AcerMacr 110 140
+AlnuRubr 40 50 90
+PseuMenz 100 120 170 210 270 310
+ThujPlic 50 60 70 80 90 100 110
+
+MapCode 1101
+PiceSitc 40 50 60 90
+PseuMenz 20 40 50
+ThujPlic 40 50 60
+TsugHete 30 40 50 100
+
+MapCode 1102
+AlnuRubr 30 40 50
+PseuMenz 30 40 50 60
+TsugHete 40
+
+MapCode 1103
+PseuMenz 60 70 80 120 130 140 150 160 170 190 220 240 250 280
+TsugHete 30 50 60 90 120 130
+
+MapCode 1104
+AcerMacr 20
+PseuMenz 10 20 30
+
+MapCode 1105
+AcerMacr 20 30 40 80
+PseuMenz 20 30 40
+ThujPlic 70
+
+MapCode 1106
+AcerMacr 20
+AlnuRubr 20
+PseuMenz 20 30 40
+
+MapCode 1107
+PseuMenz 20 30 40 50 60
+
+MapCode 1108
+AcerMacr 20 30 40
+AlnuRubr 20 30
+PseuMenz 20 40 50
+TsugHete 20 50 60 70 80
+
+MapCode 1109
+AlnuRubr 30
+PseuMenz 20 30 40 50
+
+MapCode 1111
+AlnuRubr 20 30
+PiceSitc 30 40 50 60 80 90 100 110 120 130
+TsugHete 20 30 40 60
+
+MapCode 1112
+PseuMenz 10 20
+
+MapCode 1113
+AlnuRubr 10 20 30
+PseuMenz 20 30
+
+MapCode 1114
+AbieGran 60
+AcerMacr 20 30 40 50 60
+AlnuRubr 20 30
+ThujPlic 40 60 70
+
+MapCode 1115
+AlnuRubr 20 30
+PseuMenz 20 30 40
+ThujPlic 30
+TsugHete 30 40 50
+
+MapCode 1116
+PseuMenz 20 30 40 50
+
+MapCode 1117
+AcerMacr 30 50
+AlnuRubr 30 40 50 60
+PseuMenz 40 80
+TsugHete 60
+
+MapCode 1118
+AlnuRubr 30 40 50
+PiceSitc 20 30 40 60 70
+TsugHete 10 20 30 40 50 60 80 130
+
+MapCode 1119
+AlnuRubr 20 40
+PiceSitc 40 70
+PseuMenz 30 40
+TsugHete 30
+
+MapCode 1120
+AcerMacr 20
+AlnuRubr 20 30 40 60
+PseuMenz 20 30 40 60
+
+MapCode 1121
+AlnuRubr 20 30 40 50
+PseuMenz 30 40 50 60
+TsugHete 20 40 50 60
+
+MapCode 1122
+AlnuRubr 10
+PseuMenz 10 20
+
+MapCode 1123
+PseuMenz 40 50 60 70 80 110 120 130
+
+MapCode 1124
+AcerMacr 40
+AlnuRubr 30
+PseuMenz 40 50 60 70 90
+
+MapCode 1125
+AcerMacr 80
+AlnuRubr 40 50 70 80
+PseuMenz 50 70 80 90 100 120 130 150 160 170 210
+
+MapCode 1126
+PseuMenz 20 30
+
+MapCode 1127
+AcerMacr 40 50 60 80
+AlnuRubr 70
+PseuMenz 60 80 90 110 130 190
+ThujPlic 60 70 80 90 100 110 130
+TsugHete 40 70 100
+
+MapCode 1129
+PseuMenz 20
+
+MapCode 1130
+AlnuRubr 20
+PseuMenz 20 30 40
+
+MapCode 1131
+AlnuRubr 40 50 60 70
+
+MapCode 1132
+AcerMacr 110
+AlnuRubr 50
+PiceSitc 120
+PseuMenz 120 170
+
+MapCode 1133
+AlnuRubr 30 50
+PiceSitc 40 50
+PseuMenz 50
+ThujPlic 80
+TsugHete 20 30 40 50 60 70 90
+
+MapCode 1134
+AlnuRubr 30 40
+PseuMenz 30 40 50 60 70 80 90
+
+MapCode 1135
+PseuMenz 30 40 50 60 70 80
+
+MapCode 1136
+AlnuRubr 30 40 50 60
+PiceSitc 70
+PseuMenz 30 40 50 70 80 90 100
+TsugHete 40 50
+
+MapCode 1137
+AlnuRubr 40 50
+PseuMenz 30 40 50 60 80
+TsugHete 50
+
+MapCode 1138
+AlnuRubr 20 30 40 50
+PseuMenz 20 30 40 50
+
+MapCode 1139
+PseuMenz 30 40 50 60 70 80 90 120
+
+MapCode 1140
+PseuMenz 40 60 70 80 90
+
+MapCode 1141
+PseuMenz 40 50 60 70 80 110
+
+MapCode 1142
+PseuMenz 40 50 60 70 80 90 110 210 250
+TsugHete 40
+
+MapCode 1143
+AlnuRubr 10 20
+PseuMenz 20 30 50 60 70 80 90 100 120 140
+TsugHete 20
+
+MapCode 1144
+AbieGran 90
+AcerMacr 20 30
+AlnuRubr 10 20 30 40
+PseuMenz 10 20 30 40 60 70 90 110
+
+MapCode 1145
+QuerGarr 70
+
+MapCode 1146
+PiceSitc 40 50
+PseuMenz 100 110 120
+TsugHete 40 50 70 90 110 120 130 160
+
+MapCode 1147
+AbieGran 20
+AlnuRubr 10 20
+PseuMenz 10 20 130 140
+TsugHete 20
+
+MapCode 1148
+AlnuRubr 10
+PseuMenz 10 20 30
+TsugHete 20
+
+MapCode 1149
+AlnuRubr 10
+PseuMenz 40 50
+
+MapCode 1150
+PseuMenz 40 50 60 80
+TsugHete 40 50 60 70 80 100
+
+MapCode 1151
+PseuMenz 20 30 40
+
+MapCode 1152
+AlnuRubr 10 20
+PseuMenz 20 30 40
+
+MapCode 1153
+AlnuRubr 20 30 40 50 60 90
+
+MapCode 1154
+AlnuRubr 20 30 40
+PiceSitc 30 40
+PseuMenz 20 30 40 50
+TsugHete 20 40 50
+
+MapCode 1155
+AlnuRubr 10
+PseuMenz 10 20
+
+MapCode 1156
+AlnuRubr 10 20
+PseuMenz 10 20 30
+
+MapCode 1158
+AcerMacr 30 40 50 60 70 100
+AlnuRubr 30 50
+PseuMenz 70
+ThujPlic 80 110 150
+
+MapCode 1159
+AcerMacr 30 60 80
+AlnuRubr 20 90
+ChamLaws 60
+LithDens 10 30 40
+PseuMenz 30 120
+TsugHete 50 100
+
+MapCode 1160
+AbieGran 30
+AlnuRubr 10 20 30
+PseuMenz 20 30 40 50
+
+MapCode 1161
+AbieGran 20
+PseuMenz 10 20
+
+MapCode 1162
+AlnuRubr 30 40
+LithDens 30
+PseuMenz 40 50 60 70 80 140 170 180 190 210 220 230
+TsugHete 30 40
+
+MapCode 1163
+AlnuRubr 40
+PseuMenz 20 30 40 70 110 120
+
+MapCode 1164
+AlnuRubr 10 20 30 40
+PseuMenz 30 40 50 60 70
+
+MapCode 1165
+AlnuRubr 20 30 40
+PseuMenz 40 50 60
+
+MapCode 1166
+ChryChry 20
+PseuMenz 50 60 70 80 90 100 110 120 150 190
+TsugHete 50 60 70 100
+
+MapCode 1167
+AlnuRubr 30 40
+
+MapCode 1168
+ArbuMenz 20 30 40
+LithDens 10 20 30 40
+PseuMenz 40
+
+MapCode 1169
+ArbuMenz 50
+PinuLamb 140
+PseuMenz 50 60 70 80 90 100 110 120 170 180 190 200 210 220 250
+
+MapCode 1170
+LithDens 20 30 40 50
+PseuMenz 20 30 40 50
+
+MapCode 1171
+AbieGran 40 50
+ArbuMenz 40
+ChamLaws 30 40 60 70 140
+LithDens 30 40
+PseuMenz 30 40 50 60 70 740
+
+MapCode 1172
+AlnuRubr 20 30 40
+LithDens 10 20 30 40 60
+PseuMenz 20 30 40 50 70
+TsugHete 30 50 60 80 90 110
+
+MapCode 1173
+PseuMenz 20 30 40 50
+TsugHete 20
+
+MapCode 1174
+ArbuMenz 40 50 60
+PseuMenz 20
+QuerGarr 70 80
+QuerKell 60 100
+
+MapCode 1175
+AcerMacr 40 50 90
+AlnuRubr 20 30
+ThujPlic 20 50 170 290
+TsugHete 20 30 80 90
+
+MapCode 1176
+AbieGran 40 50 60
+ArbuMenz 30 40 50 180
+CaloDecu 70 130
+PseuMenz 20 40 50
+QuerGarr 50
+
+MapCode 1177
+AcerMacr 20
+AlnuRubr 20
+PseuMenz 20 30 40 50 60
+TsugHete 30
+
+MapCode 1179
+CaloDecu 80 90 100 110 120 140 150
+PseuMenz 10 20 100 130 140 150 160 170 180 200 210 230 240 280 350
+
+MapCode 1180
+AcerMacr 30
+PseuMenz 30 40 50 60
+TsugHete 40 50 60
+
+MapCode 1181
+PseuMenz 60 70 80
+
+MapCode 1182
+AcerMacr 20
+AlnuRubr 20 40
+PseuMenz 30 40 50 60
+TsugHete 30 40 50 60
+
+MapCode 1183
+AlnuRubr 30 40 50
+PseuMenz 40 50 60 70 80
+TsugHete 40
+
+MapCode 1184
+AcerMacr 40 50 60 80
+PseuMenz 110 120 140 160 180 200 230 240 360
+ThujPlic 60 70 150
+
+MapCode 1185
+AcerMacr 30 40 50 100
+
+MapCode 1186
+PseuMenz 20 30 40 50 60
+TsugHete 40 50 60 70
+
+MapCode 1187
+PseuMenz 130 140 150 160 170 180 190 200 210 220 250 260 290
+TsugHete 50 60 80 90
+
+MapCode 1188
+AcerMacr 30
+AlnuRubr 20 30
+PseuMenz 40 50 60 70 80
+TsugHete 40 50 60 100
+
+MapCode 1190
+AcerMacr 30 40
+QuerGarr 40 50 60 70 80 90
+
+MapCode 1191
+PiceSitc 10 20
+TsugHete 10
+
+MapCode 1192
+AlnuRubr 60 70 80
+PiceSitc 110 120
+PseuMenz 140 260
+TsugHete 120
+
+MapCode 1193
+PseuMenz 20 30 40 50
+
+MapCode 1194
+AlnuRubr 30
+PiceSitc 30
+PseuMenz 30 40 50
+ThujPlic 30 50
+TsugHete 30 40 50 60
+
+MapCode 1195
+AcerMacr 20 30 40 50
+PseuMenz 30 40 50 60
+
+MapCode 1196
+AlnuRubr 20 30
+PseuMenz 20 30 40 50
+
+MapCode 1197
+PiceSitc 20 30
+PseuMenz 10 20 30
+TsugHete 20 30
+
+MapCode 1198
+ChryChry 20 30
+PseuMenz 10 20 40
+
+MapCode 1200
+AcerMacr 60
+CaloDecu 150 190
+PseuMenz 120 150 170 190 360
+ThujPlic 70 110 130
+TsugHete 40 60 70 80 100 110 120 280
+
+MapCode 1201
+PseuMenz 10
+
+MapCode 1202
+AcerMacr 60 80
+AlnuRubr 30
+PseuMenz 140 240 360 380
+ThujPlic 60 70 80 100 110 160
+TsugHete 60 70 90 100 120 130 170 180
+
+MapCode 1203
+AlnuRubr 20 30 40
+PseuMenz 80 90 100 110 120 130 140 150 170 180
+ThujPlic 50 80 100 140 180
+TsugHete 50
+
+MapCode 1204
+AlnuRubr 20
+PseuMenz 20
+TsugHete 10
+
+MapCode 1205
+AlnuRubr 20
+ChryChry 30
+PseuMenz 30 40 50 60
+TsugHete 30 60
+
+MapCode 1206
+AlnuRubr 20 30
+PseuMenz 30 40 50
+
+MapCode 1207
+AcerMacr 30
+AlnuRubr 60 70
+PseuMenz 50 60 70 80 100 110 130 140 150 160 170 180 200 210 230
+
+MapCode 1208
+AcerMacr 30 40
+PseuMenz 30 50 60 70
+
+MapCode 1209
+PseuMenz 20 30 40 50 60 100 110
+
+MapCode 1210
+AlnuRubr 20 30
+PseuMenz 110 130 150 160 170 180 190 210 250
+
+MapCode 1211
+AlnuRubr 20
+PseuMenz 20 40 50 60
+TsugHete 20 40
+
+MapCode 1212
+AlnuRubr 10
+PseuMenz 20
+TsugHete 10
+
+MapCode 1213
+AlnuRubr 20 30 40
+ThujPlic 20
+TsugHete 20 30 40
+
+MapCode 1215
+PseuMenz 40 50 60 70 80 100 110 120
+
+MapCode 1216
+AlnuRubr 10 20
+ThujPlic 30 40 50 80
+TsugHete 20 30 40 50 60
+
+MapCode 1217
+PiceSitc 30 40 50 60 80 90
+TsugHete 40 50 60 70
+
+MapCode 1218
+AlnuRubr 10 20 30
+PseuMenz 10 20 30 40
+TsugHete 20 30 40
+
+MapCode 1219
+AbieGran 30
+AlnuRubr 20 30
+PiceSitc 20 30 40 50 60
+PseuMenz 40
+ThujPlic 120
+TsugHete 30 40 50 60 70
+
+MapCode 1220
+AlnuRubr 20 30
+PseuMenz 30 40 50 60
+TsugHete 40
+
+MapCode 1221
+AlnuRubr 20
+PseuMenz 20 30 40 50 60 70
+
+MapCode 1222
+PseuMenz 10
+
+MapCode 1223
+AcerMacr 20
+AlnuRubr 10 20
+
+MapCode 1224
+AcerMacr 30
+AlnuRubr 20 30
+PseuMenz 20 30 40
+
+MapCode 1225
+PseuMenz 20 30
+TsugHete 20
+
+MapCode 1226
+AlnuRubr 10 20 30 40
+ChamLaws 60
+LithDens 20 30 40 50
+
+MapCode 1227
+AbieGran 20 50 60
+AlnuRubr 20
+ArbuMenz 30
+PseuMenz 20 30 40 50 70 110
+
+MapCode 1228
+AcerMacr 20
+ChamLaws 160
+LithDens 30 40
+PseuMenz 20 30 60 70 90 110 120 130 140 160 180 200 220 240 320
+
+MapCode 1229
+AlnuRubr 10
+ChamLaws 20 30
+PseuMenz 20 30
+
+MapCode 1230
+PseuMenz 20 40 50 60
+
+MapCode 1231
+AcerMacr 20
+AlnuRubr 20 30 40 50
+PseuMenz 20 30 50
+
+MapCode 1232
+AlnuRubr 10 20 30
+PseuMenz 20 30
+
+MapCode 1233
+PseuMenz 30 50 80 90 100 110 130 190
+
+MapCode 1234
+LithDens 30 40 50
+PseuMenz 30 40 50
+
+MapCode 1236
+AlnuRubr 20 30 40 50
+PseuMenz 230
+
+MapCode 1237
+ArbuMenz 20 30
+PseuMenz 50 60 70 80 90 100 140 150 180 190 210 220 230 240 430
+
+MapCode 1238
+AbieGran 40 50 60
+AcerMacr 40 70
+CaloDecu 160
+PseuMenz 30 40 50 60 70 80 90 110 120 130
+TsugHete 40 50
+
+MapCode 1239
+ArbuMenz 80 90 100 130 150
+CaloDecu 20 30 40 50 60 70 80 100 120 190
+PseuMenz 40 50 60 70 80 90 110 120
+
+MapCode 1240
+AlnuRubr 20
+PseuMenz 20 30 40 50
+
+MapCode 1241
+AcerMacr 20 30 50
+ArbuMenz 40 50 60
+PseuMenz 40 50 60 70 90 130
+QuerKell 50
+
+MapCode 1242
+ArbuMenz 30 40
+PseuMenz 30 40 50 60 70
+
+MapCode 1243
+ChryChry 30
+PseuMenz 30 40 50 60 70
+
+MapCode 1244
+AbieGran 30 40 50 60 70 90 100 120
+PseuMenz 30 40 50 70 110 190 200 230 250
+
+MapCode 1245
+AbieGran 40 50 60 70 110
+AcerMacr 60 70
+ArbuMenz 20 30
+CaloDecu 80 120 190
+PseuMenz 20 40 50 60 70 80 100 110
+QuerGarr 40
+
+MapCode 1246
+ChryChry 30
+PseuMenz 20 30 40
+
+MapCode 1247
+AlnuRubr 20 30 40 50
+
+MapCode 1248
+AcerMacr 40 60
+PseuMenz 40 50 60 80 90 110 140 150 170 180
+ThujPlic 50 60 130 160
+TsugHete 40 60 80 100
+
+MapCode 1249
+AcerMacr 20 30
+AlnuRubr 10 20
+PseuMenz 10 20 30
+TsugHete 30
+
+MapCode 1250
+PseuMenz 10 20
+
+MapCode 1251
+AcerMacr 20 30
+PseuMenz 30 40 50
+
+MapCode 1252
+AcerMacr 30 50
+AlnuRubr 30 40
+PseuMenz 40 50 60 70 80
+ThujPlic 40 50
+
+MapCode 1253
+AcerMacr 30 40
+AlnuRubr 30 40 50
+PseuMenz 50 60 70 110 120
+
+MapCode 1254
+AcerMacr 20 30 40 50
+PseuMenz 20 30 40 60
+
+MapCode 1255
+PseuMenz 20 40 50
+TsugHete 20
+
+MapCode 1256
+PseuMenz 90 110 130 140 150 160 170 180 190 200 210 220 260 350
+ThujPlic 70
+
+MapCode 1257
+AcerMacr 40 60
+AlnuRubr 20 30
+PseuMenz 10 20 30 60
+
+MapCode 1258
+AlnuRubr 40 60
+PseuMenz 40 60 70 80 110 120 210
+TsugHete 50
+
+MapCode 1259
+AlnuRubr 20
+PiceSitc 30 40 50 80
+TsugHete 20 30 40 50 60 70
+
+MapCode 1260
+AlnuRubr 20 30
+PiceSitc 40 50
+PseuMenz 30 40
+TsugHete 10 30 40 50 60 70
+
+MapCode 1263
+AcerMacr 30
+PseuMenz 30 40 50 60 70
+
+MapCode 1264
+AcerMacr 70 80 100 110
+AlnuRubr 20 30 50 90
+
+MapCode 1265
+AbieGran 60 90
+CaloDecu 150 160 190
+ChryChry 30 40 50 60
+PseuMenz 40 50 60 70 80 90 110 160 180 190 200 210 220 240 250 260 270 360 370
+
+MapCode 1266
+PseuMenz 10 20
+
+MapCode 1267
+PseuMenz 20 30 40 50 60 70 80 90
+
+MapCode 1268
+TsugHete 10 20 30 40 50 60
+
+MapCode 1269
+AlnuRubr 20 30
+PseuMenz 20 30 40 50 60
+
+MapCode 1272
+AcerMacr 50
+PseuMenz 30 40 80 90 100
+ThujPlic 50 60
+
+MapCode 1273
+AlnuRubr 20
+PseuMenz 30 40 50 60 70 100 110 130 150 160 170 190 200
+TsugHete 30 70
+
+MapCode 1274
+ArbuMenz 40
+LithDens 20 40 50 60
+PseuMenz 60
+
+MapCode 1275
+ArbuMenz 30 40 50
+PseuMenz 20 30 40 50
+
+MapCode 1276
+AlnuRubr 20 30 40 50
+PseuMenz 30 40
+TsugHete 20 40 50 60 80
+
+MapCode 1277
+AlnuRubr 20 30
+PseuMenz 30 40 50 60 70 80 100 120
+
+MapCode 1278
+AbieGran 60 80 90 110 170
+ArbuMenz 110
+CaloDecu 80
+PseuMenz 80 130 140 150 160 180 190 200 210 220 250 320 340 360 400
+
+MapCode 1279
+AbieGran 60 80 130
+AcerMacr 50
+PseuMenz 120 140 150 160 170 180 190 200 210 220 240 280 310
+
+MapCode 1280
+AcerMacr 30
+PseuMenz 60 70 80 90 100 110 120 130 140 150 160 170 180 200
+TsugHete 40 50 70 80 90 100
+
+MapCode 1281
+AlnuRubr 20 30 40 60
+PseuMenz 40
+TsugHete 30 40 60 70 90
+
+MapCode 1282
+PseuMenz 20 30
+
+MapCode 1283
+ArbuMenz 20
+PseuMenz 20 30 40
+
+MapCode 1284
+PiceSitc 100 120 150
+PinuCont 40 50 60 70 80 90 140
+PseuMenz 10 20 40 50 60 110 130 140 160
+
+MapCode 1285
+AlnuRubr 10
+TsugHete 20 30 40 50 60
+
+MapCode 1286
+AlnuRubr 10 20 30 40 50 60
+PiceSitc 80 100
+ThujPlic 70
+TsugHete 30 50 60 70 100
+
+MapCode 1287
+AlnuRubr 20 30 40
+PseuMenz 30 40 50 60 70
+
+MapCode 1288
+AlnuRubr 20 60
+PseuMenz 100 110 120 130 140 160 170 200
+
+MapCode 1289
+AlnuRubr 20 30
+PseuMenz 20 30 40
+TsugHete 20
+
+MapCode 1290
+LithDens 30 40 50 60 70 80 100 110 150 180 190 200
+PseuMenz 40 80 220 350
+
+MapCode 1291
+ChamLaws 40 50 60 70 100
+PseuMenz 50 60 70 80 90 100 110
+TsugHete 60 70 80 110
+
+MapCode 1292
+PseuMenz 50 60 90 100 120 130
+TsugHete 50 70
+
+MapCode 1293
+AbieGran 50 60 70 100
+ChamLaws 110
+PseuMenz 60 70 80 90 100 110 120 150 180 210 250 280
+TsugHete 40 60 70 80 120
+
+MapCode 1295
+AlnuRubr 30 40 60
+PseuMenz 50 60 70 80 90 100
+
+MapCode 1296
+AcerMacr 20 30 40 70
+AlnuRubr 40 50
+PseuMenz 90 130
+
+MapCode 1297
+AlnuRubr 10 20
+PseuMenz 10 20
+
+MapCode 1298
+AlnuRubr 20 30 40
+PiceSitc 20 30 40 50 60 80 110 140
+TsugHete 20 50
+
+MapCode 1299
+AbieGran 50
+PseuMenz 20 30
+QuerGarr 30 50
+
+MapCode 1300
+PiceSitc 30 40 90
+PseuMenz 30 40
+TsugHete 20 30 40 50 60 70
+
+MapCode 1301
+AlnuRubr 30 50
+PseuMenz 40 70 80 100
+ThujPlic 120 160
+
+MapCode 1302
+AcerMacr 40 60
+PseuMenz 40 50 60 70 80 90 130 140 150 160
+TsugHete 60
+
+MapCode 1303
+AlnuRubr 10 20
+PseuMenz 10 20
+
+MapCode 1304
+AbieProc 20 30 40
+TsugHete 20 30 40 50
+
+MapCode 1305
+ArbuMenz 40
+LithDens 20 30 40
+PseuMenz 10 20 30 40 50 60 100 120
+
+MapCode 1306
+PseuMenz 120 140 150 180 190 210 220 230 240 250 280 300 370
+TsugHete 40 50 60 70 80 120 130 140 150 170
+
+MapCode 1308
+AcerMacr 30 50
+PseuMenz 30 40 50 60 100
+
+MapCode 1309
+PseuMenz 30 40 50
+
+MapCode 1310
+AcerMacr 40
+PseuMenz 10 20 30 40 50 70 80
+TsugHete 40 70
+
+MapCode 1311
+AcerMacr 20
+PseuMenz 40 50 60 70 80 90 100
+TsugHete 40 60 70
+
+MapCode 1312
+ChamLaws 30
+PseuMenz 20 30 40
+
+MapCode 1313
+AcerMacr 40 50 60 80
+PseuMenz 120 130 140 170 180 210 220 230 240 260 290 330
+ThujPlic 70
+TsugHete 30 140
+
+MapCode 1315
+AlnuRubr 20 30 40
+PiceSitc 40 50 80
+TsugHete 50 60 90
+
+MapCode 1316
+AlnuRubr 20 30
+PseuMenz 20 30 40
+
+MapCode 1317
+LithDens 20 30
+PseuMenz 20 30 40 50 60
+
+MapCode 1318
+PseuMenz 50 60 70 80 90 100 110 120 130 140 150 160 170 180
+
+MapCode 1319
+AbieGran 40
+AcerMacr 30
+AlnuRubr 10 20
+PseuMenz 20 30 40
+
+MapCode 1320
+LithDens 20
+PseuMenz 20 40 60
+
+MapCode 1321
+AcerMacr 40 50
+PseuMenz 60 80 90 100 110 120 130 140 150 160 170 180
+TsugHete 40
+
+MapCode 1322
+AlnuRubr 20 30
+PiceSitc 40 80 120
+TsugHete 10 20 40 50 60 70 120 130 140 170 180
+
+MapCode 1323
+AbieGran 30 40 50
+AlnuRubr 20 30 40 50
+ChamLaws 50 70 100 110 140
+LithDens 20 30
+PseuMenz 40 60
+
+MapCode 1325
+ArbuMenz 30 40 50 60 70
+ChryChry 50 60 70 80
+LithDens 20
+PseuMenz 40 50 60 70 80 360
+
+MapCode 1326
+AlnuRubr 40 50
+PseuMenz 50 60 70 80 90 100 120 130 210
+
+MapCode 1327
+AlnuRubr 10 20 30 40
+PseuMenz 10 20 30
+
+MapCode 1328
+ChamLaws 60 70 110
+PiceSitc 30 40 50 60 100
+PseuMenz 30 50 60 70 100 110
+TsugHete 40 50 60 70
+
+MapCode 1330
+ArbuMenz 40 50 60 70
+ChryChry 30 40 50
+LithDens 30 40 50
+PseuMenz 10 20 30 50
+
+MapCode 1331
+AlnuRubr 20 30
+PseuMenz 10 30
+ThujPlic 10 100
+TsugHete 10 20 30 110
+
+MapCode 1333
+PseuMenz 110 120 130 160 220 230 300 620
+ThujPlic 70 110 140 260 310
+TsugHete 40 50 60 70 110
+
+MapCode 1335
+PiceSitc 80
+ThujPlic 30
+TsugHete 30 40 50 60
+
+MapCode 1336
+PiceSitc 40 50
+PinuCont 30 40 50 60 70 80 90
+
+MapCode 1337
+PseuMenz 10 20
+TsugHete 20
+
+MapCode 1338
+LithDens 20 30 40
+PseuMenz 30 40 50 60 70
+TsugHete 30 40 50 60
+
+MapCode 1339
+PseuMenz 40 50 60 80 90 120 130 140
+
+MapCode 1340
+PseuMenz 60 70 80 100 130 140 160 180 190 200 210 220 230 240
+
+MapCode 1341
+AbieGran 40 50 60 70
+AcerMacr 20 40 50 60
+PseuMenz 20 30 40 50 90
+
+MapCode 1343
+ChryChry 20
+LithDens 80
+PseuMenz 60 70 80 90 100 110 120 130 140 150 170 180
+
+MapCode 1344
+ArbuMenz 40 50 60 70 80 90
+LithDens 30 40 50 60 70 80 90 100 110
+PseuMenz 70 80 110 160 180 190 200 210 230 240 250 270
+
+MapCode 1345
+LithDens 20 30
+PseuMenz 20 30 40 50 60 70 80
+
+MapCode 1346
+ArbuMenz 40 50
+ChryChry 30 40 50
+LithDens 30 40 50 60 70
+PseuMenz 70 110
+
+MapCode 1347
+AcerMacr 60
+ArbuMenz 40 50 80
+ChryChry 80
+LithDens 30 40 50 60 70 80 90 110
+PseuMenz 40 50 70 100 140 160 170 180 200 220 230 240 250 260 290 300 310 320 360
+
+MapCode 1348
+ArbuMenz 20 30
+LithDens 20 30
+PseuMenz 20 30 40
+
+MapCode 1349
+ArbuMenz 60 70 80 100
+LithDens 40 50 60 70 80 90 110
+PseuMenz 230
+
+MapCode 1351
+ArbuMenz 30 40
+ChryChry 20 30
+LithDens 30 40
+PseuMenz 30 40 50 60 70 80 90 100 120
+
+MapCode 1352
+ChamLaws 210
+ChryChry 30
+PseuMenz 30 40 50 60 70 80 90 100 110 120 130 140 150
+
+MapCode 1353
+AcerMacr 80
+AlnuRubr 20 30 40
+ArbuMenz 30
+ChamLaws 30
+LithDens 20 30
+PseuMenz 30 40 50 60 70
+
+MapCode 1354
+ArbuMenz 60 80
+ChamLaws 170 210 250 270 410
+PseuMenz 50 100 110 120 140 150 180 310
+
+MapCode 1355
+ArbuMenz 40 50 60 70
+LithDens 40 50 60
+PseuMenz 70 90
+
+MapCode 1356
+ArbuMenz 90 110
+CaloDecu 50 60 70 80 100 120 190
+ChamLaws 20 30 40 50 60 70 80 100 130 140 150 180
+LithDens 10 30 40
+PseuMenz 30 40 50 60 70 80 100 120 200
+
+MapCode 1357
+AcerMacr 20 30 50
+LithDens 20
+PseuMenz 20 30 40
+TsugHete 20 30 40 50 60 80
+
+MapCode 1358
+PseuMenz 20 30 40 120
+
+MapCode 1359
+AbieGran 100
+PseuMenz 70 90 100 110 120 130 140 150 160 170 180 190 200 210 220 230 240 250 260 270 290 370
+
+MapCode 1361
+AcerMacr 40 50 60 70 90
+ArbuMenz 50 60 70
+LithDens 20 30 40 50 60 70
+PseuMenz 150 170 180
+
+MapCode 1362
+AcerMacr 70
+ChryChry 70
+LithDens 30 40 60 70 80
+PseuMenz 60 70 80 90 100 110 120 130 140 150 160 170 180 200 210 370
+
+MapCode 1363
+LithDens 30 40 50 60 70 80 90 100 120 150
+PseuMenz 70 80 110 120 150 170 200 220 230 260 280 330
+
+MapCode 1364
+AlnuRubr 20
+ArbuMenz 20 30 40 70
+LithDens 20 30 40
+PseuMenz 40 50 150 180 230
+
+MapCode 1365
+LithDens 30 40
+PseuMenz 30 40 50 60 70 80 90 100 110 120 130
+
+MapCode 1366
+CaloDecu 20 30 40 50 60 80
+PseuMenz 70 80 90 100 120
+
+MapCode 1367
+ArbuMenz 20 30
+LithDens 20 30 40 50 60 110
+PseuMenz 10 20 30 40 70 120 200
+
+MapCode 1368
+ChamLaws 60 80 120 140 150 170 300
+PseuMenz 40 80 90 100 120 160
+
+MapCode 1369
+PinuLamb 70
+PseuMenz 60 70
+
+MapCode 1370
+ChryChry 20 30 40
+LithDens 30 40
+PseuMenz 30 40 50 60 70 80 100 110 140 150
+
+MapCode 1371
+LithDens 20 30 40
+PseuMenz 30 40 50 60 70 80 90 100 110
+
+MapCode 1372
+ArbuMenz 40 50 60 70 80 90 100 120
+ChamLaws 30 130 150 160
+LithDens 20 30 40 50 60 70 80 90 100 120
+PinuLamb 30 130 140 280
+PseuMenz 30 40 50 60 70 80 90 100 170 220 370 390
+
+MapCode 1373
+ArbuMenz 30 40 50 80
+ChryChry 20 30 40 50 60 70 80 90 100 120
+LithDens 20 30 40 50 60 70 80
+PinuLamb 70 120 220 240
+PseuMenz 180 200 220 300
+
+MapCode 1374
+ArbuMenz 50 70 80 90
+CaloDecu 110 170
+LithDens 30 40 50 60 70 80 90
+PseuMenz 30 50 60 70 80 90 100 110 120 130 140 150 160 170 180 190 200 210 220 230 240 250 260 270 280 290 320 330 360
+
+MapCode 1375
+LithDens 30 40
+PseuMenz 50 60 70 80 90 100 110 130 150
+TsugHete 40
+
+MapCode 1376
+ArbuMenz 20 30
+ChamLaws 40 50 60 70 80 90 100 110 120 150
+LithDens 30 40
+PseuMenz 40 50 60 70 80 90 100 110 120 170
+TsugHete 30 50 70
+
+MapCode 1377
+PseuMenz 110 210 220 230 240 250 260 270 280 290 300 310 320 330 340 350 360 370 410 420 440 560
+TsugHete 40 50 60 100 110 120 140 170
+
+MapCode 1378
+ArbuMenz 40
+ChryChry 10 20
+LithDens 30
+PseuMenz 10 20 30 40
+
+MapCode 1379
+ArbuMenz 40 50 70
+LithDens 30 40 50 60 70 80
+PseuMenz 40 50 60 70 80 100 110 120 140 150 190
+
+MapCode 1380
+ArbuMenz 40 50 60 80 90
+LithDens 30 40 50 60 70 80 90
+PseuMenz 50 60 70 80 90 100 110 120 130 140 150 190
+
+MapCode 1381
+ArbuMenz 40
+LithDens 30 40 50 60
+PseuMenz 20 30 40 50 60 70 80
+TsugHete 30
+
+MapCode 1382
+ArbuMenz 30
+LithDens 30 40 50 60
+PseuMenz 40 50 60 70 80 100
+
+MapCode 1383
+CaloDecu 90
+ChryChry 70 80 90 110
+PseuMenz 20 40 50 60 70 80 90 100 110 120 130 140 150 160 170
+TsugHete 30 60 70 90 100
+
+MapCode 1384
+AcerMacr 30 50 60 70 80
+AlnuRubr 30 40 50
+ChamLaws 60
+PiceSitc 30 40 50 60
+PseuMenz 110 130 140
+ThujPlic 70 160
+TsugHete 60
+
+MapCode 1385
+CaloDecu 190
+LithDens 40 50 60 70
+PinuLamb 340
+PseuMenz 30 60 80 90 100 110 140 160 180 190 200 210 230 240 250 270 290 310 350 360 460
+ThujPlic 20 30 40 50 60 90 100 130 140
+TsugHete 30 50 60 70 80 100 110
+
+MapCode 1386
+AbieGran 20 30 40 50 60 70
+AcerMacr 30 50
+AlnuRubr 30 40
+ChamLaws 20 30 40 50 60
+PseuMenz 30 40 50 60 70 80 90
+
+MapCode 1387
+AbieGran 70 80 110
+ArbuMenz 40 60 80 90 100 160
+CaloDecu 190
+ChryChry 90
+PinuLamb 130
+PseuMenz 40 50 60 70 80 90 100 110 120 130 140 150 180 200 210 230 250 260 360
+
+MapCode 1388
+AbieGran 50 60
+AlnuRubr 40
+ArbuMenz 50
+LithDens 30 40 50 60 70
+PseuMenz 40 50 60 70 80 90 100
+TsugHete 50 60
+
+MapCode 1389
+AbieGran 40
+ChryChry 40
+PseuMenz 30 40 50 60 70 80
+ThujPlic 20 60
+TsugHete 20 40 50 60 70 80
+
+MapCode 1390
+AbieGran 20 40 60 70 80 90 100
+AlnuRubr 30 40 50 60
+ArbuMenz 30 40
+PseuMenz 20 30 40 50 60 70 80 90 100
+ThujPlic 50 60
+TsugHete 40 60
+
+MapCode 1391
+AbieGran 10 20
+PseuMenz 10 20
+
+MapCode 1392
+AbieGran 30 50 60 70 80 90 100
+ArbuMenz 40
+ChamLaws 10 20 30 40 50 60 70 90
+PseuMenz 30 40 50 60 70 80 90 100 170
+TsugHete 70
+
+MapCode 1393
+AbieGran 90
+AcerMacr 60
+ChamLaws 30 50 60 70 80 90 100 110 120 140
+ChryChry 70
+LithDens 50
+PinuPond 60
+PseuMenz 60 70 80 90 100 110 120 130 140 170 230 240 280 290 300 310 380 400 410
+ThujPlic 110
+TsugHete 40 90 100 130
+
+MapCode 1394
+AcerMacr 40 50 60 70 100
+AlnuRubr 50 60
+PseuMenz 80 90 100 110 120 130
+TsugHete 100 110
+
+MapCode 1395
+ChamLaws 100 150 160 180 200 240 430
+PseuMenz 250 270 280 310 330 340 350 360 370 380 400 420 430 450 460 500 540 560 580 660 690
+ThujPlic 100 130 160 180 250 450
+TsugHete 40 50 60 70 80 90 100 120 130 180 230
+
+MapCode 1396
+AbieGran 50 90 100
+AcerMacr 30 40 60 90
+AlnuRubr 20 30 40 50
+ChamLaws 30 40 50
+PseuMenz 30 40 50 60 70
+TsugHete 40 50 80
+
+MapCode 1397
+AcerMacr 50 60 70
+AlnuRubr 20 30 40
+ChamLaws 80 110 140
+PseuMenz 20 50 90 100 110 120 130 140 150 160
+ThujPlic 100 110 140 260
+TsugHete 20 40 50
+
+MapCode 1398
+AbieGran 50 80 100
+AcerMacr 50 60
+AlnuRubr 40 50 60
+PseuMenz 60 70 80 90 100 110 120 130 140 160 240
+TsugHete 30
+
+MapCode 1399
+PseuMenz 110 120 130 140 170 180 190 200 210 220 240 250 260 310
+TsugHete 30 40 50 60 70 90 120 130 150
+
+MapCode 1400
+AlnuRubr 20 30 40 50 60 70
+PseuMenz 50 60 70
+
+MapCode 1401
+AcerMacr 30 70
+AlnuRubr 20 30
+PseuMenz 20 30 40 50 60 70
+ThujPlic 50
+TsugHete 20 40
+
+MapCode 1402
+PseuMenz 20 30 40 50 60
+
+MapCode 1403
+AcerMacr 50 60 70
+AlnuRubr 30 40 50 60 70 80
+PseuMenz 60 70 90
+ThujPlic 60
+
+MapCode 1404
+PseuMenz 20 30 40 50
+TsugHete 20
+
+MapCode 1405
+PseuMenz 20 30 40 50
+TsugHete 20 30 40
+
+MapCode 1406
+AbieGran 50 70 80
+ChryChry 40
+PseuMenz 30 40 50 60 70 80 90
+
+MapCode 1407
+AcerMacr 40 50 60 70
+AlnuRubr 40
+PseuMenz 80 130 140 150 170 180 190 200 220 260 340
+ThujPlic 90 100 130 140 210
+TsugHete 30 50 60 70 90 100 110 120 130 140 150
+
+MapCode 1408
+ArbuMenz 30
+PseuMenz 20 40 50
+
+MapCode 1409
+ArbuMenz 40 50 60 70 80 90
+CaloDecu 20
+PseuMenz 10 20 100
+QuerGarr 40
+QuerKell 120
+
+MapCode 1410
+AbieGran 50 70 80
+AcerMacr 30
+ArbuMenz 40
+CaloDecu 130
+PseuMenz 40 50 60 70 80 100 120 130 140 150 170 180 190 210 240 260 340 370 420 500
+
+MapCode 1411
+AbieGran 60 70 80 100 200
+AcerMacr 70
+ArbuMenz 40 60 70 80
+ChryChry 50 70
+PseuMenz 40 50 60 70 100 110 120 150 160 170 180 190 210 220 240 310 340 420 430 440 480
+
+MapCode 1412
+AbieGran 40 50 80
+AlnuRubr 30 40
+PseuMenz 40 50 60 70 80 90 160 200 480
+ThujPlic 40 50 60 120
+TsugHete 40 60 70 80 90 100 110 130
+
+MapCode 1413
+CaloDecu 100 140 150 160 170 190
+ChryChry 60
+PseuMenz 130 180 200 210 230 240 260 270 280 290 300 310 320 330 340 350 360 370 380 390 410 530
+ThujPlic 70 80 100 110 120 150
+TsugHete 60 70 80 90 100 110 120 140
+
+MapCode 1414
+AcerMacr 40
+AlnuRubr 30
+PseuMenz 40 50 60 70 80
+TsugHete 40 60 70 80
+
+MapCode 1415
+CaloDecu 80
+PinuPond 30 40
+PseuMenz 20 30 40 50 60 70 80 90 100 120
+QuerKell 90
+
+MapCode 1416
+AbieGran 90 140
+AcerMacr 30 40 50
+ArbuMenz 80
+ChryChry 40
+PseuMenz 30 40 50 60 80 90 110 130 140 160 170 180 190 200 210 220 230 240 250 270
+
+MapCode 1417
+PseuMenz 10 20 30 40 50 60 70 80 90 100
+
+MapCode 1418
+AcerMacr 30 40
+ArbuMenz 30
+ChryChry 30
+PseuMenz 30 40 50 60 70
+TsugHete 40 50
+
+MapCode 1419
+AbieGran 40 70 80
+AlnuRubr 20 30 40 60
+ChryChry 80
+PseuMenz 30 40 70 80 100 110 120 130 140 150 180 190 210 220 230 240 260 270 400
+ThujPlic 50 80 100 110 140
+TsugHete 40 50 60 70 80 150
+
+MapCode 1420
+AcerMacr 30
+PseuMenz 10 20
+
+MapCode 1421
+AbieGran 30
+AlnuRubr 20
+PseuMenz 10 20 30
+
+MapCode 1422
+AcerMacr 20 30 40 50
+ArbuMenz 60
+ChryChry 30
+PseuMenz 30 40 50 60 70
+
+MapCode 1423
+AcerMacr 50 60
+CaloDecu 190
+ChryChry 50
+PseuMenz 50 60 70 80 90 100 110 120 150 160 190 220 240 260 280 310 380 420
+
+MapCode 1424
+AbieGran 20 30 40
+PseuMenz 10 20
+
+MapCode 1425
+PseuMenz 20 30
+
+MapCode 1426
+ChryChry 30
+PseuMenz 40 50 60 70 80 90
+
+MapCode 1427
+AcerMacr 40 60 90
+AlnuRubr 40 50 60
+ChryChry 60
+PseuMenz 40 50 60 70 80 90 100
+TsugHete 60 70 90
+
+MapCode 1428
+AcerMacr 60
+AlnuRubr 30
+PseuMenz 100 130 140 150 160 170 190 200 210 220 230 240 260 270 290 330 350
+ThujPlic 90 110 130 150 170
+TsugHete 50 60 70 80 100 150
+
+MapCode 1429
+AcerMacr 20 30 40 50 60
+AlnuRubr 20 30 40 50
+PseuMenz 20 30 40 50
+ThujPlic 30 40 50 60 80 100
+
+MapCode 1430
+AcerMacr 30 40 50 60 80 90
+AlnuRubr 50
+PseuMenz 60 70 80 90 100 110 120 130 160 170 190 210 270 330 470
+ThujPlic 40 50 100 160 170 220 240 320
+TsugHete 40 50 60 70 80 90 100 120
+
+MapCode 1431
+AcerMacr 60 70
+AlnuRubr 10 20
+PseuMenz 10 20 30
+TsugHete 40
+
+MapCode 1432
+AcerMacr 20 30
+AlnuRubr 20
+PseuMenz 30 40 50 60 70
+
+MapCode 1433
+AcerMacr 30 40 50 60 70 100
+PseuMenz 60 70 80 90 100 110 120 170 180 190 200 220 230 240 250 260 270 280 300 330
+
+MapCode 1434
+PseuMenz 10 20
+
+MapCode 1435
+AbieGran 50
+CaloDecu 50 60 70 80 90 110 120 130 140 190
+ChryChry 30 80
+PseuMenz 40 60 70 80 90 100 110 120 130 140 220 230 270 280
+QuerKell 60
+
+MapCode 1436
+AcerMacr 50
+PseuMenz 40 50 60 70 80 90 100 110 130 150 160 170 200 210 220 230 240 260 290 500
+
+MapCode 1437
+AcerMacr 30 40 50 60 80 100 120
+AlnuRubr 30 40 50
+PseuMenz 40 50 60 70 210 250 300 340 360 380 410 510
+TsugHete 30 60 80
+
+MapCode 1438
+AcerMacr 50 60
+PinuPond 70
+PseuMenz 40 50 60 70 80 90 100 110 140
+
+MapCode 1439
+AbieGran 40 50 90 100 110
+AcerMacr 30 50
+PseuMenz 10 20 30 40 50 60 70 80 100 110
+ThujPlic 90 100 120 130 150 160
+TsugHete 20 30 40 50 60 70 80 90 100 110 120 130 140
+
+MapCode 1440
+AcerMacr 50 80 90
+AlnuRubr 60 70
+PseuMenz 80 110 120 140 160 170
+ThujPlic 90 100 180 300 490
+TsugHete 50 60 70 90 130
+
+MapCode 1441
+AcerMacr 40 50 60
+PseuMenz 30 40 50 60 70 80 90 100 110 120 130 140 170
+TsugHete 30 40 70
+
+MapCode 1442
+AlnuRubr 40 50 60
+PseuMenz 50 60 70 80 90 100 110 120 140
+
+MapCode 1443
+AcerMacr 60
+AlnuRubr 20 30 40 50
+PseuMenz 30 40 50 60 80
+
+MapCode 1444
+PseuMenz 40 50 60 70 80 90 100 190
+TsugHete 170
+
+MapCode 1445
+AcerMacr 50 60 70 80
+AlnuRubr 40 50 70
+PseuMenz 100 110 120 130 160 170 190 250 260
+
+MapCode 1446
+AcerMacr 30
+PseuMenz 30 40 50 60 70 80 90 100 110 120 130
+
+MapCode 1447
+AbieProc 50
+PseuMenz 20 40 50 60 70 80 90
+TsugHete 40 70 90
+
+MapCode 1448
+AbieGran 80
+AbieProc 90
+PseuMenz 30 40 50 60 70 80 90 100 210 230 580 630
+TsugHete 40 50 60 80 90
+
+MapCode 1449
+AlnuRubr 30
+PseuMenz 50 60 70 80 90 100
+
+MapCode 1450
+PseuMenz 10 20 30 40 90
+
+MapCode 1451
+AcerMacr 50 60
+PseuMenz 10 20 30
+
+MapCode 1452
+AcerMacr 30 40 60
+AlnuRubr 20 30 40 50
+PseuMenz 20 30 40 50 60 70 80 100
+TsugHete 30 40 60 70 80
+
+MapCode 1453
+AlnuRubr 20 30
+PseuMenz 20 30 40
+TsugHete 20
+
+MapCode 1454
+AbieProc 30 50
+PseuMenz 40 50 60 70
+TsugHete 30 40 50 60 70 80
+
+MapCode 1455
+PseuMenz 30 40 50 60 70 80 90 100
+
+MapCode 1456
+AcerMacr 40 50 60 70
+PseuMenz 60 70 80 90 100 110 120 130 140 150 170 180
+
+MapCode 1457
+AlnuRubr 30 40
+PseuMenz 20 30 40 50 60 70 80 100
+
+MapCode 1458
+AcerMacr 30 40
+PseuMenz 50 60 70 80 90 180 250 280 370
+
+MapCode 1459
+AcerMacr 50
+AlnuRubr 20 30 40 50 60
+PseuMenz 20 30 40 50 60 70
+
+MapCode 1460
+AlnuRubr 20 30 40 50
+PseuMenz 30 40 50 60 70 80
+TsugHete 40
+
+MapCode 1461
+AcerMacr 50 60
+AlnuRubr 30 40 60
+PseuMenz 50 60 70 80 90 100 110 120
+ThujPlic 30 50 60 70 80
+TsugHete 30 50 60 70 80
+
+MapCode 1462
+AlnuRubr 40 50
+PseuMenz 40 50 60 70 80 90 100
+TsugHete 40 50 60 70 80 90 100 110 130
+
+MapCode 1463
+AlnuRubr 10 30 70
+PseuMenz 40 50 60 70 110 130 170 220 280
+ThujPlic 80
+
+MapCode 1464
+PseuMenz 10 20
+
+MapCode 1465
+AlnuRubr 10 20 30
+ChamLaws 30
+ChryChry 40
+PseuMenz 20 30 40 50
+TsugHete 20 30 40
+
+MapCode 1466
+CaloDecu 10 20 40 50
+PseuMenz 20 30 40
+
+MapCode 1467
+AcerMacr 40
+AlnuRubr 20 30
+PseuMenz 30 40 50 60 90
+TsugHete 30
+
+MapCode 1468
+AlnuRubr 50
+PseuMenz 60 70 80 90 100 110 120 130 140 150 170 190
+TsugHete 50 60
+
+MapCode 1469
+AbieGran 20 40
+AlnuRubr 20 30
+ChryChry 80
+PseuMenz 30 40 60 70 80 120 130 140 150 160 270 290
+TsugHete 30
+
+MapCode 1470
+PseuMenz 10
+
+MapCode 1471
+AcerMacr 110
+ArbuMenz 40
+ChryChry 50 60
+PseuMenz 20 30 40 50 60
+
+MapCode 1472
+AbieGran 20
+
+MapCode 1475
+PseuMenz 20 30 40
+
+MapCode 1476
+AlnuRubr 40
+ThujPlic 50 60
+TsugHete 30 40 50 60 70 80 100
+
+MapCode 1477
+AcerMacr 40
+AlnuRubr 20 30
+PseuMenz 40 50 60 70 80 100 110 120 130 140 160 170
+
+MapCode 1478
+AlnuRubr 20 30 40 50 60
+PseuMenz 30 40 50 60 70
+
+MapCode 1479
+AlnuRubr 20
+PseuMenz 20 30 40 50
+ThujPlic 30
+TsugHete 20 30 40 60
+
+MapCode 1480
+ChamLaws 80
+PseuMenz 40 50
+
+MapCode 1481
+PseuMenz 60 70 80 90 100 120 130
+
+MapCode 1482
+AlnuRubr 50
+PseuMenz 50 60
+ThujPlic 40
+TsugHete 30 40 50 60 70 80 100 120 140 150
+
+MapCode 1483
+PseuMenz 20 30 40
+ThujPlic 30 50
+TsugHete 30
+
+MapCode 1484
+AlnuRubr 20 30 40 50 80
+
+MapCode 1485
+PseuMenz 10 20
+
+MapCode 1486
+TsugHete 20
+
+MapCode 1487
+AbieGran 30
+AlnuRubr 20 30 40
+LithDens 20 30
+
+MapCode 1488
+ChamLaws 320
+PseuMenz 60 180 490
+
+MapCode 1489
+AbieProc 40
+AlnuRubr 30
+PseuMenz 70 120
+ThujPlic 30
+TsugHete 40 50 60 70 80 110
+
+MapCode 1490
+ArbuMenz 30 40 50 60
+PseuMenz 40 50 60
+QuerGarr 60 70 80
+QuerKell 60 70
+
+MapCode 1491
+AlnuRubr 20
+PseuMenz 10 20
+
+MapCode 1493
+AlnuRubr 20 30 40 50
+PseuMenz 50 60
+TsugHete 40 50 60 70 80 100
+
+MapCode 1494
+AlnuRubr 10 20
+PseuMenz 60 70 80 90 100 110 130 150 170 210 220 360
+
+MapCode 1495
+AlnuRubr 20
+PseuMenz 20 30 40 50
+
+MapCode 1496
+PseuMenz 10
+
+MapCode 1497
+PseuMenz 40 50 60 70 80 90 120 190
+
+MapCode 1498
+AlnuRubr 30 40 50
+PiceSitc 40
+PseuMenz 20 40 50 60 70 140
+ThujPlic 50
+
+MapCode 1499
+PseuMenz 30 40 50 60 70 80 90 100 130 160
+
+MapCode 1500
+AlnuRubr 20 30 40
+PseuMenz 150
+ThujPlic 50 60 90 100 110 120 140
+TsugHete 50 100
+
+MapCode 1501
+PseuMenz 10 20
+
+MapCode 1503
+AlnuRubr 30 40
+
+MapCode 1504
+AlnuRubr 20 30 40
+PseuMenz 20 30 40 60
+TsugHete 30 40 50 80
+
+MapCode 1505
+PiceSitc 30 40 50
+TsugHete 20 30 40 50
+
+MapCode 1507
+AlnuRubr 20
+PseuMenz 30 40 50
+TsugHete 20 30 40 50 60 70 90
+
+MapCode 1508
+AbieGran 60 100
+CaloDecu 90 180 190
+PinuPond 140
+PseuMenz 80 120 140 150 160 170 180 190 200 210 220 230 240 250
+
+MapCode 1509
+PseuMenz 70
+TsugHete 40 50 60 70 80
+
+MapCode 1510
+PseuMenz 50 60 70 80 90 100 130
+
+MapCode 1511
+PseuMenz 10 20
+ThujPlic 20 30
+TsugHete 10 20
+
+MapCode 1512
+AcerMacr 80
+AlnuRubr 40 50 60 90
+PseuMenz 50 110 120 130 140 150
+ThujPlic 40 80 990
+
+MapCode 1513
+AlnuRubr 20
+PseuMenz 20 30
+
+MapCode 1514
+PseuMenz 10
+
+MapCode 1515
+PseuMenz 10 20
+
+MapCode 1516
+AbieProc 40 50
+AlnuRubr 30 40
+PseuMenz 40 50 60 70 80 90 100
+ThujPlic 40
+TsugHete 40 50 60 70 80
+
+MapCode 1517
+ChamLaws 50 60 70 220 260 300 320 410 460 490
+LithDens 60
+PinuLamb 250
+PseuMenz 100 120 140 150 160 170 180 190 200 220 230 240 250
+
+MapCode 1518
+AlnuRubr 30 40 50
+PiceSitc 40
+PseuMenz 40 60
+
+MapCode 1519
+AlnuRubr 40 50 60 80 90
+PiceSitc 100
+PseuMenz 100 130 150 200
+TsugHete 120
+
+MapCode 1520
+PinuCont 10 20 30 40 50 60 70 80
+
+MapCode 1522
+ChamLaws 40
+PseuMenz 20 30 40 50
+
+MapCode 1523
+QuerGarr 60 70 80 90 110
+
+MapCode 1524
+AcerMacr 20 30
+PseuMenz 30 40 50 60 70
+
+MapCode 1525
+AbieGran 40 50
+CaloDecu 40 50 90
+PseuMenz 40 50 60 70 80
+
+MapCode 1526
+PseuMenz 70 80 90 100 110 130 150 160
+ThujPlic 20 150
+TsugHete 40 60 130 415
+
+MapCode 1527
+PseuMenz 10 40
+
+MapCode 1528
+LithDens 20 30 40 60 80
+PseuMenz 20 30 40 50
+
+MapCode 1529
+PseuMenz 10
+TsugHete 10 20
+
+MapCode 1530
+AcerMacr 60
+ArbuMenz 40 50 60 70 80
+PseuMenz 40 50 60 80
+QuerKell 70
+
+MapCode 1531
+AcerMacr 50 100 120
+AlnuRubr 30 40 50 60 80 90
+PiceSitc 40 90
+ThujPlic 150 180
+TsugHete 50 60
+
+MapCode 1532
+AcerMacr 30
+AlnuRubr 30
+PseuMenz 40 50 60 70 80 90
+ThujPlic 50
+TsugHete 20
+
+MapCode 1533
+AcerMacr 20 30 40 50
+AlnuRubr 20 30 40
+PseuMenz 10 20 30 40
+
+MapCode 1534
+TsugHete 20
+
+MapCode 1535
+PseuMenz 20
+
+MapCode 1536
+AbieProc 30
+AlnuRubr 20 30
+PseuMenz 20 30 40
+
+MapCode 1537
+ChryChry 20
+PseuMenz 60 70 80 90 100 110 120 130 140 150 160 180
+
+MapCode 1538
+AcerMacr 70
+AlnuRubr 50
+PseuMenz 150 160
+ThujPlic 70 80 120 140 150 200 250 270 300 360 370
+TsugHete 40 90 140
+
+MapCode 1539
+AcerMacr 40 50
+AlnuRubr 30 40
+PseuMenz 40 50 60 70 80 90 120 130
+ThujPlic 60 70 80
+TsugHete 40
+
+MapCode 1540
+AlnuRubr 50 60
+PseuMenz 60 70 80 150
+TsugHete 50
+
+MapCode 1541
+PiceSitc 80 100 110 120 130 140
+PseuMenz 120 180
+TsugHete 20 30 40 50 60 80 90 100 110 120 130 140
+
+MapCode 1543
+PseuMenz 20 30 40 50
+
+MapCode 1544
+TsugHete 30
+
+MapCode 1545
+AcerMacr 30 40 50 60
+PseuMenz 40 50 60 100 110 120 130 140 150 160 180
+
+MapCode 1546
+LithDens 40
+PseuMenz 30 40 50 80
+
+MapCode 1547
+AlnuRubr 10 20
+PseuMenz 20 30
+
+MapCode 1548
+AcerMacr 30 40
+AlnuRubr 10 20
+PseuMenz 20
+
+MapCode 1549
+PiceSitc 50 80
+PinuCont 40 100
+PseuMenz 40 50 110 130
+
+MapCode 1550
+PseuMenz 30 40 50 60
+TsugHete 50
+
+MapCode 1551
+AlnuRubr 20 30 40
+PiceSitc 30
+PseuMenz 40
+TsugHete 20 30 40 50
+
+MapCode 1552
+AbieGran 90
+PseuMenz 20 40 50 60 70
+TsugHete 30 40 50 60 80 100
+
+MapCode 1553
+PseuMenz 60 70 80 120 140 160 180 210
+
+MapCode 1554
+PseuMenz 40 50 60 70 80 110
+
+MapCode 1555
+PseuMenz 40 50 60 70 80
+
+MapCode 1556
+PseuMenz 90 100 110 120 140 150 160 170 180 190
+TsugHete 30
+
+MapCode 1557
+ArbuMenz 60
+LithDens 20 30 40 50 60 70 80
+PseuMenz 70 80 90 100 110 120 140 170 180 190 280 340
+
+MapCode 1558
+ArbuMenz 70
+CaloDecu 30 40
+PinuPond 30
+PseuMenz 10 50 60 70 80 90 100
+
+MapCode 1560
+AcerMacr 20 30
+AlnuRubr 20 30 50 60 70
+
+MapCode 1561
+AcerMacr 30 40 50 60
+AlnuRubr 20 30 40 60
+PseuMenz 30 40 50 60 70 80 100
+TsugHete 50 60
+
+MapCode 1563
+ArbuMenz 40 50 70
+LithDens 20 30 40
+PinuLamb 110
+PseuMenz 40 50 60 70 80 90 110 120 160 220
+
+MapCode 1564
+PseuMenz 20 30 40
+
+MapCode 1565
+AcerMacr 40
+AlnuRubr 20
+PseuMenz 30 40 50 60 70 80 100 110
+QuerKell 80
+
+MapCode 1566
+PseuMenz 20 30
+TsugHete 20
+
+MapCode 1568
+PseuMenz 40 50 60 70 80 90
+TsugHete 30
+
+MapCode 1569
+AbieGran 40
+PseuMenz 20 30 40 50 60
+
+MapCode 1570
+AlnuRubr 10
+PseuMenz 10 20
+
+MapCode 1571
+AcerMacr 20 30
+AlnuRubr 20
+PseuMenz 20 30 40
+TsugHete 20
+
+MapCode 1572
+AlnuRubr 20 30 40
+PiceSitc 30 40
+PseuMenz 30 40 80
+TsugHete 30 40 50 60
+
+MapCode 1573
+AbieGran 40 50
+CaloDecu 40 50 60
+PseuMenz 40 50
+
+MapCode 1574
+AcerMacr 20 30
+AlnuRubr 20 30
+PseuMenz 30 40 50 60
+
+MapCode 1575
+AlnuRubr 10
+PseuMenz 10 20 30
+TsugHete 20
+
+MapCode 1576
+PseuMenz 10
+
+MapCode 1577
+AlnuRubr 10 20 30 40 90
+TsugHete 80
+
+MapCode 1578
+AcerMacr 100
+ChamLaws 30
+LithDens 20 40
+PseuMenz 40 50 60 70 80 90 100
+
+MapCode 1579
+AlnuRubr 10
+PseuMenz 20 30 40
+TsugHete 20 40
+
+MapCode 1580
+AcerMacr 40
+AlnuRubr 20 30 40 50
+PseuMenz 30 40 50 60 70
+TsugHete 40
+
+MapCode 1581
+AbieProc 70
+AlnuRubr 30 40 50 60
+PseuMenz 70 80 90 110 120
+TsugHete 40 50
+
+MapCode 1582
+AcerMacr 20 30 40 50
+AlnuRubr 20 30 40
+PseuMenz 30 40 60
+
+MapCode 1583
+AlnuRubr 20 30
+PiceSitc 20
+PseuMenz 10 20 30
+TsugHete 60
+
+MapCode 1584
+PinuCont 50 60 70 80 100 160
+PseuMenz 10 20 30 60 100 110
+
+MapCode 1585
+PseuMenz 10 20
+TsugHete 20 30
+
+MapCode 1586
+AlnuRubr 30 40 50 70
+PiceSitc 50 60 80 90 100 120
+PseuMenz 60 70 110 120 140 200
+
+MapCode 1587
+AlnuRubr 20
+PiceSitc 30
+PseuMenz 10 20 30 40
+
+MapCode 1588
+PseuMenz 10 20 30
+
+MapCode 1589
+PiceSitc 20
+PseuMenz 10 20 30
+
+MapCode 1590
+PseuMenz 80 90 100 110 120 130 140 150 160 190
+ThujPlic 130
+TsugHete 40 50 60 70 80
+
+MapCode 1591
+PseuMenz 20 30 40 50
+
+MapCode 1592
+AlnuRubr 10 20
+PseuMenz 20 30
+ThujPlic 20
+TsugHete 20 30 60
+
+MapCode 1593
+AcerMacr 30 40
+PseuMenz 20 40
+
+MapCode 1594
+AlnuRubr 40
+PiceSitc 30 40 60 70
+PseuMenz 20 40
+TsugHete 20 30 40 50 60
+
+MapCode 1595
+PseuMenz 40 50 60 90
+
+MapCode 1596
+AbieGran 70
+AcerMacr 40 50
+AlnuRubr 20 40
+CaloDecu 40 60 80 90 190
+ChryChry 30
+PseuMenz 40 50 60 80 100 130 210 220 230 240 270
+
+MapCode 1597
+AlnuRubr 20 30 40 60
+PseuMenz 70
+ThujPlic 40
+TsugHete 70 120
+
+MapCode 1598
+AcerMacr 30 40
+AlnuRubr 40 50 60
+PseuMenz 80 120 170
+ThujPlic 60 70 150 230
+TsugHete 100
+
+MapCode 1599
+PiceSitc 50
+PinuCont 10 20 30 40 50 60 70 80
+
+MapCode 1600
+AcerMacr 30 50 60
+AlnuRubr 40
+PseuMenz 50 60 70 80 100 110 120 130 150 740
+
+MapCode 1601
+AlnuRubr 20 30 40
+ThujPlic 100 240 260
+TsugHete 30 40 50 60 110 130 150 170
+
+MapCode 1602
+AlnuRubr 20 30
+PseuMenz 30 40 50 60
+
+MapCode 1603
+PiceSitc 20 30 40 50 60 70 80
+TsugHete 40 50 60
+
+MapCode 1604
+ArbuMenz 30
+ChryChry 40 50
+PseuMenz 40 50 60 70 80
+TsugHete 40
+
+MapCode 1605
+AcerMacr 40
+PseuMenz 60 80 90 100 120 130 140 150 160 170 180 190 240 340
+ThujPlic 60 70 90
+TsugHete 40 50 60 70 80 110 120 180
+
+MapCode 1606
+TsugHete 50
+
+MapCode 1607
+PseuMenz 20
+QuerGarr 50 60 70 80 90
+QuerKell 80
+
+MapCode 1608
+PseuMenz 30 40 50 60
+TsugHete 40
+
+MapCode 1609
+AlnuRubr 10 20 30
+PiceSitc 30 50 60 70
+TsugHete 20 30 40 50
+
+MapCode 1610
+QuerGarr 40 100 120
+
+MapCode 1611
+PseuMenz 20 30 40 50
+
+MapCode 1612
+PseuMenz 10
+
+MapCode 1613
+AlnuRubr 30 40
+LithDens 20 30 50
+PseuMenz 20 30 40 50 60
+
+MapCode 1614
+AlnuRubr 10
+PseuMenz 10 20 30
+ThujPlic 20 40
+
+MapCode 1615
+PseuMenz 60 70 80 90 100 110 120 130 140 150 160 170 180
+TsugHete 30 40 50 80
+
+MapCode 1616
+ChamLaws 40 70 80 90 100 110 120 140
+PseuMenz 30 40 50 60 70 80
+TsugHete 40 50 60 80
+
+MapCode 1617
+PseuMenz 30 40 50 60 70 80 100
+TsugHete 50 90
+
+MapCode 1618
+ArbuMenz 50
+LithDens 40 50 60 70 80 90 100 140 180
+PseuMenz 70 180 190 230 240 250 260 290
+
+MapCode 1619
+AlnuRubr 20
+PinuCont 20 30 40 50 60
+
+MapCode 1620
+AlnuRubr 40 60
+PiceSitc 50 60 70 80 90 100
+PinuCont 90 100 110 130
+PseuMenz 30 50 60 70 80 90 100 130
+ThujPlic 100 110
+TsugHete 90
+
+MapCode 1621
+AcerMacr 50
+PseuMenz 40 50 60 70 80 90 100 120 150
+
+MapCode 1622
+AcerMacr 30 40
+AlnuRubr 20 30 40
+PseuMenz 40 50 60 70
+
+MapCode 1623
+AcerMacr 30 40 50 60 80
+AlnuRubr 40 50 60
+PiceSitc 70 90 110 150
+PseuMenz 60 70 80 100 110 120 130 140 150 160 190 200 230 280
+TsugHete 80
+
+MapCode 1624
+AcerMacr 50 60
+PseuMenz 50 60 70 80 90 100 110 120 130
+ThujPlic 60 80 90
+TsugHete 40 50 60 70 80
+
+MapCode 1625
+AcerMacr 40 50 60 70
+ChryChry 30
+PseuMenz 70 80 90 100 110 120 130 140 150 170
+ThujPlic 110
+TsugHete 30 40 50 60 70 80 100 120 150
+
+MapCode 1626
+AlnuRubr 20 30 40
+PseuMenz 20 30 40
+TsugHete 10 30 40 50
+
+MapCode 1627
+PseuMenz 30 40 50 60
+TsugHete 40 50 60 70
+
+MapCode 1628
+AlnuRubr 40
+PseuMenz 80 90 100 110 120 130 140 150 160 170 190 200 220 230 240 250 330
+TsugHete 70 100
+
+MapCode 1629
+AcerMacr 100
+AlnuRubr 20 50
+PseuMenz 20 30 40 50 60
+
+MapCode 1630
+AlnuRubr 20 30
+PseuMenz 20 30 40
+
+MapCode 1631
+AlnuRubr 40 50 60 80
+PiceSitc 70 110
+PseuMenz 50 80 90 110 120 140 150 160 170 180 190 220 240 260
+TsugHete 80 90
+
+MapCode 1632
+AlnuRubr 40 50 60
+PseuMenz 50 60 70 80 90 100 110 120 130 140 160 170 180
+ThujPlic 140
+
+MapCode 1633
+AlnuRubr 20 30 40
+PseuMenz 30 40 50 60
+
+MapCode 1634
+AcerMacr 40
+PseuMenz 50 60 70 80 90 100 110 120 130 140 150 160 180 190 200 210 280 300 370 380 400 420 430
+TsugHete 20 70
+
+MapCode 1635
+AlnuRubr 40 50 60
+PiceSitc 70
+PseuMenz 60 90 110 120 130 140 150 180 190 210 220 250 260
+TsugHete 110
+
+MapCode 1636
+AlnuRubr 20 30 40 50 60 70
+PseuMenz 40 50 60 70 80 90 100 110 120 140 150 160 170 190 220
+
+MapCode 1637
+AlnuRubr 30 40 50
+PseuMenz 40 50 60 70
+
+MapCode 1638
+AlnuRubr 20
+PseuMenz 30 40 50 60 70 80 90 100 110
+
+MapCode 1639
+AcerMacr 30 40 50 60 70 90
+AlnuRubr 30
+PseuMenz 60 70 80 90 100 110 120 130 140 180 210 220 240 270 280 290 300
+ThujPlic 110 300
+TsugHete 40 50 60 80 90
+
+MapCode 1640
+AlnuRubr 50 70
+PseuMenz 60 70 80 90 100 110 120 130 140 150 160 170 200 210 220 230 240 260
+TsugHete 70 80 100
+
+MapCode 1641
+PseuMenz 70 90 100 130 140 150 160 170 180 190 200 210 220 230 240 260 280 330 340 370
+
+MapCode 1642
+AcerMacr 60
+PseuMenz 40 60 70 80 90 100 110 120 130 140 160 170
+
+MapCode 1643
+AcerMacr 20 30 40
+AlnuRubr 40
+PseuMenz 20 30 40 50 60 70 80 120 150 160
+TsugHete 40 70
+
+MapCode 1644
+AcerMacr 50
+AlnuRubr 40 70 80
+PseuMenz 40 60 70 80 90 100 120 130 140 150 160 170 180 190 200 210 220 250 260 270
+TsugHete 100
+
+MapCode 1645
+AlnuRubr 30 40
+PiceSitc 40 50 60 70 80
+PseuMenz 20 30 40 50 60 70 80
+TsugHete 40 50 60 70
+
+MapCode 1646
+AlnuRubr 30
+PiceSitc 80 120 130 140
+PseuMenz 90 100 120
+TsugHete 30 40 50 60 70 80 90 100 110 120 130 140 160 180 200
+
+MapCode 1647
+AcerMacr 30 40 50 60 70 80 100
+AlnuRubr 60
+PseuMenz 60 70 80 90 100 110 120 130 140 150 170 180 200
+
+MapCode 1648
+AlnuRubr 20
+PseuMenz 30 40 50 60
+
+MapCode 1649
+PseuMenz 20 30 40 50
+
+MapCode 1650
+AlnuRubr 10 20
+PiceSitc 10 20
+PseuMenz 10 20 60
+
+MapCode 1651
+AlnuRubr 20 30
+PseuMenz 80 90 110 120 130 140 150 160 170 180 190 200 220 240 380
+TsugHete 40
+
+MapCode 1652
+AlnuRubr 20 30 40 60
+PiceSitc 20 30 40 50 80
+PseuMenz 20 30 40 50 60 70 80
+TsugHete 30 40 50 60 70 80
+
+MapCode 1653
+PseuMenz 30 40 50 60
+TsugHete 90
+
+MapCode 1654
+AlnuRubr 10 20 30 40
+PseuMenz 10 20 30 40
+ThujPlic 20 30 40
+TsugHete 20 30 40
+
+MapCode 1655
+AcerMacr 50 60 90
+AlnuRubr 40 50 60 70
+PseuMenz 70 160 170 180 190 200 220 230 250
+ThujPlic 150
+
+MapCode 1656
+AlnuRubr 40 50 60 70 80 90
+PseuMenz 60 70 80 90 100 110 120 130 160 170 240
+
+MapCode 1657
+AlnuRubr 30 40 50 60 70
+PseuMenz 60 70 80 90 100 110 130 160 310
+
+MapCode 1658
+AcerMacr 30 40 60
+AlnuRubr 40 50 60
+PseuMenz 40 50 60 70 80 90 100 110 120 130 140 160 190 200 210 220 230 240 250 260 270 300 310 380 440
+
+MapCode 1659
+AlnuRubr 70
+PiceSitc 60 70 80 90 170
+PseuMenz 50 60 70 80 90 100 110 130 140 150
+ThujPlic 40 50 60 70
+TsugHete 60 70 90 100 120
+
+MapCode 1660
+PiceSitc 30 40 50
+PseuMenz 20 30 40
+
+MapCode 1661
+AlnuRubr 20 30 40
+PiceSitc 30 50
+PseuMenz 20 50
+ThujPlic 40
+TsugHete 10 20 30 40 50 60
+
+MapCode 1662
+AlnuRubr 20 30 40
+PiceSitc 40 50
+PseuMenz 20 30 40 50 60
+ThujPlic 30
+TsugHete 30 40 50 60 70
+
+MapCode 1663
+PiceSitc 40 60 70 80 90 100 110 120 130 140 160 240
+PseuMenz 90 100 130 160 210
+TsugHete 30 40 50 60 70 80 100 150
+
+MapCode 1664
+AlnuRubr 20 30 40 50 60
+PiceSitc 90 140 210
+PseuMenz 70 80 90 100 140 150 190 220
+TsugHete 30 40 50 70 80 90 100 110 120 140 150
+
+MapCode 1665
+AlnuRubr 30 40 50 60 80
+PiceSitc 40 50 60 70 80 90 100 120 130
+PseuMenz 110 150
+TsugHete 80
+
+MapCode 1666
+AlnuRubr 20 40 50
+PiceSitc 30 40 50 60
+PseuMenz 10 20 30 40
+TsugHete 20 30 40 50 60 80
+
+MapCode 1667
+AlnuRubr 10 20
+PiceSitc 20 30 40
+PseuMenz 10 20
+
+MapCode 1668
+AlnuRubr 30 40 50 60 80
+PiceSitc 70 80
+PseuMenz 50 70 80 90 130
+
+MapCode 1669
+AlnuRubr 30 40 50 60 70 80
+PiceSitc 50 60 90 100 110
+PseuMenz 60 70 90 100 120 130 160 170 190 200 220 260
+ThujPlic 140
+TsugHete 80 140
+
+MapCode 1670
+AlnuRubr 20 30 40 50 60
+PseuMenz 60 70 80 90 100 110 120 130 140 170 190
+TsugHete 40 50 60 80 90 100 140
+
+MapCode 1671
+AlnuRubr 40 50 60 70
+PiceSitc 40 60 70 80 90 100 120 140 150 160
+
+MapCode 1672
+AlnuRubr 40 50 60 70 80
+PiceSitc 60
+PseuMenz 60 80 90 100 110 120 130 140 150 160 180 200 220
+TsugHete 70
+
+MapCode 1673
+AlnuRubr 40 50 60
+PiceSitc 50 70
+PseuMenz 60 70 80 90 100 110 120 130 140 160 190
+TsugHete 70 120
+
+MapCode 1674
+AlnuRubr 50 60
+PseuMenz 60 70 80 90 100 110 120 130 140 150 160 170 190
+TsugHete 80
+
+MapCode 1675
+AlnuRubr 20 30 40
+PiceSitc 50
+PseuMenz 20 30 40 50 60 70
+ThujPlic 40
+TsugHete 20 50 60
+
+MapCode 1676
+AlnuRubr 20 30
+PseuMenz 10 20 30
+TsugHete 20 30
+
+MapCode 1677
+ArbuMenz 50 60 70 80 90 100
+LithDens 40 50 60 70 80 90 100 110
+PseuMenz 60 130 190 220 230 240 260 270 300
+
+MapCode 1678
+ArbuMenz 30 40 50 60 70
+LithDens 30 40 50 60 80
+PseuMenz 30 40 50 60 80 90 100 120 130
+
+MapCode 1679
+LithDens 20 30 40 50
+PseuMenz 20 30 40 50 60 70 240 250 330
+
+MapCode 1680
+AbieGran 40
+AcerMacr 30 50 60
+ChryChry 20 30 40 50
+LithDens 30 40 50
+PseuMenz 30 40 50 60 70
+
+MapCode 1681
+AbieGran 30 40
+AcerMacr 30 40
+AlnuRubr 20 30 40 50
+ChamLaws 20 30 40
+LithDens 10 20 30 40 50 120 130
+PseuMenz 30 40
+
+MapCode 1682
+AbieGran 40
+AlnuRubr 10
+LithDens 40 50
+PiceSitc 70
+
+MapCode 1683
+CaloDecu 60 110 120 130
+ChamLaws 20 30 40 50 60 80 100 110 140 220 260
+LithDens 30 40
+PseuMenz 30 40 60 70 120
+
+MapCode 1684
+LithDens 20
+PinuLamb 230
+PseuMenz 20
+TsugHete 50
+
+MapCode 1685
+AcerMacr 90
+ArbuMenz 50 80 110 150 170
+LithDens 20 30 40 50 100
+PseuMenz 100 230 240 250 260 270 280 290 320 330 360 380 410 440
+
+MapCode 1686
+ArbuMenz 40
+ChryChry 40
+PinuLamb 20 40 60
+PseuMenz 20 40 200
+TsugHete 270
+
+MapCode 1687
+AcerMacr 120
+LithDens 10 20 30 40 50
+PseuMenz 30 40 50 60
+
+MapCode 1688
+AlnuRubr 30 40
+PseuMenz 30 40 50 60 70
+
+MapCode 1689
+ChryChry 30
+
+MapCode 1690
+PseuMenz 30 40 50 60 70 80 90
+
+MapCode 1691
+AbieGran 40 70
+AlnuRubr 20 30 40 50
+PseuMenz 30 60
+
+MapCode 1693
+PseuMenz 40 60 70 80 90
+
+MapCode 1694
+AlnuRubr 10
+PseuMenz 20 30 40
+
+MapCode 1695
+ArbuMenz 30 40 50
+PseuMenz 40 50 60 70 80 90 100 140 150 160
+
+MapCode 1696
+AcerMacr 20
+PseuMenz 20 30 40
+
+MapCode 1697
+ChryChry 20
+PseuMenz 30 40 50 60
+TsugHete 40 50 60
+
+MapCode 1698
+PseuMenz 20 30 40 50 60
+TsugHete 30 40
+
+MapCode 1699
+AbieGran 30 40 50 60 70 80 110 130
+AcerMacr 30 40 50 60
+PseuMenz 40 50 100 120 130 140 150 160 170 200 220 270 410 440
+
+MapCode 1700
+PseuMenz 30 40 50 60 70 110
+QuerKell 40 50
+
+MapCode 1701
+AbieGran 20 40
+CaloDecu 50 60 70 80 90 100 110 190
+PseuMenz 10 20 30 40 50 60 90 100 110 190 200 210 280
+
+MapCode 1702
+AlnuRubr 20 30
+PiceSitc 30 40 50 60 70 90 100
+PseuMenz 60
+
+MapCode 1703
+PseuMenz 30 40 50 60
+
+MapCode 1704
+AcerMacr 20
+PseuMenz 30 40 50 60 70
+TsugHete 30 50 60
+
+MapCode 1705
+PseuMenz 10 20 30 40 50
+
+MapCode 1706
+AlnuRubr 30 40
+PseuMenz 30 40 50 60
+TsugHete 50
+
+MapCode 1707
+AcerMacr 20 30 40
+AlnuRubr 20 30 40
+PseuMenz 30 40 50 60
+
+MapCode 1708
+ChryChry 30 40 60
+PseuMenz 30 40 50 60
+
+MapCode 1709
+AcerMacr 30
+PseuMenz 30 40 50 60
+ThujPlic 20 30 50 60
+TsugHete 30
+
+MapCode 1710
+AcerMacr 20
+AlnuRubr 20 30 40
+PseuMenz 10 20 30 40
+ThujPlic 20 40
+
+MapCode 1711
+PseuMenz 10 20
+TsugHete 10
+
+MapCode 1712
+AcerMacr 30 40 50 60 100
+AlnuRubr 30 40 50
+ChryChry 40
+PseuMenz 40 50 60 70 80 90 100
+TsugHete 40 60
+
+MapCode 1713
+AcerMacr 50 60 70
+AlnuRubr 20 30 40 50 60
+PseuMenz 140
+ThujPlic 50 60 80 120 150
+TsugHete 40 50 60 110 150
+
+MapCode 1714
+PseuMenz 50 70 80 90 110
+QuerGarr 40 50 80
+
+MapCode 1715
+PiceSitc 90
+PseuMenz 60 70 80 90 110 120 130 140 150 160 170 190 200 240
+TsugHete 50
+
+MapCode 1716
+AlnuRubr 50 90
+PseuMenz 100 120 300
+ThujPlic 80 220
+
+MapCode 1717
+PseuMenz 70 80 110 120 130 140 150 160 170 190 200 210
+ThujPlic 70
+
+MapCode 1718
+PseuMenz 30 40 50 60 70 80
+
+MapCode 1719
+PseuMenz 30 40 50 60
+TsugHete 30 40 50 60 70
+
+MapCode 1720
+AcerMacr 60 80
+AlnuRubr 30 60 70 80
+PseuMenz 140 150 160 200 220 230 240 250 280
+ThujPlic 90 100 140 150 160
+
+MapCode 1721
+AcerMacr 30 40 50
+PseuMenz 50 60 70 80 110 130 140 160 170 210
+ThujPlic 20 50 70
+TsugHete 60
+
+MapCode 1722
+AlnuRubr 40
+PseuMenz 20 30 40 50
+TsugHete 40
+
+MapCode 1723
+PseuMenz 20 30 40
+
+MapCode 1724
+AlnuRubr 20 30
+PiceSitc 20 90
+PseuMenz 20 30 40
+TsugHete 20 30 40 50 90
+
+MapCode 1725
+AlnuRubr 40 60
+PseuMenz 30 40 50 60 70 80 110 120 140 240
+
+MapCode 1726
+AlnuRubr 20 30 40
+PiceSitc 20 30 40 50 60
+
+MapCode 1727
+PseuMenz 50 60 70 90 100 110 120 130 140 160
+ThujPlic 50 60 70 100 120
+TsugHete 20 40 50 60 90 100 120
+
+MapCode 1728
+PseuMenz 30 40 50 60
+
+MapCode 1729
+AlnuRubr 30
+PseuMenz 30 40 50 60
+TsugHete 40
+
+MapCode 1730
+PiceSitc 90 100 110 120 130 140 150 160 180
+PseuMenz 100 110 120 130 140 150 160 170 200 210
+TsugHete 30 40 60 90 110 120 140 150 170 180
+
+MapCode 1731
+AlnuRubr 40 50
+PiceSitc 50 70 80 180
+TsugHete 30 40 50 60 80
+
+MapCode 1732
+AbieGran 10 40
+AcerMacr 20 30
+AlnuRubr 10 20
+PseuMenz 20 30 40
+
+MapCode 1733
+PseuMenz 30 40 50 60
+
+MapCode 1735
+AlnuRubr 20 30 40
+PiceSitc 80
+PseuMenz 20 30 40 120 150
+
+MapCode 1736
+PseuMenz 40 50 60 70
+TsugHete 40 50 60 80
+
+MapCode 1737
+PiceSitc 40 50 60 70
+PseuMenz 30 40 50
+TsugHete 30 40 50 60 70
+
+MapCode 1738
+PseuMenz 30 40 50 60 70
+
+MapCode 1739
+AlnuRubr 20 30
+PseuMenz 10 20 30
+TsugHete 20 30
+
+MapCode 1740
+AlnuRubr 20 40 50
+PseuMenz 30 40 50 60 70 80 120
+
+MapCode 1741
+PseuMenz 30 40 50 70
+TsugHete 30 40 50 60
+
+MapCode 1742
+PseuMenz 20 30 40 50
+TsugHete 20 30 40 50 60 70
+
+MapCode 1743
+AbieProc 30 50 70
+PseuMenz 30 40 50 60 70 80
+TsugHete 40 50 60 70 80 90 110
+
+MapCode 1744
+AlnuRubr 20
+PseuMenz 20 30 40
+
+MapCode 1745
+PseuMenz 120 170 290
+ThujPlic 80
+
+MapCode 1746
+AcerMacr 20 30
+PseuMenz 30 40 50 60 70 90 120 140 150 180
+
+MapCode 1747
+PseuMenz 20
+
+MapCode 1748
+AbieGran 40
+PiceSitc 20 30 40
+PseuMenz 30 40 60
+ThujPlic 30 40 50 60 70
+TsugHete 30 40 60 70 80
+
+MapCode 1749
+PiceSitc 70
+TsugHete 40 50 60 70 80 100
+
+MapCode 1750
+AlnuRubr 10 20 30
+PseuMenz 20 30 40 50
+TsugHete 30
+
+MapCode 1751
+AcerMacr 10
+AlnuRubr 10
+PseuMenz 10 20
+
+MapCode 1752
+AlnuRubr 10 30
+TsugHete 20 30 40
+
+MapCode 1754
+AlnuRubr 20 30 40
+PseuMenz 40 50
+TsugHete 40 50 60 100
+
+MapCode 1755
+AcerMacr 20 30
+AlnuRubr 20
+PseuMenz 20 30 40
+
+MapCode 1756
+AcerMacr 20
+AlnuRubr 20 30
+PiceSitc 30
+PseuMenz 10 20
+TsugHete 10 20 30
+
+MapCode 1757
+AlnuRubr 40
+PiceSitc 30 60 100 110 220 230
+
+MapCode 1759
+LithDens 20 30 40 50 60
+PseuMenz 20 30 40 50
+SequSemp 30 40 50 60 70 80 90 120
+
+MapCode 1760
+LithDens 20 30
+PseuMenz 30 40 50 60 70
+
+MapCode 1761
+ArbuMenz 20
+LithDens 60 70 90 110
+PseuMenz 120 230
+
+MapCode 1762
+ArbuMenz 30 40 60
+LithDens 20 30 40 50 60 70
+PseuMenz 40 60 120 150
+
+MapCode 1763
+LithDens 20 40 50 60 100 130
+PseuMenz 100 120 130 170 200 210 220 230 240 250 260 270 280 390
+
+MapCode 1764
+ArbuMenz 40
+ChamLaws 20
+LithDens 10 20 30 40
+PseuMenz 20 30 40 50 60 70 80 90
+TsugHete 30
+
+MapCode 1765
+ChryChry 30 40 50
+LithDens 30 40
+PseuMenz 40 50 60 70
+
+MapCode 1766
+AlnuRubr 40
+ChamLaws 60
+LithDens 30 40
+PseuMenz 30 40 50 60 70
+
+MapCode 1767
+ArbuMenz 60 70
+CaloDecu 40
+ChryChry 40 50 60
+PinuLamb 40
+PseuMenz 60 70 80 90 100 110 120 130 150 160 180 190 220 230 240 280
+
+MapCode 1768
+PseuMenz 20 40 70 80 90 100 110 120
+
+MapCode 1769
+AbieGran 40
+CaloDecu 40
+PseuMenz 30 40 50 60 70 80
+
+MapCode 1770
+PseuMenz 10 20
+
+MapCode 1771
+AlnuRubr 30
+ChamLaws 30 40 50 60 70 80 100
+ChryChry 30
+PseuMenz 20 30 40 50
+
+MapCode 1772
+AcerMacr 30 40 50 60
+LithDens 20 30 40
+PseuMenz 30 40 50 60 70
+TsugHete 60
+
+MapCode 1774
+ChamLaws 50
+PiceSitc 40 50 60 70 80 100 120
+PseuMenz 10 20 40 50
+TsugHete 30 40
+
+MapCode 1775
+AlnuRubr 20 30 40
+PseuMenz 60 100
+
+MapCode 1776
+PseuMenz 180 220 230 320 360 390
+ThujPlic 280 310
+TsugHete 60 80 90 120 140
+
+MapCode 1777
+PseuMenz 20 30 40
+TsugHete 20 30 40
+
+MapCode 1778
+PseuMenz 30
+
+MapCode 1779
+PseuMenz 80 100 110 130 160 180 190 200 210 220 230 240 250 260 300 310
+
+MapCode 1780
+PseuMenz 130 150 160 170 200 210 220 250 260 280 290 390
+ThujPlic 150 170 270
+TsugHete 50 60 70 80 90 100 110 130 140 150 160
+
+MapCode 1781
+PseuMenz 20 30 40 50
+
+MapCode 1782
+AlnuRubr 20 30 40
+PseuMenz 40 50 60 70 90 100 120 130 140 150 170 180 210
+TsugHete 90
+
+MapCode 1783
+AcerMacr 30 40
+AlnuRubr 30
+ArbuMenz 30
+PseuMenz 30 40 50 60 70 80
+
+MapCode 1784
+PseuMenz 20 40 50 60 70 80
+
+MapCode 1785
+AcerMacr 30 40
+AlnuRubr 20
+ThujPlic 70
+
+MapCode 1786
+AcerMacr 60
+PseuMenz 10 20 30 40 50 60 70 80 90 110
+
+MapCode 1787
+AlnuRubr 30 40 50
+PseuMenz 20 30 40 50
+ThujPlic 40 50 60
+TsugHete 60
+
+MapCode 1788
+PiceSitc 20 60
+PseuMenz 10 20
+SequSemp 10 20 30
+
+MapCode 1789
+AcerMacr 40 60 70
+AlnuRubr 20 30 40
+PseuMenz 40 50 60 100 270 290
+TsugHete 30
+
+MapCode 1790
+AlnuRubr 50 80
+PiceSitc 150
+PseuMenz 60 100 140 160 170 220
+ThujPlic 90
+TsugHete 30 70 80
+
+MapCode 1791
+PseuMenz 30 40 50 60 70
+
+MapCode 1792
+AlnuRubr 20 30
+PiceSitc 40 60
+PinuCont 50
+PseuMenz 50 60
+ThujPlic 40 50 60
+TsugHete 30 40 50
+
+MapCode 1793
+AlnuRubr 20
+PseuMenz 30 40 50 60
+
+MapCode 1794
+PseuMenz 70 80 100 110 120 130 140 150 160 170 180 210 220
+TsugHete 40 50 60 70 80 120 130
+
+MapCode 1795
+AlnuRubr 60 80
+PseuMenz 70 140 150 160 170 180 190 210 220 240 250 280
+TsugHete 50 60 70 80 90 120
+
+MapCode 1796
+PseuMenz 20 30
+
+MapCode 1797
+PseuMenz 20 30 40
+
+MapCode 1798
+AlnuRubr 10 20
+PseuMenz 20 30 40 50
+TsugHete 20
+
+MapCode 1799
+PseuMenz 10 20 30
+TsugHete 20 30
+
+MapCode 1800
+PseuMenz 10 20
+
+MapCode 1801
+AlnuRubr 20
+PseuMenz 20 30 40 50 60 70
+TsugHete 20 30 40 50 70
+
+MapCode 1802
+AlnuRubr 40 60
+PseuMenz 100 110 120 130 140 190
+TsugHete 40 70 80 90
+
+MapCode 1803
+AlnuRubr 20 30
+PiceSitc 50
+PseuMenz 30 40
+TsugHete 30 40 50 60 70
+
+MapCode 1804
+AlnuRubr 20 30 40
+PseuMenz 20 30 40 50 60 70
+TsugHete 30 40 60
+
+MapCode 1805
+AlnuRubr 50 70 90
+PiceSitc 30
+PseuMenz 70 120 160 170
+
+MapCode 1806
+AlnuRubr 40 80
+PseuMenz 70 80 90 100 110 120 130 140 160 190 250
+
+MapCode 1807
+AcerMacr 50 60 70
+AlnuRubr 30 40 60 70
+PseuMenz 40 50 60 80 120 140 490
+
+MapCode 1808
+AbieGran 40 60
+AcerMacr 30 40 50 60
+AlnuRubr 40 50
+PseuMenz 70 80 100 110
+TsugHete 50
+
+MapCode 1809
+PiceSitc 20 30 40
+PinuCont 10 20 30 40
+PseuMenz 30
+TsugHete 10
+
+MapCode 1810
+AlnuRubr 20 30 40 50
+PseuMenz 40 50
+
+MapCode 1811
+AbieGran 30 40 50 60 70 90
+PseuMenz 30 40 50 60 100 120 130
+
+MapCode 1812
+AcerMacr 30 40 50 60
+PseuMenz 40 50 60 70 80 90 100 150
+
+MapCode 1813
+PseuMenz 10 20
+
+MapCode 1814
+PseuMenz 20 30 40
+
+MapCode 1815
+AlnuRubr 30 40
+PseuMenz 40 50 60 70 80 90 120
+ThujPlic 40 50 60 70 140
+TsugHete 40 50 60 100
+
+MapCode 1816
+AlnuRubr 30 40
+PiceSitc 40 50 60
+TsugHete 30 40 50 60
+
+MapCode 1817
+PseuMenz 30 40
+TsugHete 30 40 50 60
+
+MapCode 1818
+AlnuRubr 10 20 30
+PseuMenz 20 50 70 80 170
+
+MapCode 1819
+AlnuRubr 30 50
+PseuMenz 30 40 50
+
+MapCode 1820
+PseuMenz 10 20 30
+
+MapCode 1821
+AlnuRubr 20 30
+PseuMenz 10 20 30
+
+MapCode 1822
+PseuMenz 30 40 50 60 70 80
+TsugHete 50 60
+
+MapCode 1823
+AlnuRubr 20 30
+PseuMenz 20 30
+TsugHete 20 30 40 50 60
+
+MapCode 1824
+PseuMenz 40 50
+TsugHete 40 80 90 100 110 120 160 170
+
+MapCode 1829
+AlnuRubr 20 30 40
+PseuMenz 20 30 40
+
+MapCode 1830
+PseuMenz 20 50 60 70 80 90 110 120 130 200 210 220
+QuerGarr 60 70 80 100 120
+SequSemp 20
+
+MapCode 1831
+AcerMacr 80
+LithDens 30 40
+PseuMenz 40 50 80 120
+
+MapCode 1833
+AcerMacr 160
+ArbuMenz 140 150
+LithDens 20 30 40 50 60 70 80 90 100 110 140 150 170 240
+PseuMenz 40 50 90 140 170 180 210 220 240 250 270 280 360 500
+
+MapCode 1834
+PseuMenz 40 50 100 110 120 130 140 160 180 200 220 230 240
+
+MapCode 1835
+LithDens 20 30 40 50 60
+PseuMenz 60 70 80 90 100 110 130 150 200
+
+MapCode 1836
+ChamLaws 90 100
+LithDens 40 50 60
+PseuMenz 160 260 270 290 300 310 320 360 370 390 440 490 520
+ThujPlic 100
+TsugHete 70 80 90 100 110 170
+
+MapCode 1837
+AlnuRubr 20 30 40
+PseuMenz 30 50 60 70 80 90 100
+ThujPlic 40 60
+TsugHete 40 60 70 80 100
+
+MapCode 1838
+AbieGran 30 40 50
+LithDens 20 30 40
+PseuMenz 30 40 60
+ThujPlic 60
+TsugHete 60
+
+MapCode 1839
+AbieGran 50 60 70
+ArbuMenz 60
+PinuLamb 160
+PinuPond 80 90 110 140 160 180 190 200 220 240 260
+PseuMenz 40 50 60 70 80 100 180 220 230
+
+MapCode 1840
+CaloDecu 60
+PseuMenz 20 30 40 50 60
+
+MapCode 1841
+ArbuMenz 30
+PinuCont 40 50 60
+PseuMenz 40
+
+MapCode 1842
+AbieGran 50
+AlnuRubr 20 30 40 60
+LithDens 20 30 40
+PseuMenz 30 40 50 60 70 120
+
+MapCode 1843
+PseuMenz 30 50 60 70 80 90
+ThujPlic 40
+
+MapCode 1844
+AcerMacr 40 50 60 70 80 120
+AlnuRubr 50
+ArbuMenz 30 40
+CaloDecu 20 30 40 50 60 70 80 100 120
+PseuMenz 20 40 50 90 100
+
+MapCode 1845
+AlnuRubr 20 30
+PiceSitc 30 50
+PseuMenz 20 30 40 50
+
+MapCode 1846
+AlnuRubr 20
+PseuMenz 20 30
+
+MapCode 1847
+AlnuRubr 10
+PseuMenz 10 20
+
+MapCode 1848
+AcerMacr 30 40
+AlnuRubr 10 20 30 40 50
+
+MapCode 1849
+ChamLaws 30 50 100
+PiceSitc 100
+PseuMenz 20 40 70
+
+MapCode 1850
+AlnuRubr 40
+PseuMenz 30 40 50 60 70 80
+ThujPlic 40 50
+
+MapCode 1852
+PseuMenz 40 50 60 70 80
+
+MapCode 1853
+AlnuRubr 10
+PseuMenz 10 20
+TsugHete 20
+
+MapCode 1854
+AlnuRubr 40
+PseuMenz 40 50 60 80
+TsugHete 40 50 60
+
+MapCode 1855
+AcerMacr 60
+PseuMenz 50 70 80 90 120 130 140 150 160 170 180 230
+
+MapCode 1856
+AcerMacr 80 110
+AlnuRubr 30 40 50
+PseuMenz 40
+ThujPlic 170
+
+MapCode 1857
+PseuMenz 50 60 80 90 100
+
+MapCode 1858
+PseuMenz 50 60 70 100 110 120 150 160 190 340
+
+MapCode 1859
+AcerMacr 30 60
+PseuMenz 60 80 90 100 110 140 150 170 180 200
+TsugHete 50 60 70 80 90
+
+MapCode 1860
+AcerMacr 20
+PseuMenz 20 30 40
+
+MapCode 1861
+AlnuRubr 20 30
+PseuMenz 10 20 30
+TsugHete 20 30 40
+
+MapCode 1862
+PseuMenz 10 20
+
+MapCode 1863
+AcerMacr 30 40 80
+PseuMenz 30 40 50 60 70
+
+MapCode 1864
+AcerMacr 30 40 50
+AlnuRubr 30
+PseuMenz 30 40 50 60
+
+MapCode 1865
+PseuMenz 20 30
+
+MapCode 1866
+PseuMenz 50 60 70 80
+
+MapCode 1867
+AbieGran 50 60 70 80
+AlnuRubr 10 20
+PseuMenz 10 20 30
+ThujPlic 60
+TsugHete 10
+
+MapCode 1868
+PinuCont 20 30 50 60
+PseuMenz 20 30 40 50 60 100 140
+TsugHete 40
+
+MapCode 1869
+AlnuRubr 20 30 40
+PiceSitc 30 40
+PseuMenz 20 30 40
+ThujPlic 30 40
+TsugHete 20 30 40 50
+
+MapCode 1870
+AlnuRubr 20
+PseuMenz 20 30 40
+
+MapCode 1871
+AlnuRubr 50
+PseuMenz 50 70 80 90 140 160 210 300 440 470
+TsugHete 70 100 130 140
+
+MapCode 1873
+AcerMacr 40
+PseuMenz 40 50 60 70
+
+MapCode 1874
+AlnuRubr 60 90
+PseuMenz 100 120 130 140 150 160 170 180 190 210 220 230 400
+ThujPlic 80
+
+MapCode 1875
+PseuMenz 30 40 50 60 80 90
+ThujPlic 50
+
+MapCode 1876
+AcerMacr 30
+PseuMenz 30 40 50 60
+
+MapCode 1877
+AlnuRubr 20
+PiceSitc 40 50 60
+PseuMenz 20 30 40 50
+TsugHete 20 30 40 50
+
+MapCode 1878
+PseuMenz 40 50 60 70 80 90 100 200 270
+
+MapCode 1879
+AcerMacr 40
+AlnuRubr 30 40 50 60
+
+MapCode 1881
+PseuMenz 260 280 300 340 370
+ThujPlic 80 90 160
+TsugHete 50 60 70 100 110 120 130 140 150 160 170 180
+
+MapCode 1882
+AcerMacr 30 40 60
+PseuMenz 40 50 60 70 80 100
+
+MapCode 1883
+AlnuRubr 20 30 50
+PiceSitc 20 30 50 60
+PseuMenz 40 90
+
+MapCode 1884
+AcerMacr 70 80
+AlnuRubr 30 40 70 80
+PseuMenz 50 90 120 170
+
+MapCode 1885
+PseuMenz 30
+
+MapCode 1886
+AcerMacr 20 30
+PseuMenz 20 30 40
+
+MapCode 1887
+PseuMenz 10 20
+
+MapCode 1888
+AlnuRubr 10
+PseuMenz 10 20
+
+MapCode 1889
+AbieGran 40
+AcerMacr 30 40
+PseuMenz 20 30 40 50 60 70 80 90 110 120 130 150
+QuerGarr 50 60 70 80 110
+
+MapCode 1890
+AlnuRubr 70 80 90
+PseuMenz 100 110 120 130 150 160 180 190 200
+
+MapCode 1891
+AlnuRubr 30 40
+PiceSitc 30
+PseuMenz 30 40
+TsugHete 30 40 50 60 90 100 110 120
+
+MapCode 1892
+AcerMacr 20 40
+PseuMenz 50 60 90 100
+QuerGarr 40 90 110
+
+MapCode 1893
+AcerMacr 20 30
+AlnuRubr 30
+PseuMenz 30 40 140
+
+MapCode 1894
+AcerMacr 30
+ArbuMenz 40 50
+PseuMenz 30 40 50 60 70 80
+
+MapCode 1895
+AlnuRubr 20
+PseuMenz 80 110
+TsugHete 20 30 40 60 70 100 120
+
+MapCode 1896
+AlnuRubr 20 30 40
+PiceSitc 30 40 50 60 80 100 110
+TsugHete 40 50
+
+MapCode 1897
+AlnuRubr 30 40 50 60
+PseuMenz 40 50 60 70 80 90 140
+
+MapCode 1899
+PseuMenz 20 30 40 50 60 70 80 400
+TsugHete 70
+
+MapCode 1900
+AlnuRubr 40 60
+PseuMenz 40 50 60 70 80 90 100 120 130
+
+MapCode 1902
+AcerMacr 30
+PseuMenz 20 30
+
+MapCode 1903
+AlnuRubr 20 30 40 50 60
+TsugHete 30 40 50 60 100
+
+MapCode 1904
+AlnuRubr 30 40 50
+PseuMenz 60 110 120 130 140 160 180
+
+MapCode 1905
+AlnuRubr 20 30 40
+PiceSitc 40 50
+PseuMenz 20 30 40
+TsugHete 30 40 50
+
+MapCode 1907
+PseuMenz 10 20 30 40
+TsugHete 20 30 40 50
+
+MapCode 1908
+AlnuRubr 20 30
+PseuMenz 10 70
+TsugHete 20 60
+
+MapCode 1909
+AlnuRubr 20 30 40
+PseuMenz 20 30 40 50 60
+TsugHete 30 50 70 90 130

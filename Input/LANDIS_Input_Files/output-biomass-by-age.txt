@@ -1,0 +1,27 @@
+LandisData  "Output Biomass-by-Age"
+
+Timestep   10
+
+MapNames   spp-bio-age/{species}-{ageclass}-{timestep}.img
+
+Species		AbieGran	regen(0-10)
+		AbieProc	regen(0-10)
+		AcerMacr	regen(0-10)
+		AlnuRubr	regen(0-10)
+		ArbuMenz	regen(0-10)
+		CaloDecu	regen(0-10)
+		ChamLaws	regen(0-10)
+		ChryChry	regen(0-10)
+		LithDens	regen(0-10)
+		PiceSitc	regen(0-10)
+		PinuCont	regen(0-10)
+		PinuLamb	regen(0-10)
+		PinuPond	regen(0-10)
+		PseuMenz	regen(0-10)
+		QuerGarr	regen(0-10)
+		QuerKell	regen(0-10)
+		SequSemp	regen(0-10)
+		ThujPlic	regen(0-10)
+		TsugHete	regen(0-10)
+
+

@@ -1,0 +1,26 @@
+LandisData  Scenario
+
+Duration  90
+
+Species   CR_species.txt
+
+Ecoregions      CR_ecoregion.txt
+EcoregionsMap   CR_EcoregionMap_4ha_2015-12-15.img
+
+CellLength  200 << meters, 200 x 200 m = 4 ha
+
+>> Succession Extension    	 Initialization File
+>> --------------------     	-------------------
+   "Century Succession"   	 CR_Century_BNU.txt
+
+>> Disturbance Extensions  	 Initialization File
+>> ----------------------   	-------------------
+   "Dynamic Leaf Biomass Fuels"	CR_Dynamic_Leaf_Biomass_Fuels.txt
+   "Dynamic Fire System"	CR_Dynamic_Fire.txt
+   "Leaf Biomass Harvest"  	CR_Harvest_AccelHarv_2015-07-31.txt
+
+>> Other Extensions         	Initialization File
+>> ----------------         	-------------------
+   "Output Leaf Biomass"    	output-leaf-biomass.txt
+   "Output Biomass-by-Age"	output-biomass-by-age.txt
+   "Output Cohort Statistics"	output-cohort-stats.txt

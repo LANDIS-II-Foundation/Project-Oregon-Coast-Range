@@ -1,0 +1,239 @@
+LandisData "Leaf Biomass Harvest"
+
+Timestep 10
+
+ManagementAreas "./CR_MgtAreaMap_4ha_2015-01-12.img"
+
+Stands "./CR_StandMap_4ha_2014-12-15.img"
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> PRESCRIPTIONS >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+>>> CLEAR-CUT HARVEST
+
+Prescription Clearcut_plant
+	StandRanking	Random
+	MinimumAge	45
+	MaximumAge	200
+	SiteSelection	Complete
+	CohortsRemoved	ClearCut
+	Plant		PseuMenz
+
+Prescription Clearcut_plant_Hemlock
+	StandRanking	Random
+	MinimumAge	45
+	MaximumAge	200
+	ForestTypeTable
+		>> Incl Rule	Age	Percent	Species	
+		Required	40-60	highest	TsugHete
+	SiteSelection	Complete
+	CohortsRemoved	ClearCut
+	Plant		TsugHete
+
+>>> THINNING TREATMENTS ON NON-PRODUCTION LANDS
+
+Prescription Thin_40-80		<< Thinning with age cap at 80 years
+	StandRanking	MaxCohortAge	<< Thin oldest stands first before they become too old to harvest
+	MinimumAge	40
+	MaximumAge	80
+	SiteSelection	Complete
+	CohortsRemoved	SpeciesList
+		>>Species 	Selection
+		>>-------	---------
+		AbieGran	40-80(50%)
+		AbieProc	40-80(50%)
+		AcerMacr	40-80(50%)
+		AlnuRubr	40-80(50%)
+		ArbuMenz	40-80(50%)
+		CaloDecu	40-80(50%)
+>>		ChamLaws			<< don't remove Port Orford cedar
+		ChryChry	40-80(50%)
+		LithDens	40-80(50%)
+		PiceSitc	40-80(50%)
+		PinuCont	40-80(50%)
+>>		PinuLamb			<< don't remove sugar pine
+>>		PinuPond			<< don't remove ponderosa pine
+		PseuMenz	40-80(80%)	<< remove mostly Douglas-fir to promote species diversity (80% of cohorts)
+>>		QuerGarr			<< don't remove oak
+>>		QuerKell			<< don't remove oak
+>>		SequSemp			<< don't remove sequoia
+		ThujPlic	40-80(50%)
+		TsugHete	40-80(50%)
+
+Prescription Thin_40-110		<< Thinning with age cap at 110 years
+	StandRanking	MaxCohortAge	<< Thin oldest stands first before they become too old to harvest
+	MinimumAge	40
+	MaximumAge	110
+	SiteSelection	Complete
+	CohortsRemoved	SpeciesList
+		>>Species 	Selection
+		>>-------	---------
+		AbieGran	40-110(50%)
+		AbieProc	40-110(50%)
+		AcerMacr	40-110(50%)
+		AlnuRubr	40-110(50%)
+		ArbuMenz	40-110(50%)
+		CaloDecu	40-110(50%)
+>>		ChamLaws			<< don't remove Port Orford cedar
+		ChryChry	40-110(50%)
+		LithDens	40-110(50%)
+		PiceSitc	40-110(50%)
+		PinuCont	40-110(50%)
+>>		PinuLamb			<< don't remove sugar pine
+>>		PinuPond			<< don't remove ponderosa pine
+		PseuMenz	40-110(80%)	<< remove mostly Douglas-fir to promote species diversity (80% of cohorts)
+>>		QuerGarr			<< don't remove oak
+>>		QuerKell			<< don't remove oak
+>>		SequSemp			<< don't remove sequoia
+		ThujPlic	40-110(50%)
+		TsugHete	40-110(50%)
+
+>>> COMMERCIAL THINNING TREATMENTS ON PRODUCTION LANDS
+
+Prescription Thin_30-50
+	StandRanking	Random
+	MinimumAge	30
+	MaximumAge	50
+	SiteSelection	Complete
+	CohortsRemoved	SpeciesList
+		>>Species 	Selection
+		>>-------	---------
+		AbieGran	30-50(60%)
+		AbieProc	30-50(60%)
+		AcerMacr	30-50(60%)
+		AlnuRubr	30-50(60%)
+		ArbuMenz	30-50(60%)
+		CaloDecu	30-50(60%)
+		ChamLaws	30-50(60%)
+		ChryChry	30-50(60%)
+		LithDens	30-50(60%)
+		PiceSitc	30-50(60%)
+		PinuCont	30-50(60%)
+		PinuLamb	30-50(60%)
+		PinuPond	30-50(60%)
+		PseuMenz	30-50(60%)
+		QuerGarr	30-50(60%)
+		QuerKell	30-50(60%)
+		SequSemp	30-50(60%)
+		ThujPlic	30-50(60%)
+		TsugHete	30-50(60%)
+
+>>> RETENTION HARVEST (MODIFIED CLEAR-CUT)
+
+Prescription RetentionHarv_PlantDF
+	StandRanking	Random
+	MinimumAge	50
+	SiteSelection	Complete
+	CohortsRemoved	SpeciesList
+		>>Species 	Selection
+		>>-------	---------
+		AbieGran	10-100(100%) 101-200(80%)
+		AbieProc	10-100(100%) 101-200(80%)
+		AcerMacr	10-100(100%) 101-200(80%)
+		AlnuRubr	10-100(100%) 101-200(80%)
+		ArbuMenz	10-100(100%) 101-200(80%)
+		CaloDecu	10-100(100%) 101-200(80%)
+		ChamLaws	10-100(100%) 101-200(80%)
+		ChryChry	10-100(100%) 101-200(80%)
+		LithDens	10-100(100%) 101-200(80%)
+		PiceSitc	10-100(100%) 101-200(80%)
+		PinuCont	10-100(100%) 101-200(80%)
+		PinuLamb	10-100(100%) 101-200(80%)
+		PinuPond	10-100(100%) 101-200(80%)
+		PseuMenz	10-100(100%) 101-200(80%)
+		QuerGarr	10-100(100%) 101-200(80%)
+		QuerKell	10-100(100%) 101-200(80%)
+		SequSemp	10-100(100%) 101-200(80%)
+		ThujPlic	10-100(100%) 101-200(80%)
+		TsugHete	10-100(100%) 101-200(80%)
+	Plant PseuMenz
+
+Prescription RetentionHarv_PlantMix
+	StandRanking	Random
+	MinimumAge	50
+	SiteSelection	Complete
+	CohortsRemoved	SpeciesList
+		>>Species 	Selection
+		>>-------	---------
+		AbieGran	10-60(100%) 70-100(80%)
+		AbieProc	10-60(100%) 70-100(80%)
+		AcerMacr	10-60(100%) 70-100(80%)
+		AlnuRubr	10-60(100%) 70-100(80%)
+		ArbuMenz	10-60(100%) 70-100(80%)
+		CaloDecu	10-60(100%) 70-100(80%)
+>>		ChamLaws			<< don't remove Port Orford cedar
+		ChryChry	10-60(100%) 70-100(80%)
+		LithDens	10-60(100%) 70-100(80%)
+		PiceSitc	10-60(100%) 70-100(80%)
+		PinuCont	10-60(100%) 70-100(80%)
+>>		PinuLamb			<< don't remove sugar pine
+>>		PinuPond			<< don't remove ponderosa pine
+		PseuMenz	10-60(100%) 70-100(80%)
+>>		QuerGarr			<< don't remove oak
+>>		QuerKell			<< don't remove oak
+>>		SequSemp			<< don't remove sequoia
+>>		ThujPlic			<< don't remove cedar
+		TsugHete	10-60(100%) 70-100(80%)
+	Plant PseuMenz TsugHete ThujPlic PiceSitc
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> HARVEST IMPLEMENTATIONS >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>--------------------------------------------------------------------------------------------------
+>>	Mgt	Ownership
+>>	Area	Description
+>> ------------------------------------
+>>	1	BLM-1
+>>	2	BLM-3
+>>	3	BLM-4
+>>	4	BLM-5
+>>	5	FS-1
+>>	6	FS-3
+>>	7	FS-4
+>>	8	FS-5
+>>	9	PNIF (private nonindustrial forest)
+>>	10	PIF (private industrial forest)
+>>	11	State-1
+>>	12	State-3
+>>	13	State-4
+>>	14	State-5
+>>	15	Tribal
+>>	16	PNIF - nonharvested (fragments in Willamette Valley)
+
+HarvestImplementations
+>> Harvest Area = (timestep)/(rotation period)*100 = percent of landscape to be harvested per timestep (e.g., 10/50 * 100 = 20%)
+
+>> 	Mgmt	Prescription			Harvest
+>>	Area					Area
+>> ----------------------------------------------------
+>>	1					unharvested
+	2 	Thin_40-80			8%		<<120 year rotation
+	3 	Thin_40-110			8%		<<120 year rotation
+	4 	Thin_30-50			10%		<<100 year rotation
+	4	RetentionHarv_PlantMix		10%		<<100 year rotation
+>>	5					unharvested
+	6	Thin_40-80			8%		<<120 year rotation
+	7	Thin_40-110			8%		<<120 year rotation
+	8	Thin_40-110			10%		<<100 year rotation
+	9	Thin_30-50			16%		<<60 year rotation
+	9	Clearcut_plant			16%		<<60 year rotation
+	10 	Clearcut_plant			15%		<<55 year rotation between two prescriptions
+	10 	Clearcut_plant_Hemlock		3%		<<55 year rotation between two prescriptions
+>>	11					unharvested		
+	12	Thin_40-80			8%		<<120 year rotation
+	13	Thin_30-50			9%		<<110 year rotation
+	13	RetentionHarv_PlantMix		9%		<<110 year rotation
+	14	Thin_30-50			14%		<<70 year rotation
+	14	RetentionHarv_PlantDF		14%		<<70 year rotation
+	15	Thin_30-50			14%		<<70 year rotation
+	15	RetentionHarv_PlantMix		14%		<<70 year rotation
+>>	16					unharvested
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> OUTPUT FILES >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+PrescriptionMaps	harvest/prescripts-{timestep}.img
+BiomassMaps		harvest/biomass-removed-{timestep}.img
+EventLog		harvest/event-log.csv
+SummaryLog		harvest/summary-log.csv

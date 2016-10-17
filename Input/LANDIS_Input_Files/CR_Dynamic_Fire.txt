@@ -1,0 +1,81 @@
+LandisData  "Dynamic Fire System"
+
+Timestep  1
+
+ClimateConfigFile	Climate-generator_CR_Historic.txt
+
+RelativeHumiditySlopeAdjust	33.05
+
+EventSizeType	duration_based  <<'size_based' or 'duration_based'
+
+BuildUpIndex	Y	<< yes or no; Y or N
+
+DynamicFireRegionTable	CR_Dynamic_Fire_Region_Table.txt
+
+InitialFireRegionsMap	CR_FireRegionMap_4ha_2014-12-15.img
+
+>>DynamicEcoregionTable
+
+GroundSlopeFile		CR_Slope_2015-01-09.img
+UphillSlopeAzimuthMap	CR_Aspect_Up_2015-01-09.img
+
+
+SeasonTable
+>> Season  Leaf,    Prop of  Percent  DayLength	 Start  End
+>> Name    Status   Fires    Curing   Prop       Day    Day
+>> ------  -------  -------  -------  ---------  -----  ---
+>> Winter (Jan-Feb) - no fires possible
+   Spring  LeafOn   0.25     50		1.0      60	181	<< Mar-Jun
+   Summer  LeafOn   0.71     90		1.0      182	304	<< Jul-Oct
+   Fall    LeafOff  0.04     70		1.0      305	365	<< Nov-Dec
+
+
+InitialWeatherDatabase   Fire_Weather_Data.csv  << won't need this in later versions - use data from Alec's file as placeholder for now
+
+DynamicWeatherTable
+>>Year  FileName
+
+
+FuelTypeTable
+>> Allowed base types:  Conifer, ConiferPlantation, Deciduous, Slash, Open
+>> Allowed surface types:  See Canadian Fire Behavior System (CFBS)
+
+>> All fuel types are from Lake Tahoe files
+
+>> Index BaseType    SurfType InitProb	a	b	c	q	BUI	maxBE	CBH	FWIScale FWIShape
+
+   1	Conifer		C2	1.0	110	0.0282	1.5	0.50	500	1.321	1	0.3	-4	<< young mixed conifer - from SN
+   2	Conifer		C2	1.0	110	0.0282	1.5	0.70	64	1.321	2	0.3	-4	<< mid-aged mixed conifer - from SN
+   3	Conifer		C2	1.0	110	0.0282	1.5	0.70	64	1.321	4	0.3	-4	<< old mixed conifer - copied all parameters from type 2 except CBH
+
+   4	Conifer		C2	1.0	110	0.0282	1.5	0.50	500	1.321	1	0.34	-4.4	<< young pine - from SN pine/white fir
+   5	Conifer	  	C3	1.0	72	0.05	3.5	0.70	62	1.261	2	0.34	-4.4	<< mid-aged pine - from SN pine/white fir
+   6	Conifer   	C3	1.0	72	0.05	3.5	0.70	62	1.261	5	0.34	-4.4	<< old pine - from SN pine/white fir
+
+   7	Conifer 	C2	1.0	110	0.0282	1.5	0.50	500	1.321	1	0.2	-3.6	<< young cedar/hemlock/sequoia - from SN young sequoia
+   8	Conifer 	C6	1.0	30	0.0800	3.0	0.80	62	1.197	3	0.2	-3.6	<< mid-aged cedar/hemlock/sequoia - from SN mid-aged sequoia
+   9	Conifer 	C6	1.0	30	0.0800	3.0	0.80	62	1.197	10	0.2	-3.6	<< old cedar/hemlock/sequoia - from SN old sequoia
+
+  10	Deciduous	C7	1.0	14	0.12376	2.827	0.90	32	1.179	1	0.2	-3.6	<< young deciduous - from SN
+  11	Deciduous	C7	1.0	14	0.12376	2.827	0.90	32	1.179	2	0.2	-3.6	<< old deciduous - from SN
+
+  12	Deciduous	D1	1.0	14	0.12376	2.827	0.90	75	1.067	2	0.25	-3.6	<< oak - from NJ oak upland (TL6)
+
+
+SeverityCalibrationFactor  1
+
+
+FireDamageTable
+>> Cohort Age       FireSeverity - 
+>> % of longevity   FireTolerance
+>> --------------   --------------
+	5%	-4
+	10%	-3
+	20%	-2
+	50%	-1
+	85%	0
+	100%	1
+
+
+MapNames  fire/severity-{timestep}.img
+

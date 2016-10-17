@@ -1,0 +1,9 @@
+LandisData  "Output Cohort Statistics"
+
+Timestep   10
+
+SiteAgeStats
+
+MapNames   spp-age-stats/AGE-{statistic}-{timestep}.img
+
+MAX			<< maximum age across all species on site

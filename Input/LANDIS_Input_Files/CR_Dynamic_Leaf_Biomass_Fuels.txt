@@ -1,0 +1,44 @@
+LandisData  "Dynamic Leaf Biomass Fuels"
+
+>> From Sierra Nevada LANDIS work
+
+Timestep  1
+
+>> Species Fuel Coefficients (default value 1 if not listed)
+>> 		 Fuel 
+>> Species 	 Coefficient 
+>> -------- 	 ----------- 
+
+HardwoodMaximum 20 << required
+
+DeadFirMaxAge 25 << required
+
+FuelTypes
+
+>> Fuel Base	Age Range	Species
+>> Type	Type
+>> ---  ------	---------	----------------------------------------
+   1	Conifer	0 to 40		AbieGran AbieProc CaloDecu PiceSitc PseuMenz << young mixed conifer - from SN
+   2	Conifer	41 to 80	AbieGran AbieProc CaloDecu PiceSitc PseuMenz << mid-aged mixed conifer - from SN
+   3	Conifer	81 to 1500	AbieGran AbieProc CaloDecu PiceSitc PseuMenz << old mixed conifer - from SN
+
+   4	Conifer	0 to 40		PinuCont PinuLamb PinuPond << young pine - from SN pine/white fir
+   5	Conifer	41 to 80	PinuCont PinuLamb PinuPond << mid-aged pine - from SN pine/white fir
+   6	Conifer	81 to 1500	PinuCont PinuLamb PinuPond << old pine - from SN pine/white fir
+	
+   7	Conifer	0 to 40		ChamLaws SequSemp ThujPlic TsugHete << young cedar/hemlock/sequoia - from SN young sequoia
+   8	Conifer	41 to 80	ChamLaws SequSemp ThujPlic TsugHete << mid-aged cedar/hemlocksequoia - from SN mid-aged sequoia
+   9	Conifer	81 to 3000	ChamLaws SequSemp ThujPlic TsugHete << old cedar/hemlocksequoia - from SN old sequoia
+
+  10	Deciduous 0 to 40	AcerMacr AlnuRubr << young deciduous - from SN
+  11	Deciduous 41 to 1000	AcerMacr AlnuRubr << old deciduous - from SN
+
+  12	Deciduous 0 to 1000	ArbuMenz ChryChry LithDens QuerGarr QuerKell << oak - from NJ oak upland (TL6)
+
+
+DisturbanceConversionTable
+
+
+MapFileNames		DFFS-output/FuelType-{timestep}.img  
+
+

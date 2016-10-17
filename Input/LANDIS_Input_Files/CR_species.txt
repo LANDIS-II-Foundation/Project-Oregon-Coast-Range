@@ -1,0 +1,27 @@
+LandisData  Species
+>>Final values from 2014-12-29
+
+>>		Longe-	Sexual	Shade	Fire	Seed Disp Dist	Veg Rep	Sprout Age	Post-Fire
+>> Name		vity	Matur	Tol.	Tol.	Effect	Max	Prob	Min	Max	Regen 
+>> ----		-----	------	-----	----	--------------	------	-----------	--------
+AbieGran	325	20	4	2	60	250	0	0	0	none
+AbieProc	400	25	2	1	60	600	0	0	0	none
+AcerMacr	200	10	4	2	50	250	0.4	1	150	resprout
+AlnuRubr	100	7	2	2	400	1000	0.2	2	13	resprout
+ArbuMenz	325	5	3	1	200	800	0.8	4	325	resprout
+CaloDecu	200	10	4	2	60	250	0	0	0	none
+ChamLaws	500	7	5	3	180	1050	0	0	0	none
+ChryChry	450	40	3	3	100	800	0.8	2	400	resprout
+LithDens	250	35	4	3	100	400	0.8	2	250	resprout
+PiceSitc	600	30	3	1	90	900	0	0	0	none
+PinuCont	250	7	1	2	60	250	0	0	0	none
+PinuLamb	500	7	2	3	50	250	0	0	0	none
+PinuPond	450	7	1	5	120	300	0	0	0	none
+PseuMenz	750	15	2	4	140	2000	0	0	0	none
+QuerGarr	200	40	2	5	100	400	0.8	3	200	resprout
+QuerKell	200	30	3	4	100	400	0.9	3	200	resprout
+SequSemp	2200	10	4	5	120	300	0.8	10	1500	resprout
+ThujPlic	1000	20	5	2	130	1600	0	0	0	none
+TsugHete	425	25	5	1	320	1500	0	0	0	none
+
+

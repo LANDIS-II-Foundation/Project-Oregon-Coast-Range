@@ -1,0 +1,162 @@
+LandisData "Leaf Biomass Harvest"
+
+Timestep 10
+
+ManagementAreas "./CR_MgtAreaMap_4ha_2015-01-12.img"
+
+Stands "./CR_StandMap_4ha_EcolFor_2015-03-20.img"
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> PRESCRIPTIONS >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+>>> CLEAR-CUT HARVEST
+
+Prescription Patchcut_plantDF_80
+	StandRanking	Random
+	MinimumAge	35
+	SiteSelection	PatchCutting	80%   4	PercentCut
+	CohortsRemoved	ClearCut
+	Plant		PseuMenz
+
+Prescription Patchcut_plantDF_70
+	StandRanking	Random
+	MinimumAge	35
+	SiteSelection	PatchCutting	70%   4	PercentCut
+	CohortsRemoved	ClearCut
+	Plant		PseuMenz
+
+Prescription Patchcut_NoPlant_60
+	StandRanking	Random
+	MinimumAge	35
+	SiteSelection	PatchCutting	60%   4	PercentCut
+	CohortsRemoved	ClearCut
+
+Prescription Patchcut_NoPlant_70
+	StandRanking	Random
+	MinimumAge	35
+	SiteSelection	PatchCutting	70%   4	PercentCut
+	CohortsRemoved	ClearCut
+
+>>> THINNING TREATMENTS ON NON-PRODUCTION LANDS
+
+Prescription Thin_40-80		<< Thinning with age cap at 80 years
+	StandRanking	MaxCohortAge	<< Thin oldest stands first before they become too old to harvest
+	MinimumAge	40
+	MaximumAge	80
+	SiteSelection	Complete
+	CohortsRemoved	SpeciesList
+		>>Species 	Selection
+		>>-------	---------
+		AbieGran	40-80(50%)
+		AbieProc	40-80(50%)
+		AcerMacr	40-80(50%)
+		AlnuRubr	40-80(50%)
+		ArbuMenz	40-80(50%)
+		CaloDecu	40-80(50%)
+>>		ChamLaws			<< don't remove Port Orford cedar
+		ChryChry	40-80(50%)
+		LithDens	40-80(50%)
+		PiceSitc	40-80(50%)
+		PinuCont	40-80(50%)
+>>		PinuLamb			<< don't remove sugar pine
+>>		PinuPond			<< don't remove ponderosa pine
+		PseuMenz	40-80(80%)	<< remove mostly Douglas-fir to promote species diversity (80% of cohorts)
+>>		QuerGarr			<< don't remove oak
+>>		QuerKell			<< don't remove oak
+>>		SequSemp			<< don't remove sequoia
+		ThujPlic	40-80(50%)
+		TsugHete	40-80(50%)
+
+>>> COMMERCIAL THINNING TREATMENT with selected species left to promote species diversity
+
+Prescription ThinSelect_30-50
+	StandRanking	Random
+	MinimumAge	30
+	MaximumAge	50
+	SiteSelection	Complete
+	CohortsRemoved	SpeciesList
+		>>Species 	Selection
+		>>-------	---------
+		AbieGran	30-50(60%)
+		AbieProc	30-50(60%)
+		AcerMacr	30-50(60%)
+		AlnuRubr	30-50(60%)
+		ArbuMenz	30-50(60%)
+		CaloDecu	30-50(60%)
+>>		ChamLaws			<< don't remove Port Orford cedar
+		ChryChry	30-50(60%)
+		LithDens	30-50(60%)
+		PiceSitc	30-50(60%)
+		PinuCont	30-50(60%)
+>>		PinuLamb			<< don't remove sugar pine
+>>		PinuPond			<< don't remove ponderosa pine
+		PseuMenz	30-50(60%)
+>>		QuerGarr			<< don't remove oak
+>>		QuerKell			<< don't remove oak
+>>		SequSemp			<< don't remove sequoia
+		ThujPlic	30-50(60%)
+		TsugHete	30-50(60%)
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> HARVEST IMPLEMENTATIONS >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>--------------------------------------------------------------------------------------------------
+>>	Mgt	Ownership
+>>	Area	Description
+>> ------------------------------------
+>>	1	BLM-1
+>>	2	BLM-3
+>>	3	BLM-4
+>>	4	BLM-5
+>>	5	FS-1
+>>	6	FS-3
+>>	7	FS-4
+>>	8	FS-5
+>>	9	PNIF (private nonindustrial forest)
+>>	10	PIF (private industrial forest)
+>>	11	State-1
+>>	12	State-3
+>>	13	State-4
+>>	14	State-5
+>>	15	Tribal
+>>	16	PNIF - nonharvested (fragments in Willamette Valley)
+
+HarvestImplementations
+>> Harvest Area = (timestep)/(rotation period)*100 = percent of landscape to be harvested per timestep (e.g., 10/50 * 100 = 20%)
+
+>> 	Mgmt	Prescription			Harvest
+>>	Area					Area
+>> ----------------------------------------------------
+>>	1					unharvested
+	2 	Thin_40-80			8%		<<120 year rotation
+	3 	ThinSelect_30-50		8%		<<120 year rotation
+	3 	Patchcut_NoPlant_70		8%		<<120 year rotation
+	4 	ThinSelect_30-50		10%		<<100 year rotation
+	4 	Patchcut_NoPlant_70		10%		<<100 year rotation
+>>	5					unharvested
+	6	Thin_40-80			8%		<<120 year rotation
+	7	ThinSelect_30-50		8%		<<120 year rotation
+	7	Patchcut_NoPlant_60		8%		<<120 year rotation
+	8	ThinSelect_30-50		10%		<<100 year rotation
+	8	Patchcut_NoPlant_70		10%		<<100 year rotation
+	9	ThinSelect_30-50		16%		<<60 year rotation
+	9	Patchcut_plantDF_80		16%		<<60 year rotation
+	10 	Patchcut_plantDF_80		25%		<<40 year rotation
+>>	11					unharvested		
+	12	Thin_40-80			8%		<<120 year rotation
+	13	ThinSelect_30-50		8%		<<120 year rotation
+	13	Patchcut_plantDF_70		8%		<<120 year rotation
+	14	ThinSelect_30-50		10%		<<100 year rotation
+	14	Patchcut_plantDF_70		10%		<<100 year rotation
+	15	ThinSelect_30-50		10%		<<100 year rotation
+	15	Patchcut_plantDF_80		10%		<<100 year rotation
+>>	16					unharvested
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> OUTPUT FILES >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+PrescriptionMaps	harvest/prescripts-{timestep}.img
+BiomassMaps		harvest/biomass-removed-{timestep}.img
+EventLog		harvest/event-log.csv
+SummaryLog		harvest/summary-log.csv
